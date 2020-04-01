@@ -1,0 +1,2505 @@
+ID,Account 18 Digit ID,Account Name,Parent ID,Parent Name
+9273,001o000000ivYQnAAM,Indianapolis Power & Light Company (AES),001o000000ivWbDAAU,AES Corporation
+4922,001o000000ivWfSAAU,Dayton Power & Light,001o000000ivWbDAAU,AES Corporation
+12647,001o000000ivYLNAA2,ALLETE,001o000000ivYLNAA2,ALLETE
+18336,001o000000ivXYLAA2,Superior Water and Light Company,001o000000ivYLNAA2,ALLETE
+20856,0011J00001EW9FdQAL,Wisconsin Power & Light Co.,001o000000ivX5MAAU,Alliant Energy
+9417,0011J00001CumurQAB,Interstate Power and Light Company,001o000000ivX5MAAU,Alliant Energy
+19436,001o000000ivWXAAA2,Ameren Missouri,001o000000ivVwVAAU,Ameren Corporation
+56697,001o000000ivVwUAAU,Ameren Illinois,001o000000ivVwVAAU,Ameren Corporation
+14006,001o000000ivYQkAAM,AEP Ohio,001o000000ivWZqAAM,American Electric Power
+9324,001o000000ivYQ6AAM,Indiana Michigan Power,001o000000ivWZqAAM,American Electric Power
+22053,001o000000ivXscAAE,Kentucky Power Company,001o000000ivWZqAAM,American Electric Power
+15474,001o000000ivXK9AAM,Public Service Company of Oklahoma,001o000000ivWZqAAM,American Electric Power
+733,001o000000ivWYOAA2,Appalachian Power Company,001o000000ivWZqAAM,American Electric Power
+17698,001o000000ivVKDAA2,Southwestern Electric Power Company,001o000000ivWZqAAM,American Electric Power
+3278,001o000000ivVKCAA2,AEP Texas,001o000000ivWZqAAM,American Electric Power
+20977,001o000000ivZBTAA2,"Woodsfield, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+21048,001o000000ivZBOAA2,Wyandotte Municipal Serv Comm,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+21101,001o000000ivZBIAA2,"Yellow Springs, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+21160,001o000000ivZAxAAM,"Zelienople, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20232,001o000000ivZ3CAAU,"Weatherly, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20471,001o000000ivZ2rAAE,"Wharton, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20731,001o000000ivZ2bAAE,"Williamstown, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+4794,001o000000ivZ0YAAU,"Danville, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+14650,001o000000ivZ0IAAU,"Pemberville, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+4683,001o000000ivZ0iAAE,"Cuyahoga Falls, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7359,001o000000ivYZVAA2,"Goldsboro, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7445,001o000000ivYZOAA2,Grafton Village of,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+2056,001o000000ivYzIAAU,"Bowling Green, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+14954,001o000000ivYyTAAU,Philippi Municipal Electric,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5096,001o000000ivYykAAE,"Deshler, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7643,001o000000ivYYDAA2,"Greenwich, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+14792,001o000000ivYycAAE,"Perkasie, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7719,001o000000ivYY3AAM,"Grove City, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+2205,001o000000ivYxZAAU,"Brewster, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5336,001o000000ivYxIAAU,"Dover, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7977,001o000000ivYWlAAM,"Hamilton, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5442,001o000000ivYvsAAE,"Duncannon, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+8240,001o000000ivYVCAA2,"Haskins, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+8254,001o000000ivYVAAA2,"Hatfield, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5586,001o000000ivYu5AAE,"East Conemaugh, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+8631,001o000000ivYTyAAM,Hillsdale Board of Public Wks,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+15541,001o000000ivYtdAAE,"Quakertown, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5935,001o000000ivYSPAA2,"Ephrata, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5828,001o000000ivYScAAM,"Ellwood City, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5833,001o000000ivYSbAAM,"Elmore, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+8949,001o000000ivYS7AAM,"Hubbard, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+8972,001o000000ivYS5AAM,"Hudson, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+3170,001o000000ivYpPAAU,"Catawissa, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+3216,001o000000ivYpKAAU,"Celina, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+6803,001o000000ivYNmAAM,"Front Royal, Town of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+10494,001o000000ivYnLAAU,"Kutztown, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+10616,001o000000ivYlQAAU,"Lakeview, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+10702,001o000000ivYl6AAE,"Lansdale, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+9613,001o000000ivYk0AAE,"Lebanon, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+10882,001o000000ivYjwAAE,"Lehighton, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+3732,001o000000ivYhZAAU,"Clayton, Town of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+3813,001o000000ivYhTAAU,"Clinton, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+4061,001o000000ivYdvAAE,"Columbiana, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+14194,001o000000ivYdRAAU,"Orrville, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+6914,001o000000ivYaoAAE,"Galion, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7100,001o000000ivYaEAAU,"Genoa, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7256,001o000000ivYa2AAE,"Girard, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12302,001o000000ivXY7AAM,"Mendon, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12474,001o000000ivXXYAA2,"Middletown, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12478,001o000000ivXXWAA2,"Middletown, Town of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12540,001o000000ivXXRAA2,"Milford, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12660,001o000000ivXWsAAM,"Minster, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+3915,001o000000ivXqXAAU,Coldwater Board of Public Utilities,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+17891,001o000000ivXowAAE,City of St. Marys,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13209,001o000000ivXmOAAU,"Napoleon, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13420,001o000000ivXlXAAU,"New Bremen, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13424,001o000000ivXlVAAU,New Castle Municipal Serv Comm,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13464,001o000000ivXlSAAU,"New Knoxville, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13489,001o000000ivXk5AAE,"New Wilmington, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13519,001o000000ivXk3AAE,Newark City of,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13563,001o000000ivXjtAAE,"Newton Falls, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13602,001o000000ivXjqAAE,"Niles, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+11739,001o000000ivXbEAAU,"Marshallville, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+11770,001o000000ivXbCAAU,"Martinsville, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5335,001o000000ivX2IAAU,"Dover, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+768,001o000000ivWYKAA2,"Arcanum, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+17865,001o000000ivWwHAAU,"St. Clairsville, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+18284,001o000000ivWt0AAE,"Summerhill, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+1618,001o000000ivWRWAA2,"Berlin, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+1677,001o000000ivWQzAAM,"Bloomdale, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+1823,001o000000ivWPhAAM,"Blakely, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+1832,001o000000ivWPfAAM,"Blanchester, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+282,001o000000ivWHAAA2,"Arcadia, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+560,001o000000ivWEAAA2,"Amherst, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+19951,001o000000ivWdxAAE,"Wadsworth, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20070,001o000000ivWclAAE,"Wampum, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20077,001o000000ivWckAAE,"Wapakoneta, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20206,001o000000ivWbLAAU,Watsontown Borough of,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20223,001o000000ivWbFAAU,"Waynesfield, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+10935,001o000000ivWB8AAM,"Lewes, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+15982,001o000000ivW4yAAE,"Richlands, Town of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+16780,001o000000ivW1vAAE,"Schuylkill Haven, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+16852,001o000000ivW0uAAE,"Seaford, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+17098,001o000000ivVznAAE,"Shiloh, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+17337,001o000000ivVynAAE,"Smethport, Bourough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+17457,001o000000ivVykAAE,"Smyrna, Town of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+18393,001o000000ivVXYAA2,"Sycamore, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+18941,001o000000ivVXWAA2,"Tipp City, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+17588,001o000000ivVxJAAU,"South Vienna, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+2128,001o000000ivVWsAAM,"Bradner, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+2442,001o000000ivVWrAAM,"Bryan, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+3008,001o000000ivVWqAAM,"Carey, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+19805,001o000000ivVWpAAM,"Versailles, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20313,001o000000ivVWnAAM,"Wellington, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+3824,001o000000ivVWkAAM,"Clyde, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+4725,001o000000ivVWjAAM,Custar Board of Public Affairs,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+7311,001o000000ivVWiAAM,"Glouster, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+20979,001o000000ivVWhAAM,"Woodville, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12811,001o000000ivVWgAAM,"Monroeville, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+4685,001o000000ivVWfAAM,"Cygnet, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5653,001o000000ivVW5AAM,"Edgerton, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12861,001o000000ivVW4AAM,"Montpelier, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+5752,001o000000ivVVUAA2,"Eldorado, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13471,001o000000ivVVRAA2,New Martinsville Municipal Electric,001o000000ivZ4WAAU,"American Municipal Power, Inc"
+13932,001o000000ivVVPAA2,"Oak Harbor, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+10959,001o000000ivVVOAA2,"Lewisberry, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+11126,001o000000ivVVNAA2,"Lodi, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+11296,001o000000ivVVMAA2,"Lucas, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+14381,001o000000ivVVKAA2,"Painesville, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+15072,001o000000ivVVJAA2,"Pioneer, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+15203,001o000000ivVVHAA2,"Plymouth, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12523,001o000000ivVUZAA2,"Mifflinburg, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+16853,001o000000ivVUYAA2,"Saint Clair, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+12533,001o000000ivVUXAA2,"Milan, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+17043,001o000000ivVUWAA2,"Shelby, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+15432,001o000000ivVUbAAM,"Prospect, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+16375,001o000000ivVUaAAM,"Royalton, Borough of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+15865,001o000000ivVqlAAE,"Republic, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+1386,001o000000ivVJTAA2,"Beach City, Village of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+1456,001o000000ivVJSAA2,"Bedford, City of",001o000000ivZ4WAAU,"American Municipal Power, Inc"
+14864,001o000000ivYyXAAU,Petit Jean Electric Cooperavie,001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+6342,001o000000ivYPUAA2,First Electric Cooperative,001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+12681,001o000000ivXWpAAM,"Mississippi County Electric Cooperative, Inc.",001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+2678,001o000000ivXMhAAM,C & L Electric Cooperative Corporation,001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+3712,001o000000ivXM6AAM,Clay County Electric Cooperative Corporation,001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+15811,001o000000ivXHsAAM,"Rich Mountain Electric Cooperative, Inc.",001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+13676,001o000000ivXhKAAU,"North Arkansas Electric Cooperative, Inc",001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+20963,001o000000ivX86AAE,Woodruff Electric Cooperative,001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+817,001o000000ivWY8AAM,Arkansas Valley Electric Cooperative,001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+925,001o000000ivWXEAA2,"Ashley Chicot Elec Coop, Inc",001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+6206,0011J000019pNoKQAU,"Farmers Electric Cooperative, Inc.",001o000000ivYaxAAE,Arkansas Electric Cooperative Corporation
+3266,001o000000ivYXSAA2,Central Maine Power Company,001o000000ivXvJAAU,AVANGRID
+16183,001o000000ivW44AAE,Rochester Gas and Electric Corporation,001o000000ivXvJAAU,AVANGRID
+13511,001o000000ivVZhAAM,New York State Electric & Gas Corporation,001o000000ivXvJAAU,AVANGRID
+17166,001o000000ivZ1lAAE,Pacific Power,001o000000ivViNAAU,Berkshire Hathaway Energy
+12341,001o000000ivXnwAAE,MidAmerican Energy Company,001o000000ivViNAAU,Berkshire Hathaway Energy
+13407,001o000000ivXlZAAU,NV Energy,001o000000ivViNAAU,Berkshire Hathaway Energy
+14354,001o000000ivXG1AAM,PacifiCorp,001o000000ivViNAAU,Berkshire Hathaway Energy
+56146,001o000000ivXWlAAM,Black Hills Energy (CO),001o000000ivXbaAAE,Black Hills Corporation
+19545,001o000000ivWjRAAU,Black Hills Power Inc (SD),001o000000ivXbaAAE,Black Hills Corporation
+40437,001o000000ivZ4bAAE,Emerald People's Utility District,001o000000ivWPtAAM,Bonneville Power Administration
+20385,001o000000ivZ31AAE,West Oregon Electric Coop Inc,001o000000ivWPtAAM,Bonneville Power Administration
+4743,001o000000ivZ0cAAE,"Consumers Power, Inc",001o000000ivWPtAAM,Bonneville Power Administration
+5327,001o000000ivYxKAAU,"Douglas Electric Coop, Inc",001o000000ivWPtAAM,Bonneville Power Administration
+5354,001o000000ivYxGAAU,"Drain, City of",001o000000ivWPtAAM,Bonneville Power Administration
+8515,001o000000ivYUAAA2,"Hermiston, City of",001o000000ivWPtAAM,Bonneville Power Administration
+2955,001o000000ivYsYAAU,Canby Utility Board,001o000000ivWPtAAM,Bonneville Power Administration
+8830,001o000000ivYSxAAM,Hood River Electric Coop,001o000000ivWPtAAM,Bonneville Power Administration
+6022,001o000000ivYRbAAM,Eugene Water & Electric Board,001o000000ivWPtAAM,Bonneville Power Administration
+3136,001o000000ivYqmAAE,"Cascade Locks, City of",001o000000ivWPtAAM,Bonneville Power Administration
+6582,001o000000ivYOWAA2,"Forest Grove, City of",001o000000ivWPtAAM,Bonneville Power Administration
+4005,001o000000ivYfZAAU,"Columbia Basin Elec Cooperative, Inc",001o000000ivWPtAAM,Bonneville Power Administration
+11589,001o000000ivYcXAAU,"Harney Electric Coop, Inc",001o000000ivWPtAAM,Bonneville Power Administration
+4317,001o000000ivYcIAAU,"Coos-Curry Electric Cooperative, Inc.",001o000000ivWPtAAM,Bonneville Power Administration
+12439,001o000000ivXXyAAM,"Midstate Electric Cooperative, Inc.",001o000000ivWPtAAM,Bonneville Power Administration
+12615,001o000000ivXXMAA2,"Milton-Freewater, City of",001o000000ivWPtAAM,Bonneville Power Administration
+12789,001o000000ivXWdAAM,"Monmouth, City of",001o000000ivWPtAAM,Bonneville Power Administration
+20138,001o000000ivX87AAE,"Wasco Electric Cooperative, Inc.",001o000000ivWPtAAM,Bonneville Power Administration
+10681,001o000000ivX15AAE,Lane Electric Cooperative,001o000000ivWPtAAM,Bonneville Power Administration
+1176,001o000000ivWVhAAM,"Bandon, City of",001o000000ivWPtAAM,Bonneville Power Administration
+1736,001o000000ivWPuAAM,Blachly-Lane County Cooperative Electric Association,001o000000ivWPtAAM,Bonneville Power Administration
+18917,001o000000ivWpQAAU,Tillamook Peoples Utility Dist,001o000000ivWPtAAM,Bonneville Power Administration
+19325,001o000000ivWlIAAU,Umatilla Electric Coop Assn,001o000000ivWPtAAM,Bonneville Power Administration
+21002,001o000000ivZBQAA2,York Electric Coop Inc,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+14557,001o000000ivZ0VAAU,"Pee Dee Electric Coop, Inc",001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+2212,001o000000ivYxXAAU,"Broad River Electric Coop, Inc",001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+5644,001o000000ivYtwAAE,"Edisto Electric Coop, Inc",001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+5929,001o000000ivYSRAA2,"Fairfield Electric Coop, Inc",001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+3844,001o000000ivYfnAAE,"Coastal Electric Cooperative, Inc.",001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+11355,001o000000ivYe9AAE,"Lynches River Elec Coop, Inc",001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+12462,001o000000ivXXwAAM,Mid-Carolina Electric Coop Inc,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+13524,001o000000ivXjzAAE,Newberry Electric Cooperative,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+1890,001o000000ivXe5AAE,Blue Ridge Electric Cooperative,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+8786,001o000000ivXe4AAE,Horry Electric Cooperative,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+10768,001o000000ivXe3AAE,Laurens Electric Cooperative,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+11019,001o000000ivXe2AAE,Little River Electric Cooperative,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+14398,001o000000ivXe1AAE,Palmetto Electric Cooperative,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+14175,001o000000ivXdzAAE,Tri-County Electric Cooperative,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+11693,001o000000ivXbKAAU,"Marlboro Electric Coop, Inc",001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+1613,001o000000ivWRXAA2,Berkeley Electric Coop Inc,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+162,001o000000ivVwZAAU,Aiken Electric Coop Inc,001o000000ivZ5AAAU,"Central Electric Power Cooperative, Inc."
+14154,001o000000ivYdaAAE,"Orange and Rockland Utilities, Inc.",001o000000ivW60AAE,conEdison
+4226,001o000000ivXVaAAM,"Consolidated Edison Company of New York, Inc.",001o000000ivW60AAE,conEdison
+16213,001o000000ivVvAAAU,Rockland Electric Co.,001o000000ivW60AAE,conEdison
+4237,001o000000ivYdjAAE,Consolidated Electric Coop,001o000000ivYdjAAE,Consolidated Electric Coop
+12990,0011J00001DX1UIQA1,Consolidated Electric Coop,001o000000ivYdjAAE,Consolidated Electric Coop
+5416,001o000000ivYxBAAU,"Duke Energy Carolinas, LLC",001o000000ivWbAAAU,Duke Energy
+3046,001o000000ivYquAAE,Duke Energy Progress,001o000000ivWbAAAU,Duke Energy
+6455,001o000000ivYPHAA2,Duke Energy (FL),001o000000ivWbAAAU,Duke Energy
+3542,001o000000ivYjYAAU,Duke Energy Ohio Inc,001o000000ivWbAAAU,Duke Energy
+15470,001o000000ivWikAAE,Duke Energy Indiana,001o000000ivWbAAAU,Duke Energy
+11241,001o000000ivYfzAAE,Entergy Louisiana,001o000000ivXqqAAE,Entergy Corporation
+12685,001o000000ivXWoAAM,"Entergy Mississippi, Inc.",001o000000ivXqqAAE,Entergy Corporation
+814,001o000000ivWY9AAM,Entergy Arkansas,001o000000ivXqqAAE,Entergy Corporation
+55936,001o000000ivWiHAAU,Entergy Gulf States,001o000000ivXqqAAE,Entergy Corporation
+13478,001o000000ivWhHAAU,Entergy New Orleans,001o000000ivXqqAAE,Entergy Corporation
+55937,001o000000ivWhGAAU,Entergy Texas,001o000000ivXqqAAE,Entergy Corporation
+10000,001o000000ivYrzAAE,KCP&L,001o000000ivXUxAAM,"Evergy, Inc."
+22500,001o000000ivYN2AAM,Westar Energy,001o000000ivXUxAAM,"Evergy, Inc."
+12698,001o000000ivXUHAA2,KCP&L Greater Missouri Operations,001o000000ivXUxAAM,"Evergy, Inc."
+54913,001o000000ivZQ1AAM,NSTAR,001o000000ivW70AAE,Eversource Energy
+4176,001o000000ivZQ0AAM,Connecticut Light & Power,001o000000ivW70AAE,Eversource Energy
+14940,001o000000ivYyVAAU,PECO Energy Company,001o000000ivXN1AAM,Exelon Corporation
+4110,001o000000ivYdpAAE,Commonwealth Edison Company,001o000000ivXN1AAM,Exelon Corporation
+5027,001o000000ivY8rAAE,Delmarva Power,001o000000ivXN1AAM,Exelon Corporation
+963,001o000000ivWXCAA2,Atlantic City Electric Co,001o000000ivXN1AAM,Exelon Corporation
+1167,001o000000ivWVlAAM,Baltimore Gas & Electric,001o000000ivXN1AAM,Exelon Corporation
+6112,6,Farmers 1,001o000000ivYRLAA2,Farmers Electric Cooperative
+6168,7,Farmers 2,001o000000ivYRLAA2,Farmers Electric Cooperative
+9726,001o000000ivYP1AAM,Jersey Central Power & Light,001o000000ivYPQAA2,FirstEnergy Corp.
+12796,001o000000ivXWcAAM,Monongahela Power Co. (Mon Power),001o000000ivYPQAA2,FirstEnergy Corp.
+13998,001o000000ivVPfAAM,Ohio Edison Company,001o000000ivYPQAA2,FirstEnergy Corp.
+12390,001o000000ivVPdAAM,Metropolitan Edison Company,001o000000ivYPQAA2,FirstEnergy Corp.
+14711,001o000000ivVPcAAM,Pennsylvania Electric Company,001o000000ivYPQAA2,FirstEnergy Corp.
+18997,001o000000ivVPbAAM,Toledo Edison Company,001o000000ivYPQAA2,FirstEnergy Corp.
+20387,001o000000ivVOpAAM,West Penn Power Co.,001o000000ivYPQAA2,FirstEnergy Corp.
+15263,001o000000ivVOoAAM,Potomac Edison Co.,001o000000ivYPQAA2,FirstEnergy Corp.
+NA1,001o000000ivXdrAAE,"Fortis, Inc.",001o000000ivXdrAAE,"Fortis, Inc."
+3249,001o000000ivVCBAA2,Central Hudson Gas & Electric,001o000000ivXdrAAE,"Fortis, Inc."
+27422,001o000000ivZ5lAAE,Todd-Wadena Electric Cooperative,001o000000ivYYmAAM,Great River Energy
+4577,001o000000ivZ1qAAE,Crow Wing Cooperative Power & Light Comp,001o000000ivYYmAAM,Great River Energy
+7460,001o000000ivYZLAA2,Goodhue County Coop Elec Assn,001o000000ivYYmAAM,Great River Energy
+2316,001o000000ivYw8AAE,Brown County Rural Elec Assn,001o000000ivYYmAAM,Great River Energy
+5574,001o000000ivYvSAAU,East Central Energy,001o000000ivYYmAAM,Great River Energy
+6258,001o000000ivYQDAA2,Federated Rural Electric Association,001o000000ivYYmAAM,Great River Energy
+9475,001o000000ivYPwAAM,Itasca-Mantrap Co-op Electrical Assn,001o000000ivYYmAAM,Great River Energy
+10618,001o000000ivYlOAAU,Lake Region Electric Cooperative,001o000000ivYYmAAM,Great River Energy
+13700,001o000000ivYjFAAU,North Itasca Electric Coop Inc,001o000000ivYYmAAM,Great River Energy
+11910,001o000000ivXZQAA2,McLeod Cooperative Power Assn,001o000000ivYYmAAM,Great River Energy
+20996,001o000000ivXvSAAU,Wright-Hennepin Cooperative Electric Association,001o000000ivYYmAAM,Great River Energy
+1884,001o000000ivXNCAA2,BENCO Electric Cooperative,001o000000ivYYmAAM,Great River Energy
+13684,001o000000ivXgyAAE,Nobles Cooperative Electric,001o000000ivYYmAAM,Great River Energy
+16368,001o000000ivXGsAAM,Runestone Electric Association,001o000000ivYYmAAM,Great River Energy
+12227,001o000000ivWzMAAU,Meeker Cooperative Light & Power Association,001o000000ivYYmAAM,Great River Energy
+887,001o000000ivWXKAA2,"Arrowhead Electric Cooperative, Inc.",001o000000ivYYmAAM,Great River Energy
+18019,001o000000ivWuzAAE,Stearns Cooperative Elec Assn,001o000000ivYYmAAM,Great River Energy
+18047,001o000000ivWuwAAE,Steele-Waseca Cooperative Electric,001o000000ivYYmAAM,Great River Energy
+689,001o000000ivWE0AAM,Connexus Energy,001o000000ivYYmAAM,Great River Energy
+17550,001o000000ivVyZAAU,South Central Electric Assn,001o000000ivYYmAAM,Great River Energy
+12651,001o000000ivVxUAAU,Minnesota Valley Electric Cooperative,001o000000ivYYmAAM,Great River Energy
+155,001o000000ivVwbAAE,Agralite Electric Cooperative,001o000000ivYYmAAM,Great River Energy
+25177,001o000000ivVvLAAU,Dakota Electric Association,001o000000ivYYmAAM,Great River Energy
+15750,001o000000ivVrMAAU,Redwood Electric Coop,001o000000ivYYmAAM,Great River Energy
+8287,001o000000ivYV7AAM,Hawaii Electric Light Company,001o000000ivYI2AAM,Hawaiian Electric Industries
+11843,001o000000ivXZSAA2,Maui Electric Company,001o000000ivYI2AAM,Hawaiian Electric Industries
+19547,001o000000ivWjQAAU,Hawaiian Electric Company,001o000000ivYI2AAM,Hawaiian Electric Industries
+4960,001o000000ivYyvAAE,Decatur County Rural E M C,001o000000ivXYQAA2,Hoosier Energy
+5394,001o000000ivYxDAAU,Dubois Rural Electric Coop Inc,001o000000ivXYQAA2,Hoosier Energy
+14160,001o000000ivYdYAAU,Orange County Rural E M C,001o000000ivXYQAA2,Hoosier Energy
+4848,001o000000ivXLuAAM,Daviess-Martin County REMC,001o000000ivXYQAA2,Hoosier Energy
+9778,001o000000ivXJPAA2,Johnson County REMC,001o000000ivXYQAA2,Hoosier Energy
+17038,001o000000ivXGrAAM,RushShelby Energy,001o000000ivXYQAA2,Hoosier Energy
+12929,001o000000ivXFzAAM,South Central Indiana REMC,001o000000ivXYQAA2,Hoosier Energy
+1283,001o000000ivWUBAA2,Bartholomew County REMC,001o000000ivXYQAA2,Hoosier Energy
+20216,001o000000ivWbIAAU,Whitewater Valley Rural EMC,001o000000ivXYQAA2,Hoosier Energy
+20222,001o000000ivWbGAAU,Wayne-White Counties Electric Cooperative,001o000000ivXYQAA2,Hoosier Energy
+17599,001o000000ivVxHAAU,Southeastern Indiana REMC,001o000000ivXYQAA2,Hoosier Energy
+26510,2,Liberty 1,001o000000ivXREAA2,Liberty Utilities
+57483,3,Liberty 2,001o000000ivXREAA2,Liberty Utilities
+5860,001o000000ivXRzAAM,Empire District Electric Co,001o000000ivXREAA2,Liberty Utilities
+11804,001o000000ivXaAAAU,Massachusetts Electric Co,001o000000ivYp6AAE,National Grid (US)
+13206,001o000000ivWyDAAU,Nantucket Electric Co.,001o000000ivYp6AAE,National Grid (US)
+13573,001o000000ivVvNAAU,Niagara Mohawk Power Corporation,001o000000ivYp6AAE,National Grid (US)
+13214,001o000000ivVvCAAU,The Narragansett Electric Co.,001o000000ivYp6AAE,National Grid (US)
+20951,001o000000ivZBUAA2,Woodbury County Rural Electric Cooperative,,
+2001,001o000000ivYzMAAU,Boone Electric Cooperative,,
+4939,001o000000ivYyxAAE,"Deaf Smith Electric Cooperative, Inc",,
+2215,001o000000ivYxWAAU,Bridger Valley Electric Association,,
+5585,001o000000ivYvMAAU,Eastern Illinois Electric Cooperative,,
+8699,001o000000ivYTDAA2,Inland Power & Light Company,,
+9991,001o000000ivYs3AAE,Kandiyohi Power Cooperative,,
+6169,001o000000ivYQTAA2,"Fall River Rural Electric Cooperative, Inc.",,
+6173,001o000000ivYQRAA2,"Fannin County Electric Cooperative, Inc.",,
+10603,001o000000ivYn4AAE,Laclede Electric Cooperative,,
+3478,001o000000ivYjjAAE,Cimarron Electric Cooperative,,
+6957,001o000000ivYahAAE,"Garkane Energy Cooperative, Inc.",,
+5632,001o000000ivXLVAA2,Eau Claire Energy Cooperative,,
+18383,001o000000ivXFBAA2,Taylor Electric Cooperative,,
+13651,001o000000ivXAaAAM,Nolin Rural Electric Cooperative Corporation,,
+14109,001o000000ivX9RAAU,Oregon Trail Electric Cooperative,,
+16196,001o000000ivX9BAAU,Rock Energy Cooperative,,
+10649,001o000000ivX16AAE,Lamar Electric Cooperative,,
+19558,001o000000ivWjPAAU,Homer Electric Association,,
+329,001o000000ivWFOAA2,"Allamakee-Clayton Electric Cooperative, Inc.",,
+16060,001o000000ivW4vAAE,Riverland Energy Cooperative,,
+17260,001o000000ivVzfAAE,North West Rural Electric Cooperative,,
+14945,001o000000ivYyUAAU,Philadelphia Village of,001o000000ivYvGAAU,New York Power Authority
+5021,001o000000ivYyrAAE,Delaware County Elec Coop Inc,001o000000ivYvGAAU,New York Power Authority
+7600,001o000000ivYYkAAM,"Green Island, Village of",001o000000ivYvGAAU,New York Power Authority
+7624,001o000000ivYYiAAM,"Greene, Village of",001o000000ivYvGAAU,New York Power Authority
+14700,001o000000ivYyhAAE,"Penn Yan, Village of",001o000000ivYvGAAU,New York Power Authority
+7630,001o000000ivYYGAA2,"Greenport, Village of",001o000000ivYvGAAU,New York Power Authority
+7713,001o000000ivYY4AAM,"Groton, Village of",001o000000ivYvGAAU,New York Power Authority
+2272,001o000000ivYwCAAU,"Brocton, Village of",001o000000ivYvGAAU,New York Power Authority
+7995,001o000000ivYW6AAM,"Hamilton, Village of",001o000000ivYvGAAU,New York Power Authority
+8733,001o000000ivYT8AAM,"Holley, Village of",001o000000ivYvGAAU,New York Power Authority
+5875,001o000000ivYSYAA2,"Endicott, Village of",001o000000ivYvGAAU,New York Power Authority
+5930,001o000000ivYSQAA2,"Fairport, Village of",001o000000ivYvGAAU,New York Power Authority
+9200,001o000000ivYRBAA2,"Ilion, Village of",001o000000ivYvGAAU,New York Power Authority
+3164,001o000000ivYpRAAU,"Castile, Village of",001o000000ivYvGAAU,New York Power Authority
+9645,001o000000ivYPAAA2,Jamestown Board of Public Util,001o000000ivYvGAAU,New York Power Authority
+6711,001o000000ivYOMAA2,"Frankfort, Village of",001o000000ivYvGAAU,New York Power Authority
+6775,001o000000ivYNrAAM,Freeport Electric,001o000000ivYvGAAU,New York Power Authority
+10610,001o000000ivYlRAAU,"Lake Placid Village, Inc",001o000000ivYvGAAU,New York Power Authority
+3525,001o000000ivYjcAAE,"Churchville, Village of",001o000000ivYvGAAU,New York Power Authority
+11083,001o000000ivYhvAAE,"Little Valley, Village of",001o000000ivYvGAAU,New York Power Authority
+17079,001o000000ivYDQAA2,"Sherburne, Village of",001o000000ivYvGAAU,New York Power Authority
+14125,001o000000ivYdfAAE,Oneida-Madison Electric Coop.,001o000000ivYvGAAU,New York Power Authority
+11618,001o000000ivYcUAAU,"Marathon, Village of",001o000000ivYvGAAU,New York Power Authority
+14267,001o000000ivYbvAAE,Otsego Electric Cooperative,001o000000ivYvGAAU,New York Power Authority
+11811,001o000000ivXZUAA2,Town of Massena Electric Department,001o000000ivYvGAAU,New York Power Authority
+12759,001o000000ivXWfAAM,Mohawk Municipal Comm,001o000000ivYvGAAU,New York Power Authority
+16549,001o000000ivXGpAAM,"Salamanca, City of",001o000000ivYvGAAU,New York Power Authority
+15145,001o000000ivWy5AAE,"Plattsburgh, City of",001o000000ivYvGAAU,New York Power Authority
+1343,001o000000ivWU3AAM,Bath Electric Gas & Water Sys,001o000000ivYvGAAU,New York Power Authority
+18102,001o000000ivWtYAAU,"Steuben Rural Elec Coop, Inc",001o000000ivYvGAAU,New York Power Authority
+1604,001o000000ivWRZAA2,"Bergen, Village of",001o000000ivYvGAAU,New York Power Authority
+18813,001o000000ivWpxAAE,"Theresa, Village of",001o000000ivYvGAAU,New York Power Authority
+19274,001o000000ivWlMAAU,"Tupper Lake, Village of",001o000000ivYvGAAU,New York Power Authority
+183,001o000000ivWITAA2,"Akron, Village of",001o000000ivYvGAAU,New York Power Authority
+661,001o000000ivWE2AAM,"Andover, Village of",001o000000ivYvGAAU,New York Power Authority
+20193,001o000000ivWcXAAU,"Watkins Glen, Village of",001o000000ivYvGAAU,New York Power Authority
+15991,001o000000ivW4xAAE,"Richmondville, Village of",001o000000ivYvGAAU,New York Power Authority
+16217,001o000000ivW41AAE,"Rockville Centre, Village of",001o000000ivYvGAAU,New York Power Authority
+16325,001o000000ivW3vAAE,"Rouses Point, Village of",001o000000ivYvGAAU,New York Power Authority
+17085,001o000000ivVzoAAE,"Sherrill, City of",001o000000ivYvGAAU,New York Power Authority
+17186,001o000000ivVzhAAE,"Silver Springs, Village of",001o000000ivYvGAAU,New York Power Authority
+17512,001o000000ivVyfAAE,"Solvay, Village of",001o000000ivYvGAAU,New York Power Authority
+17789,001o000000ivVw3AAE,"Spencerport, Village of",001o000000ivYvGAAU,New York Power Authority
+17846,0011J00001DALXiQAP,"Springville, Village of",001o000000ivYvGAAU,New York Power Authority
+20337,0011J00001DALTCQA5,"Wellsville, Village of",001o000000ivYvGAAU,New York Power Authority
+669,0011J00001DALgpQAH,"Angelica, Village of",001o000000ivYvGAAU,New York Power Authority
+11892,0011J00001DALdMQAX,"Mayville, Village of",001o000000ivYvGAAU,New York Power Authority
+7801,001o000000ivYWxAAM,Gulf Power Company,001o000000ivWg6AAE,"NextEra Energy, Inc."
+6452,001o000000ivYPIAA2,Florida Power & Light Co.,001o000000ivWg6AAE,"NextEra Energy, Inc."
+14401,001o000000ivZ1hAAE,City of Palo Alto Utilities,001o000000ivZ4QAAU,Northern California Power Agency
+7677,001o000000ivYY7AAM,"Gridley, City of",001o000000ivZ4QAAU,Northern California Power Agency
+15308,001o000000ivYvEAAU,Plumas-Sierra Rural Electric Co-op,001o000000ivZ4QAAU,Northern California Power Agency
+8348,001o000000ivYV0AAM,"Healdsburg, City of",001o000000ivZ4QAAU,Northern California Power Agency
+11124,001o000000ivYhpAAE,Lodi Electric Utility,001o000000ivZ4QAAU,Northern California Power Agency
+11148,001o000000ivYhmAAE,"Lompoc, City of",001o000000ivZ4QAAU,Northern California Power Agency
+NA19,001o000000ivWZuAAM,Port of Oakland,001o000000ivZ4QAAU,Northern California Power Agency
+1702,001o000000ivWQwAAM,Biggs Municipal Utilities,001o000000ivZ4QAAU,Northern California Power Agency
+19229,001o000000ivWlRAAU,Truckee Donner Public Utility District,001o000000ivZ4QAAU,Northern California Power Agency
+19397,001o000000ivWlCAAU,"Ukiah, City of",001o000000ivZ4QAAU,Northern California Power Agency
+207,001o000000ivWHLAA2,Alameda Municipal Power,001o000000ivZ4QAAU,Northern California Power Agency
+16295,001o000000ivW3wAAE,Roseville Electric,001o000000ivZ4QAAU,Northern California Power Agency
+16655,001o000000ivW24AAE,"City of Santa Clara, Silicon Valley Power",001o000000ivZ4QAAU,Northern California Power Agency
+15783,001o000000ivVrIAAU,Redding Electric Utility,001o000000ivZ4QAAU,Northern California Power Agency
+12825,4,NorthWestern 1,001o000000ivXnoAAE,NorthWestern Energy LLC
+13809,5,NorthWestern 2,001o000000ivXnoAAE,NorthWestern Energy LLC
+21244,001o000000ivZAwAAM,"Southside Electric Coop, Inc",001o000000ivZ56AAE,Old Dominion Electric Cooperative
+40228,001o000000ivZ57AAE,Rappahannock Electric Co-op,001o000000ivZ56AAE,Old Dominion Electric Cooperative
+15410,001o000000ivYv2AAE,Prince George Electric Cooperative,001o000000ivZ56AAE,Old Dominion Electric Cooperative
+3503,001o000000ivYjfAAE,"Choptank Electric Coop, Inc",001o000000ivZ56AAE,Old Dominion Electric Cooperative
+5070,001o000000ivYHwAAM,Delaware Electric Cooperative,001o000000ivZ56AAE,Old Dominion Electric Cooperative
+13762,001o000000ivYhOAAU,"Northern Neck Electric Cooperative, Inc.",001o000000ivZ56AAE,Old Dominion Electric Cooperative
+12260,001o000000ivXZFAA2,"Mecklenburg Electric Coop, Inc",001o000000ivZ56AAE,Old Dominion Electric Cooperative
+1062,001o000000ivWVqAAM,BARC Electric Cooperative,001o000000ivZ56AAE,Old Dominion Electric Cooperative
+17066,001o000000ivVzqAAE,Shenandoah Valley Electric Cooperative,001o000000ivZ56AAE,Old Dominion Electric Cooperative
+84,001o000000ivVwnAAE,A&N Electric Cooperative,001o000000ivZ56AAE,Old Dominion Electric Cooperative
+5997,001o000000ivYRdAAM,"Estes Park, Town of",001o000000ivYwtAAE,Platte River Power Authority
+6604,001o000000ivYOUAA2,Fort Collins Utilities,001o000000ivYwtAAE,Platte River Power Authority
+14715,001o000000ivYygAAE,PPL Electric Utilities Company,001o000000ivYKWAA2,PPL Corp
+11249,001o000000ivXV1AAM,Louisville Gas & Electric,001o000000ivYKWAA2,PPL Corp
+10171,001o000000ivVvHAAU,Kentucky Utilities Company,001o000000ivYKWAA2,PPL Corp
+14534,001o000000ivZ1UAAU,Pasadena Water and Power,001o000000ivVyeAAE,Southern California Public Power Authority
+7294,001o000000ivYZbAAM,Glendale Water & Power,001o000000ivVyeAAE,Southern California Public Power Authority
+2507,001o000000ivYvuAAE,Burbank Water and Power,001o000000ivVyeAAE,Southern California Public Power Authority
+9216,001o000000ivYR8AAM,Imperial Irrigation District,001o000000ivVyeAAE,Southern California Public Power Authority
+11208,001o000000ivYg2AAE,Los Angeles Dept of Water and Power,001o000000ivVyeAAE,Southern California Public Power Authority
+4003,001o000000ivYfaAAE,Colton Electric Utility,001o000000ivVyeAAE,Southern California Public Power Authority
+1050,001o000000ivWVrAAM,Azusa Light and Water,001o000000ivVyeAAE,Southern California Public Power Authority
+1192,001o000000ivWVeAAM,"Banning, City of",001o000000ivVyeAAE,Southern California Public Power Authority
+19798,001o000000ivWeAAAU,"Vernon, City of",001o000000ivVyeAAE,Southern California Public Power Authority
+590,001o000000ivWE7AAM,Anaheim Public Utilities,001o000000ivVyeAAE,Southern California Public Power Authority
+16088,001o000000ivW4sAAE,Riverside Public Utilities,001o000000ivVyeAAE,Southern California Public Power Authority
+7140,001o000000ivYaAAAU,Georgia Power Company,001o000000ivWZtAAM,Southern Company
+12686,001o000000ivXWnAAM,Mississippi Power Company,001o000000ivWZtAAM,Southern Company
+195,001o000000ivWHPAA2,Alabama Power Company,001o000000ivWZtAAM,Southern Company
+2248,001o000000ivYxUAAU,Bristol Virginia Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+276,001o000000ivYKnAAM,Alcorn County Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+20793,001o000000ivYI5AAM,Winchester Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+9739,001o000000ivYI1AAM,Joe Wheeler EMC,001o000000ivWpzAAE,Tennessee Valley Authority
+6641,001o000000ivYEEAA2,4-County Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+241,001o000000ivYEDAA2,Albertville Municipal Utilities Board,001o000000ivWpzAAE,Tennessee Valley Authority
+571,001o000000ivYECAA2,Amory Water & Electric,001o000000ivWpzAAE,Tennessee Valley Authority
+750,001o000000ivYEBAA2,Arab Electric Cooperative Inc,001o000000ivWpzAAE,Tennessee Valley Authority
+947,001o000000ivYEAAA2,Athens Utility Board,001o000000ivWpzAAE,Tennessee Valley Authority
+1578,001o000000ivYE9AAM,Benton County,001o000000ivWpzAAE,Tennessee Valley Authority
+1891,001o000000ivYE8AAM,Blue Ridge Mountain EMC,001o000000ivWpzAAE,Tennessee Valley Authority
+1936,001o000000ivYE7AAM,Bolivar Energy Authority,001o000000ivWpzAAE,Tennessee Valley Authority
+2960,001o000000ivYE5AAM,Caney Fork Electric Cooperative Inc,001o000000ivWpzAAE,Tennessee Valley Authority
+3075,001o000000ivYE4AAM,Carroll County,001o000000ivWpzAAE,Tennessee Valley Authority
+3426,001o000000ivYE1AAM,Cherokee Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+40166,001o000000ivYE0AAM,"Chickasaw Electric Cooperative, Inc.",001o000000ivWpzAAE,Tennessee Valley Authority
+944,001o000000ivYDzAAM,"Athens, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+1582,001o000000ivYDHAA2,"Benton, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+1640,001o000000ivYDGAA2,"Bessemer Utilities, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+6422,001o000000ivYCZAA2,"Florence Utilities, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+11458,001o000000ivYCXAA2,"Macon, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+14078,001o000000ivYCWAA2,"Okolona, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+14275,001o000000ivYCVAA2,"Oxford, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+19273,001o000000ivYCUAA2,"Tupelo Light & Water, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+20394,001o000000ivYCSAA2,"West Point, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+3812,001o000000ivYCRAA2,"Clinton, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+3855,001o000000ivYCQAA2,Columbia Power System,001o000000ivWpzAAE,Tennessee Valley Authority
+4618,001o000000ivYCMAA2,"Cullman Electric Cooperative, Inc.",001o000000ivWpzAAE,Tennessee Valley Authority
+4617,001o000000ivYCLAA2,Cullman Power Board,001o000000ivWpzAAE,Tennessee Valley Authority
+4624,001o000000ivYCKAA2,Cumberland Electric Member Corporation,001o000000ivWpzAAE,Tennessee Valley Authority
+3475,001o000000ivYCbAAM,"Chickamauga, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+4920,001o000000ivYCaAAM,"Dayton, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+8548,001o000000ivYBZAA2,Hickman Electric Plant Board,001o000000ivWpzAAE,Tennessee Valley Authority
+4958,001o000000ivYBqAAM,Decatur Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+5961,001o000000ivYBmAAM,"Erwin, Town of",001o000000ivWpzAAE,Tennessee Valley Authority
+6008,001o000000ivYBlAAM,Etowah Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+40236,001o000000ivYBkAAM,"Forked Deer Electric Cooperative, Inc.",001o000000ivWpzAAE,Tennessee Valley Authority
+6608,001o000000ivYBjAAM,Fort Loudoun Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+6612,001o000000ivYBiAAM,Fort Payne Improvement Authority,001o000000ivWpzAAE,Tennessee Valley Authority
+6717,001o000000ivYBhAAM,Franklin Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+8748,001o000000ivYBFAA2,Holly Springs Electric Department,001o000000ivWpzAAE,Tennessee Valley Authority
+8764,001o000000ivYBEAA2,"Holston Electric Cooperative, Inc.",001o000000ivWpzAAE,Tennessee Valley Authority
+7174,001o000000ivYBdAAM,Gibson Electric Members Corporation,001o000000ivWpzAAE,Tennessee Valley Authority
+9023,001o000000ivYBDAA2,Humboldt Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+7827,001o000000ivYBbAAM,Guntersville Electric Board,001o000000ivWpzAAE,Tennessee Valley Authority
+8226,001o000000ivYBaAAM,Hartselle Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+10799,001o000000ivYBAAA2,Lawrenceburg Utility Systems,001o000000ivWpzAAE,Tennessee Valley Authority
+10906,001o000000ivYB9AAM,"Lenoir, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+10968,001o000000ivYB7AAM,Lexington Electric System,001o000000ivWpzAAE,Tennessee Valley Authority
+11247,001o000000ivYB6AAM,Louisville Electric System,001o000000ivWpzAAE,Tennessee Valley Authority
+11714,001o000000ivYB5AAM,Marshall-De Kalb Electric Coop,001o000000ivWpzAAE,Tennessee Valley Authority
+12186,001o000000ivYB3AAM,McMinnville Electric System,001o000000ivWpzAAE,Tennessee Valley Authority
+12330,001o000000ivYB2AAM,Meriwether Lewis Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+40303,001o000000ivYB0AAM,Monroe County Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+13669,001o000000ivYAZAA2,North Alabama Electric Coop,001o000000ivWpzAAE,Tennessee Valley Authority
+13716,001o000000ivYAYAA2,North Georgia Electric Member Corporation,001o000000ivWpzAAE,Tennessee Valley Authority
+13735,001o000000ivYAXAA2,Northcentral Mississippi Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+14724,001o000000ivYAWAA2,Pennyrile Rural Electric Coop,001o000000ivWpzAAE,Tennessee Valley Authority
+14947,001o000000ivYAUAA2,Philadelphia Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+15016,001o000000ivYATAA2,Pickwick Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+15211,001o000000ivYASAA2,Pontotoc Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+15293,001o000000ivYARAA2,Powell Valley Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+13119,001o000000ivYAgAAM,Murfreesboro Electric Department,001o000000ivWpzAAE,Tennessee Valley Authority
+40441,001o000000ivYAfAAM,"Murphy, Town of",001o000000ivWpzAAE,Tennessee Valley Authority
+13144,001o000000ivYAdAAM,Muscle Shoals Electric Board,001o000000ivWpzAAE,Tennessee Valley Authority
+13227,001o000000ivYAcAAM,Natchez Trace Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+19149,001o000000ivXVqAAM,Trenton Light & Water Department,001o000000ivWpzAAE,Tennessee Valley Authority
+19154,001o000000ivXVoAAM,Tri-State Electric Member Corporation,001o000000ivWpzAAE,Tennessee Valley Authority
+19307,001o000000ivXVnAAM,Tuscumbia Electricity Department,001o000000ivWpzAAE,Tennessee Valley Authority
+19574,001o000000ivXVkAAM,Upper Cumberland Electric Membership Corporation,001o000000ivWpzAAE,Tennessee Valley Authority
+19898,001o000000ivXVjAAM,Volunteer Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+20130,001o000000ivXViAAM,Warren Rural Electric Cooperative Corp,001o000000ivWpzAAE,Tennessee Valley Authority
+7625,001o000000ivXvCAAU,Greeneville Power & Light System,001o000000ivWpzAAE,Tennessee Valley Authority
+10421,001o000000ivXsbAAE,Knoxville Utility Board,001o000000ivWpzAAE,Tennessee Valley Authority
+16459,001o000000ivXJGAA2,"Russellville, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+16629,001o000000ivXItAAM,Sand Mountain Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+16829,001o000000ivXIsAAM,Scottsboro Electric Power Board,001o000000ivWpzAAE,Tennessee Valley Authority
+16930,001o000000ivXIrAAM,Sequachee Valley Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+17033,001o000000ivXIqAAM,Sheffield Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+17044,001o000000ivXIpAAM,"Shelby Energy Co-op, Inc.",001o000000ivWpzAAE,Tennessee Valley Authority
+17740,001o000000ivXInAAM,Sparta Electric & Public Works,001o000000ivWpzAAE,Tennessee Valley Authority
+18384,001o000000ivXIkAAM,Sweetwater Utilities Board,001o000000ivWpzAAE,Tennessee Valley Authority
+18472,001o000000ivXIiAAM,Tarrant Electric Department,001o000000ivWpzAAE,Tennessee Valley Authority
+18643,001o000000ivXIhAAM,Tennessee Valley Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+18943,001o000000ivXIgAAM,Tippah Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+19007,001o000000ivXIeAAM,Tombigbee Electric Power Association,001o000000ivWpzAAE,Tennessee Valley Authority
+17047,001o000000ivXGiAAM,"Shelbyville, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+9094,001o000000ivWRsAAM,Huntsville Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+727,001o000000ivWjdAAE,Appalachian Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+577,001o000000ivWjbAAE,"Alcoa, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+10579,001o000000ivWhuAAE,Lafollette Utilities Board,001o000000ivWpzAAE,Tennessee Valley Authority
+13550,001o000000ivWhrAAE,Newport Utilities Board,001o000000ivWpzAAE,Tennessee Valley Authority
+15141,001o000000ivWhpAAE,Plateau Electric Cooperative,001o000000ivWpzAAE,Tennessee Valley Authority
+16949,001o000000ivWhoAAE,Sevier County Electric System,001o000000ivWpzAAE,Tennessee Valley Authority
+6234,001o000000ivWhlAAE,Fayetteville Public Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+12470,001o000000ivWhkAAE,Middle Tennessee Electric Membership Corporation,001o000000ivWpzAAE,Tennessee Valley Authority
+19266,001o000000ivWhjAAE,Tullahoma Utilities Board,001o000000ivWpzAAE,Tennessee Valley Authority
+17694,001o000000ivWhiAAE,Southwest Tennessee EMC,001o000000ivWpzAAE,Tennessee Valley Authority
+11222,001o000000ivWhhAAE,Loudon Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+3758,001o000000ivWhgAAE,Cleveland Utilities,001o000000ivWpzAAE,Tennessee Valley Authority
+55,001o000000ivVwpAAE,"Aberdeen, City of",001o000000ivWpzAAE,Tennessee Valley Authority
+13216,001o000000ivVCwAAM,Nashville Electric Service,001o000000ivWpzAAE,Tennessee Valley Authority
+18956,001o000000ivWpKAAU,Tri-County Elec Member Corp,,
+18957,0011J00001DX1bJQAT,Tri-County Elec Member Corp,,
+19159,001o000000ivWnaAAE,"Tri-County Electric Coop, Inc",,
+19160,0011J00001DX1bIQAT,"Tri-County Electric Coop, Inc",,
+21079,001o000000ivZBLAA2,Wyrulec Company,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+5086,001o000000ivYylAAE,Delta-Montrose Electric Association,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+8570,001o000000ivYU6AAM,Highline Electric Association,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+2998,001o000000ivYqxAAE,Carbon Power & Light,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+14224,001o000000ivYc5AAE,"Otero County Electric Cooperative, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+5862,001o000000ivY5SAAU,Empire Electric Association,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+17592,001o000000ivY5QAAU,Southeast Colorado Power Association,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+16649,001o000000ivY4hAAE,"Sangre De Cristo Electric Association, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+4265,001o000000ivXT0AAM,Continental Divide Electric Cooperative,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+13050,001o000000ivXn1AAE,"Mountain Parks Electric, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+16616,001o000000ivXMDAA2,"San Isabel Electric Association, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+16603,001o000000ivXGoAAM,"San Luis Valley Rural Electric Cooperative, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+19499,001o000000ivWjUAAU,"United Power, Inc",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+8566,001o000000ivVFDAA2,"High Plains Power, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+27058,001o000000ivVFCAA2,"High West Energy, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+23326,0011J00001DX1SXQA1,Sierra Electric Cooperative,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+40230,0011J00001DX1SWQA1,Deseret Generation & Tran Coop,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+20509,0011J00001DX1SSQA1,Wheat Belt Public Power District,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+17826,0011J00001DX1SQQA1,"Springer Electric Cooperative, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+16164,0011J00001DX1SLQA1,Roosevelt Public Power District,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+15257,0011J00001DX1SKQA1,"Poudre Valley Rural Electric Association, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+13777,0011J00001DX1SJQA1,"Northern Rio Arriba Electric Cooperative, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+13058,0011J00001DX1SHQA1,"Mountain View Electric Association, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+12860,0011J00001DX1SGQA1,Morgan County Rural Electric Association,001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+10539,0011J00001DX1SDQA1,"La Plata Electric Association, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+9699,0011J00001DX1SBQA1,"Jemez Mountains Electric Cooperative, Inc.",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+3273,0011J00001DUabPQAT,"Central New Mexico Electric Cooperative, Inc",001o000000ivZ5aAAE,Tri-State Generation and Transmission Association
+19728,001o000000ivZPzAAM,"UNS Electric, Inc.",001o000000ivW5pAAE,UNS Energy
+24211,001o000000ivZAKAA2,Tucson Electric Power,001o000000ivW5pAAE,UNS Energy
+20858,001o000000ivZByAAM,WPPI Energy,001o000000ivZByAAM,WPPI Energy
+4604,001o000000ivZ1pAAE,"Crystal Falls, City of",001o000000ivZByAAM,WPPI Energy
+7265,001o000000ivYZyAAM,"Gladstone, City of",001o000000ivZByAAM,WPPI Energy
+15349,001o000000ivYv7AAE,"Preston, City of",001o000000ivZByAAM,WPPI Energy
+10056,001o000000ivYUIAA2,Kaukauna Utilities,001o000000ivZByAAM,WPPI Energy
+15804,001o000000ivYSlAAM,Reedsburg Utility Commission,001o000000ivZByAAM,WPPI Energy
+6043,001o000000ivYRaAAM,"Evansville, City of",001o000000ivZByAAM,WPPI Energy
+10508,001o000000ivYnKAAU,"L'Anse, Village of",001o000000ivZByAAM,WPPI Energy
+13826,001o000000ivYhDAAU,Norway Department of Power & Light,001o000000ivZByAAM,WPPI Energy
+11611,001o000000ivYcVAAU,Maquoketa City of,001o000000ivZByAAM,WPPI Energy
+1776,001o000000ivXNAAA2,Black River Falls Municipal Utilities,001o000000ivZByAAM,WPPI Energy
+13352,001o000000ivXmFAAU,"Negaunee, City of",001o000000ivZByAAM,WPPI Energy
+3208,001o000000ivXMaAAM,Cedarburg Light & Water Utility,001o000000ivZByAAM,WPPI Energy
+4607,001o000000ivXLwAAM,Cuba City Light & Water,001o000000ivZByAAM,WPPI Energy
+9124,001o000000ivXKfAAM,Hustisford Utilities,001o000000ivZByAAM,WPPI Energy
+9690,001o000000ivXJRAA2,Jefferson Utilities,001o000000ivZByAAM,WPPI Energy
+10605,001o000000ivXJIAA2,Lake Mills Light & Water,001o000000ivZByAAM,WPPI Energy
+17324,001o000000ivXGeAAM,Slinger Utilities,001o000000ivZByAAM,WPPI Energy
+18312,001o000000ivXFEAA2,Sun Prairie Utilities,001o000000ivZByAAM,WPPI Energy
+19324,001o000000ivXF2AAM,Two Rivers Water & Light,001o000000ivZByAAM,WPPI Energy
+20182,001o000000ivXDSAA2,Waterloo Light & Water Commission,001o000000ivZByAAM,WPPI Energy
+20213,001o000000ivXDPAA2,Waupun Utilities,001o000000ivZByAAM,WPPI Energy
+20434,001o000000ivXCIAA2,"Westby, City of",001o000000ivZByAAM,WPPI Energy
+20583,001o000000ivXCFAA2,Whitehall Electric Utility,001o000000ivZByAAM,WPPI Energy
+13963,001o000000ivXATAA2,Oconomowoc Utilities,001o000000ivZByAAM,WPPI Energy
+8212,001o000000ivXAiAAM,Hartford Electric,001o000000ivZByAAM,WPPI Energy
+9936,001o000000ivXAhAAM,Juneau Utilities,001o000000ivZByAAM,WPPI Energy
+13467,001o000000ivXAdAAM,New London Utilities,001o000000ivZByAAM,WPPI Energy
+13448,001o000000ivWy9AAE,New Holstein Utilities,001o000000ivZByAAM,WPPI Energy
+305,001o000000ivWFSAA2,Alger-Delta Coop Electric Association,001o000000ivZByAAM,WPPI Energy
+307,001o000000ivWFRAA2,Algoma Utilities,001o000000ivZByAAM,WPPI Energy
+13781,001o000000ivYhMAAU,Xcel Energy - MN,001o000000ivYtiAAE,Xcel Energy
+17718,001o000000ivXzfAAE,Xcel Energy - TX,001o000000ivYtiAAE,Xcel Energy
+13780,001o000000ivVKEAA2,Xcel Energy - WI,001o000000ivYtiAAE,Xcel Energy
+15466,1,Xcel Energy - CO,001o000000ivYtiAAE,Xcel Energy
+3296,0011J00001DX1T7QAL,Central Electric Power Cooperative - MO,,
+20139,001o000000ivWchAAE,"Washington, City of",,
+2086,001o000000ivZ3AAAU,West Boylston Town of,,
+18959,0011J00001DX1bmQAD,"Troy, City of",,
+16961,001o000000ivW0eAAE,"Seymour, City of",,
+16953,001o000000ivW20AAE,"Seward, City of",,
+16558,001o000000ivW30AAE,"Salem, City of",,
+16438,001o000000ivW3qAAE,"Russell, City of",,
+20224,001o000000ivWbEAAU,"Waynesville, City of",,
+19980,001o000000ivWduAAE,"Wakefield, City of",,
+19236,001o000000ivWlQAAU,"Troy, City of",,
+18277,001o000000ivWt3AAE,"Sullivan, City of",,
+18230,001o000000ivWt6AAE,"Stuart, City of",,
+994,001o000000ivWX7AAM,"Auburn, City of",,
+12626,001o000000ivWyJAAU,"Minden, City of",,
+14216,001o000000ivX9OAAU,"Osceola, City of",,
+10967,001o000000ivYjoAAE,"Lexington, City of",,
+10633,001o000000ivYlCAAU,"Lamar, City of",,
+6758,001o000000ivYNwAAM,"Fredericksburg, City of",,
+2551,001o000000ivYuLAAU,"Burlington, City of",,
+2485,001o000000ivYvyAAE,"Buffalo, City of",,
+7627,001o000000ivYYhAAM,"Greenfield, City of",,
+14459,001o000000ivZ1cAAE,"Paris, City of",,
+15979,001o000000ivZ2HAAU,"Richland, City of",,
+14460,0011J00001DX1aAQAT,"Paris, City of",,
+14456,0011J00001DX1aBQAT,"Paris, City of",,
+16440,0011J00001DX1afQAD,"Russell, City of",,
+16559,0011J00001DX1ajQAD,"Salem, City of",,
+16959,0011J00001DX1aoQAD,"Seymour, City of",,
+15981,0011J00001DX1aYQAT,"Richland, City of",,
+18231,0011J00001DX1bAQAT,"Stuart, City of",,
+18273,0011J00001DX1bBQAT,"Sullivan, City of",,
+2548,0011J00001DX1cdQAD,"Burlington, City of",,
+20225,0011J00001DX1cFQAT,"Waynesville, City of",,
+19975,0011J00001DX1d4QAD,"Wakefield, City of",,
+995,0011J00001DX1SkQAL,"Auburn, City of",,
+40390,0011J00001DX1SzQAL,"Buffalo, City of",,
+10057,0011J00001DX1TgQAL,"Lamar, City of",,
+40383,0011J00001DX1TsQAL,"Osceola, City of",,
+16955,0011J00001DX1TvQAL,"Seward, City of",,
+6759,0011J00001DX1UpQAL,"Fredericksburg, City of",,
+10969,0011J00001DX1ZDQA1,"Lexington, City of",,
+11585,0011J00001DX1ZLQA1,"Mansfield, City of",,
+11587,0011J00001DX1ZMQA1,"Mansfield, City of",,
+12625,0011J00001DX1ZWQA1,"Minden, City of",,
+7626,0011J00001JUVdpQAH,"Greenfield, City of",,
+15270,001o000000ur03TAAQ,Potomac Electric Power Company,,
+1179,001o000000ivZCjAAM,Emera Maine,,
+20806,001o000000ivZCCAA2,"Windom, City of",,
+20811,001o000000ivZCBAA2,"Windsor, Town of",,
+20813,001o000000ivZCAAA2,"Winfield, City of",,
+20823,001o000000ivZC9AAM,Winner Municipal Utility,,
+20824,001o000000ivZC8AAM,Winnetka Village of,,
+20827,001o000000ivZC7AAM,"Winona, City of",,
+20835,001o000000ivZC6AAM,Winterset City of,,
+20837,001o000000ivZC5AAM,Winthrop City of,,
+20841,001o000000ivZC4AAM,"Wiregrass Electric Coop, Inc",,
+20844,001o000000ivZC3AAM,Wisconsin Dells Electric Util,,
+20846,001o000000ivZC1AAM,"Woolstock, City of",,
+20848,001o000000ivZBzAAM,"Blue Hill, City of",,
+20927,001o000000ivZBZAA2,"Wood County Electric Coop, Inc",,
+20945,001o000000ivZBYAA2,"Wood River, City of",,
+20860,001o000000ivZBxAAM,Wisconsin Public Service,,
+20948,001o000000ivZBXAA2,Wise Electric Coop Inc,,
+20862,001o000000ivZBwAAM,Wisconsin Rapids W W & L Comm,,
+20949,001o000000ivZBWAA2,"Woodbine, City of",,
+20950,001o000000ivZBVAA2,"Winside, Village of",,
+20885,001o000000ivZBuAAM,Withlacoochee Electric Coop.,,
+20913,001o000000ivZBtAAM,"Wolfeboro, Town of",,
+20980,001o000000ivZBSAA2,Precinct of Woodsville,,
+20997,001o000000ivZBRAA2,Yellowstone Valley Elec Co-op,,
+21013,001o000000ivZBPAA2,"Worthington, City of",,
+21066,001o000000ivZBNAA2,"Wynnewood, City of",,
+21075,001o000000ivZBMAA2,Y-W Electric Assn Inc,,
+20924,001o000000ivZBaAAM,Wonewoc Electric & Water Util,,
+21111,001o000000ivZAzAAM,Perennial Public Power District,,
+21513,001o000000ivZAtAAM,"Fergus Electric Cooperative, Inc.",,
+21567,001o000000ivZAoAAM,"Washington-St Tammany Electric Cooperative, Inc.",,
+21632,001o000000ivZAnAAM,EnergyUnited,,
+23586,001o000000ivZAMAA2,"Vigilante Electric Cooperative, Inc.",,
+23826,001o000000ivZALAA2,"Bluestem Electric Cooperative, Inc.",,
+24558,001o000000ivZAIAA2,"Escanaba, City of",,
+22690,001o000000ivZAhAAM,"Roosevelt County Electric Cooperative, Inc.",,
+24753,001o000000ivZAHAA2,Boone REMC,,
+24949,001o000000ivZAGAA2,Cass County Electric Cooperative,,
+14063,001o000000ivZAaAAM,Oklahoma Gas & Electric,,
+26218,001o000000ivZA9AAM,Little Ocmulgee EMC,,
+26616,001o000000ivZA7AAM,North Slope Borough Power & Light,,
+26765,001o000000ivZA5AAM,Pella Cooperative Electric Association,,
+4254,001o000000ivZ9yAAE,CMS Energy Corp,,
+26934,001o000000ivZ9kAAE,"Red Lake Electric Cooperative, Inc.",,
+6457,001o000000ivZ5SAAU,Florida Public Utilities,,
+28604,001o000000ivZ5iAAE,Kerrville Public Utility Board,,
+28978,001o000000ivZ5hAAE,San Marcos Electric Utility,,
+5175,001o000000ivZ5CAAU,Dixie Power,,
+40215,001o000000ivZ5BAAU,"Cordova Electric Cooperative, Inc.",,
+40220,001o000000ivZ59AAE,Adams Electric Cooperative Inc,,
+40224,001o000000ivZ58AAE,"Central Electric Cooperative, Inc. - (PA)",,
+40304,001o000000ivZ53AAE,Minnesota Valley Cooperative L&P Association,,
+40606,001o000000ivZ4RAAU,"Grand Island, City of",,
+20227,001o000000ivZ3EAAU,"Waynoka, City of",,
+20230,001o000000ivZ3DAAU,Weatherford Mun Utility System,,
+20310,001o000000ivZ3BAAU,Wellesley Town of,,
+20331,001o000000ivZ39AAE,"Weimar, City of",,
+20332,001o000000ivZ38AAE,Wells Rural Electric Co,,
+20343,001o000000ivZ37AAE,"Welsh, Town of",,
+20359,001o000000ivZ36AAE,"Wessington Springs, City of",,
+20364,001o000000ivZ34AAE,"West Bend, City of",,
+3240,001o000000ivZ33AAE,West Central Electric Coop Inc,,
+20371,001o000000ivZ32AAE,West Florida Electric Coop.,,
+20392,001o000000ivZ30AAE,"West Plains, City of",,
+20737,001o000000ivZ2ZAAU,Willmar Municipal Utils Comm,,
+20739,001o000000ivZ2YAAU,"Willow Springs, City of",,
+20401,001o000000ivZ2xAAE,West River Electric Assn Inc,,
+20413,001o000000ivZ2wAAE,Mountrail-Williams Elec Coop,,
+20422,001o000000ivZ2vAAE,Whetstone Valley Elec Coop Inc,,
+20456,001o000000ivZ2tAAE,Twin Valleys Public Power Dist,,
+20785,001o000000ivZ2SAAU,"Wilson, City of",,
+20466,001o000000ivZ2sAAE,"Whalan, City of",,
+20789,001o000000ivZ2RAAU,"Wilton, City of",,
+20472,001o000000ivZ2qAAE,"Wharton County Elec Coop, Inc",,
+59013,001o000000ivZ2PAAU,PUD No 1 of Jefferson County,,
+20481,001o000000ivZ2oAAE,"Westfield, City of",,
+20490,001o000000ivZ2nAAE,"Westminster, City of",,
+20502,001o000000ivZ2mAAE,"Wetumka, City of",,
+20506,001o000000ivZ2lAAE,"Wheatland Rural Elec Assn, Inc",,
+20574,001o000000ivZ2jAAE,White River Valley El Coop Inc,,
+20588,001o000000ivZ2iAAE,"Whitesboro, City of",,
+20603,001o000000ivZ2hAAE,Northeastern Rural Electric Membership Corporation,,
+20604,001o000000ivZ2gAAE,"Whittemore, City of",,
+20632,001o000000ivZ2fAAE,"Wilber, City of",,
+20729,001o000000ivZ2dAAE,"Williamsport, Town of",,
+20730,001o000000ivZ2cAAE,"Williamsport, City of",,
+4369,001o000000ivZ27AAE,"Cornell, City of",,
+4373,001o000000ivZ26AAE,Cornhusker Public Power Dist,,
+4375,001o000000ivZ25AAE,"Corning, City of",,
+4401,001o000000ivZ24AAE,"Cotton Electric Coop, Inc",,
+4414,001o000000ivZ23AAE,"Coulee Dam, City of",,
+4429,001o000000ivZ22AAE,Covington City of,,
+4430,001o000000ivZ21AAE,"Covington Electric Cooperative, Inc",,
+4432,001o000000ivZ20AAE,Coweta-Fayette EMC,,
+14471,001o000000ivZ1ZAAU,Parke County REMC,,
+4442,001o000000ivZ1zAAE,Cowlitz County PUD,,
+14472,001o000000ivZ1YAAU,"Park Ridge, Bourough of",,
+4459,001o000000ivZ1yAAE,Cozad Board of Public Works,,
+14473,001o000000ivZ1XAAU,"Paton, City of",,
+4471,001o000000ivZ1xAAE,Craig-Botetourt Electric Coop,,
+14489,001o000000ivZ1WAAU,"Parker, City of",,
+4483,001o000000ivZ1wAAE,"Crane, City of",,
+14512,001o000000ivZ1VAAU,Parowan City Corporation,,
+4486,001o000000ivZ1vAAE,Crane Town of,,
+4508,001o000000ivZ1uAAE,"Crawfordsville Elec, Lgt & Pwr",,
+4524,001o000000ivZ1tAAE,"Crawford Electric Coop, Inc",,
+4527,001o000000ivZ1sAAE,"Crete, City of",,
+4538,001o000000ivZ1rAAE,Crisp County Power Comm,,
+4608,001o000000ivZ1oAAE,"Cuba, City of",,
+14328,001o000000ivZ1nAAE,Pacific Gas & Electric,,
+14373,001o000000ivZ1kAAE,Page Electric Utility,,
+14396,001o000000ivZ1jAAE,"Palmetto, City of",,
+14400,001o000000ivZ1iAAE,"Palmyra, City of",,
+14424,001o000000ivZ1fAAE,"Panola-Harrison Elec Coop, Inc",,
+14468,001o000000ivZ1aAAE,People's Cooperative Services,,
+4796,001o000000ivZ0XAAU,"Darke Rural Electric Coop, Inc",,
+14543,001o000000ivZ0WAAU,Tohono O'Odham Utility Auth,,
+14563,001o000000ivZ0UAAU,Pearl River Valley Electric Power Association,,
+14582,001o000000ivZ0TAAU,"Pawhuska, City of",,
+14585,001o000000ivZ0SAAU,"Paxton, Town of",,
+14600,001o000000ivZ0RAAU,Payson City Corporation,,
+1839,001o000000ivZ0rAAE,"Blanding, City of",,
+14602,001o000000ivZ0QAAU,Pea River Electric Cooperative,,
+1866,001o000000ivZ0qAAE,Bloomer Electric & Water Co,,
+14606,001o000000ivZ0PAAU,"Peace River Electric Coop, Inc",,
+4610,001o000000ivZ0pAAE,Cuero City of,,
+4619,001o000000ivZ0oAAE,"Culpeper, Town of",,
+14624,001o000000ivZ0NAAU,Grant County PUD,,
+4622,001o000000ivZ0nAAE,Cumberland Valley Rural E C C,,
+14626,001o000000ivZ0MAAU,"Pedernales Electric Cooperative, Inc",,
+14633,001o000000ivZ0LAAU,Pedro Bay Village Council,,
+4661,001o000000ivZ0lAAE,"Curtis, City of",,
+14645,001o000000ivZ0KAAU,Pella City of,,
+4667,001o000000ivZ0kAAE,"Cushing, City of",,
+14648,001o000000ivZ0JAAU,"Pemberton, Bourough of",,
+4675,001o000000ivZ0jAAE,Cuivre River Electric Cooperative,,
+14653,001o000000ivZ0HAAU,Pend Oreille Cnty PUD,,
+4704,001o000000ivZ0hAAE,"D S & O Rural E C A, Inc",,
+14656,001o000000ivZ0GAAU,"Pender, City of",,
+4715,001o000000ivZ0gAAE,Dahlberg Light & Power Co,,
+14659,001o000000ivZ0FAAU,Pendleton Town of,,
+14668,001o000000ivZ0EAAU,Peninsula Light Company,,
+4717,001o000000ivZ0eAAE,Dakota Valley Elec Coop Inc,,
+4744,001o000000ivZ0bAAE,Dalton Utilities,,
+4792,001o000000ivZ0aAAE,"Daggett, Village of",,
+1883,001o000000ivYzZAAU,"Blue Earth, City of",,
+7264,001o000000ivYZzAAM,"Glades Electric Cooperative, Inc.",,
+7318,001o000000ivYZYAA2,"Goldenwest Electric Cooperative, Inc.",,
+7269,001o000000ivYZxAAM,"Glasco, City of",,
+1892,001o000000ivYzWAAU,"Bluebonnet Electric Coop, Inc",,
+7353,001o000000ivYZWAA2,Golden Valley Electric Association,,
+1896,001o000000ivYzVAAU,"Bluffton, City of",,
+7287,001o000000ivYZvAAM,"Glen Elder, City of",,
+1898,001o000000ivYzUAAU,"Bon Homme Yankton El Assn, Inc",,
+7368,001o000000ivYZUAA2,"Goldthwaite, City of",,
+1913,001o000000ivYzTAAU,"Boerne, City of",,
+7370,001o000000ivYZTAA2,"Gonzales, City of",,
+1955,001o000000ivYzSAAU,"Bridgeport Utilities, City of",,
+7411,001o000000ivYZSAA2,"Gothenburg, City of",,
+1956,001o000000ivYzRAAU,"Bonners Ferry, City of",,
+7419,001o000000ivYZRAA2,"Goldsmith, City of",,
+1968,001o000000ivYzQAAU,Boone Valley Electric Coop,,
+7424,001o000000ivYZQAA2,Gowrie Municipal Utilities,,
+7443,001o000000ivYZPAA2,"Graettinger, City of",,
+1987,001o000000ivYzOAAU,"Bostic, Town of",,
+7450,001o000000ivYZNAA2,Grady Electric Membership Corp,,
+7456,001o000000ivYZMAA2,Graham County Electric Coop Inc,,
+2008,001o000000ivYzLAAU,"Boulder, City of",,
+2049,001o000000ivYzKAAU,"Bowie-Cass Electric Coop, Inc",,
+7478,001o000000ivYZKAA2,"Granada, Town of",,
+2050,001o000000ivYzJAAU,"Bowie, City of",,
+2064,001o000000ivYzHAAU,"Boyce, Town of",,
+4836,001o000000ivYzGAAU,"David City, City of",,
+4914,001o000000ivYzFAAU,"Davenport, Village of",,
+7292,001o000000ivYZcAAM,Glencoe Light & Power Comm,,
+7300,001o000000ivYZaAAM,Glenwood Springs City of,,
+1871,001o000000ivYzaAAE,"Blooming Prairie, City of",,
+16181,001o000000ivYZ9AAM,Rochester Public Utilities,,
+7484,001o000000ivYZ0AAM,"Grand Electric Coop, Inc",,
+7486,001o000000ivYYzAAM,Grand Junction City of,,
+14857,001o000000ivYyYAAU,Pitt & Greene Elec Member Corp,,
+7487,001o000000ivYYyAAM,"Grand Marais, City of",,
+4934,001o000000ivYyyAAE,"De Witt, Village of",,
+7489,001o000000ivYYxAAM,Grand Rapids Public Util Comm,,
+14867,001o000000ivYyWAAU,"Petoskey, City of",,
+7490,001o000000ivYYwAAM,Grand River Dam Authority,,
+4959,001o000000ivYywAAE,Aniak Light & Power Co Inc,,
+7494,001o000000ivYYvAAM,Granite Falls City of,,
+7496,001o000000ivYYuAAM,Granite Falls Town of,,
+4961,001o000000ivYyuAAE,"Decatur, Village of",,
+4981,001o000000ivYytAAE,"Deaver, City of",,
+7501,001o000000ivYYsAAM,"Granite, City of",,
+5015,001o000000ivYysAAE,Delano Municipal Utilities,,
+15022,001o000000ivYyRAAU,"Piedmont, City of",,
+15023,001o000000ivYyQAAU,Piedmont Electric Member Corp,,
+5056,001o000000ivYyqAAE,"Denison, City of",,
+7558,001o000000ivYYpAAM,Grayson Rural Electric Coop Corp,,
+7559,001o000000ivYYoAAM,Grayson-Collin Electric Cooperative,,
+5071,001o000000ivYyoAAE,"Dunreith, Town of",,
+7563,001o000000ivYYnAAM,"Grand Valley Rural Power Lines, Inc.",,
+5076,001o000000ivYynAAE,"Denver, City of",,
+7593,001o000000ivYYlAAM,"Green Cove Springs, City of",,
+7601,001o000000ivYYjAAM,Green Mountain Power,,
+5097,001o000000ivYyjAAE,"Deshler, City of",,
+14717,001o000000ivYyfAAE,Pee Dee Electric Member Corp,,
+7631,001o000000ivYYFAA2,"Greensburg, City of",,
+14775,001o000000ivYyeAAE,People's Electric Cooperative,,
+7633,001o000000ivYYEAA2,"Greenup, Village of",,
+7650,001o000000ivYYBAA2,"Greenwood, Village of",,
+14806,001o000000ivYyaAAE,"Perry, City of",,
+7651,001o000000ivYYAAA2,Greenwood Utilities,,
+7654,001o000000ivYY9AAM,Greer Commission of Public Wks,,
+7679,001o000000ivYY6AAM,"Griffin, City of",,
+7712,001o000000ivYY5AAM,"Groton, City of",,
+7720,001o000000ivYY2AAM,"Grundy Electric Coop, Inc",,
+7732,001o000000ivYY0AAM,"Grove City, City of",,
+7743,001o000000ivYXzAAM,Grundy Center Mun Light & Power,,
+2210,001o000000ivYxYAAU,Bridgeport City of,,
+2220,001o000000ivYxVAAU,Brigham City Corporation,,
+5111,001o000000ivYxSAAU,"Detroit Lakes, City of",,
+5155,001o000000ivYxRAAU,"Dike, City of",,
+5202,001o000000ivYxPAAU,Dixie Electric Membership Corp,,
+5204,001o000000ivYxOAAU,Dixie Electric Coop,,
+5309,001o000000ivYxNAAU,"Dothan, City of",,
+5325,001o000000ivYxMAAU,"Douglas, City of",,
+5326,001o000000ivYxLAAU,Douglas County PUD,,
+2120,001o000000ivYxkAAE,"Brainard, Village of",,
+2138,001o000000ivYxjAAE,Brainerd Public Utilities,,
+5343,001o000000ivYxHAAU,"Dowagiac, City of",,
+5372,001o000000ivYxFAAU,"Drexel, Town of",,
+5392,001o000000ivYxEAAU,Dublin Municipal Electric Util,,
+2182,001o000000ivYxeAAE,"Breckenridge, City of",,
+2183,001o000000ivYxdAAE,"Breda, City of",,
+5402,001o000000ivYxCAAU,"Due West, City of",,
+2188,001o000000ivYxcAAE,"Breese, City of",,
+2192,001o000000ivYxbAAE,Bremen Electric Light & Power Co,,
+5417,001o000000ivYxAAAU,Dunn County Electric Coop,,
+2194,001o000000ivYxaAAE,"Brenham, City of",,
+5429,001o000000ivYx9AAE,"Duncan, City of",,
+15034,001o000000ivYx8AAE,Pierce Pepin Coop. Services,,
+15039,001o000000ivYx7AAE,"Pierce, City of",,
+15040,001o000000ivYx6AAE,Pierre City of,,
+15041,001o000000ivYx5AAE,"Pierz, City of",,
+15043,001o000000ivYx4AAE,Piggott City of,,
+15046,001o000000ivYx3AAE,"Pikeville, Town of",,
+7752,001o000000ivYX2AAM,"Guadalupe Valley Electric Cooperative, Inc",,
+15049,001o000000ivYx2AAE,Pinal Cnty Electrical Dist No4,,
+7759,001o000000ivYX1AAM,"Guernsey, Town of",,
+15058,001o000000ivYx1AAE,"Pinetops, Town of",,
+7760,001o000000ivYX0AAM,"Gueydan, Town of",,
+30517,001o000000ivYx0AAE,Pioneer Electric Cooperative,,
+7785,001o000000ivYWzAAM,"Gulf Coast Electric Coop, Inc",,
+15075,001o000000ivYwzAAE,"Pioche, City of",,
+7787,001o000000ivYWyAAM,Gunnison County Electric Association,,
+40036,001o000000ivYwyAAE,Pioneer Power and Light Company - Westfield Milling and Electric Light Company,,
+15104,001o000000ivYwxAAE,"Pitcairn, Bourough of",,
+15132,001o000000ivYwwAAE,"Plainview, City of",,
+7826,001o000000ivYWvAAM,"Gunnison, City of",,
+15137,001o000000ivYwvAAE,Plaquemine City of,,
+7833,001o000000ivYWuAAM,Gwitchyaa Zhee Utility Co,,
+15138,001o000000ivYwuAAE,"Platte-Clay Electric Coop, Inc",,
+7837,001o000000ivYWtAAM,"Guttenberg, City of",,
+7864,001o000000ivYWsAAM,Grundy County Rural Elec Coop,,
+15180,001o000000ivYwsAAE,"Pocahontas, City of",,
+7870,001o000000ivYWrAAM,H-D Electric Coop Inc,,
+7887,001o000000ivYWqAAM,Habersham Electric Membership Corp,,
+15201,001o000000ivYwqAAE,"Pomona, City of",,
+7891,001o000000ivYWpAAM,"Guernsey-Muskingum Electric Co-op, Inc.",,
+7908,001o000000ivYWoAAM,Hagerstown Light Department,,
+7958,001o000000ivYWnAAM,"Hallettsville, City of",,
+7969,001o000000ivYWmAAM,"Halstad, City of",,
+2270,001o000000ivYwDAAU,"Bronson, City of",,
+2010,001o000000ivYWCAA2,Bountiful City Light & Power,,
+2285,001o000000ivYwBAAU,Brookings City of,,
+2289,001o000000ivYwAAAU,"Brooklyn, Town of",,
+2304,001o000000ivYw9AAE,"Brookston, Town of",,
+7979,001o000000ivYW7AAM,Hamilton County Electric Co-op Assn,,
+2394,001o000000ivYw7AAE,Burke-Divide Electric Coop Inc,,
+2404,001o000000ivYw6AAE,"Brownfield, City of",,
+7996,001o000000ivYW5AAM,"Hamilton, Town of",,
+2409,001o000000ivYw5AAE,Brownsville Public Utilities Board,,
+2412,001o000000ivYw4AAE,"Brownton, City of",,
+8022,001o000000ivYW3AAM,"Hampton, City of",,
+2423,001o000000ivYw3AAE,"Brundidge, City of",,
+8034,001o000000ivYW2AAM,"Hancock-Wood Electric Co-op, Inc.",,
+8055,001o000000ivYW1AAM,"Hannibal, City of",,
+8063,001o000000ivYW0AAM,"Hampton, Village of",,
+2448,001o000000ivYw0AAE,"Bryant, City of",,
+8122,001o000000ivYVyAAM,Harlan Municipal Utilities,,
+8131,001o000000ivYVxAAM,"Harmony, City of",,
+2487,001o000000ivYvxAAE,"Buford, City of",,
+8139,001o000000ivYVwAAM,Harquahala Valley Pwr District,,
+2491,001o000000ivYvwAAE,"Buhl, City of",,
+8179,001o000000ivYVvAAM,Harrison County Rural E M C,,
+2502,001o000000ivYvvAAE,"Buckeye Rural Elec Coop, Inc",,
+5563,001o000000ivYvUAAU,"Earlville, City of",,
+8198,001o000000ivYVuAAM,Harrisonburg City of,,
+8199,001o000000ivYVtAAM,Harrisonville City of,,
+5438,001o000000ivYvtAAE,"Duncan Valley Elec Coop, Inc",,
+7027,001o000000ivYVTAA2,City of Gastonia,,
+8205,001o000000ivYVsAAM,"Hart Hydro, City of",,
+12388,001o000000ivYVSAA2,City of Metropolis,,
+5575,001o000000ivYvRAAU,East Grand Forks City of,,
+8209,001o000000ivYVrAAM,Hartford City of,,
+5487,001o000000ivYvrAAE,Duquesne Light Co.,,
+13416,001o000000ivYVRAA2,City of New Bern,,
+5580,001o000000ivYvQAAU,"East Kentucky Power Cooperative, Inc",,
+8210,001o000000ivYVqAAM,Hart Electric Member Corp,,
+19430,001o000000ivYVQAA2,City of Union Utilities,,
+5582,001o000000ivYvPAAU,"East Point, City of",,
+8214,001o000000ivYVpAAM,"Hartley, City of",,
+5518,001o000000ivYvpAAE,"Dysart, City of",,
+5583,001o000000ivYvOAAU,"Easton, City of",,
+5479,001o000000ivYvoAAE,"Durant, City of",,
+5584,001o000000ivYvNAAU,East End Mutual Elec Co Ltd,,
+5531,001o000000ivYvnAAE,Enerstar Electric Cooperative,,
+40364,001o000000ivYvLAAU,"Portland, City of",,
+27000,001o000000ivYvlAAE,Western Area Power Administration,,
+15248,001o000000ivYvKAAU,Portland General Electric,,
+27316,001o000000ivYviAAE,"Stowe, Town of",,
+15294,001o000000ivYvHAAU,"Powell, City of",,
+15297,001o000000ivYvFAAU,"Plummer, City of",,
+15321,001o000000ivYvDAAU,"Pratt, City of",,
+15337,001o000000ivYvCAAU,"Prescott, City of",,
+15340,001o000000ivYvBAAU,Presque Isle Elec & Gas Coop,,
+8245,001o000000ivYVBAA2,Hastings City of,,
+15344,001o000000ivYvAAAU,Polk-Burnett Electric Coop,,
+12199,001o000000ivYVaAAM,Montana-Dakota Utilities,,
+8276,001o000000ivYV9AAM,Havana Power & Light Company,,
+15346,001o000000ivYv9AAE,"Polk, Village of",,
+8283,001o000000ivYV8AAM,Harrison County Rrl Elec Coop,,
+15348,001o000000ivYv8AAE,Preston Public Utilities Comm,,
+15352,001o000000ivYv6AAE,"Prague, Village of",,
+8307,001o000000ivYV5AAM,Hawley Public Utilities Comm,,
+15356,001o000000ivYv5AAE,Price Electric Coop.,,
+8311,001o000000ivYV4AAM,"Haxtun, Town of",,
+8319,001o000000ivYV3AAM,Heartland Power Coop,,
+15387,001o000000ivYv3AAE,Princeton Public Utils Comm,,
+8333,001o000000ivYV2AAM,Haywood Electric Member Corp,,
+8359,001o000000ivYUzAAM,"Hearne, City of",,
+8375,001o000000ivYUyAAM,"Hebron, City of",,
+8379,001o000000ivYUxAAM,"Hecla, City of",,
+8428,001o000000ivYUwAAM,"Helper, City of",,
+8430,001o000000ivYUvAAM,"Hemingford, Village of",,
+8432,001o000000ivYUuAAM,Hemphill City of,,
+8435,001o000000ivYUtAAM,"Hempstead, City of",,
+9128,001o000000ivYURAA2,Hurricane City Power,,
+2545,001o000000ivYuPAAU,"Burley, City of",,
+9163,001o000000ivYUPAA2,Hyrum City Corporation,,
+2547,001o000000ivYuOAAU,"Burlingame, City of",,
+2559,001o000000ivYuKAAU,"Burnet, City of",,
+2599,001o000000ivYuJAAU,Burt County Public Power Dist,,
+2600,001o000000ivYuIAAU,"Burt, City of",,
+2609,001o000000ivYuHAAU,"Burwell, City of",,
+2634,001o000000ivYuGAAU,"Bushnell, City of",,
+8447,001o000000ivYUGAA2,Hendricks County Rural E M C,,
+8449,001o000000ivYUFAA2,Henderson City Utility Comm,,
+8466,001o000000ivYUEAA2,Henry County Rural E M C,,
+8490,001o000000ivYUDAA2,"Herington, City of",,
+8493,001o000000ivYUCAA2,"Hermann, City of",,
+2650,001o000000ivYuBAAU,"Butler, Bourough of",,
+8497,001o000000ivYUBAA2,"Herndon, City of",,
+2652,001o000000ivYuAAAU,Butler County Rural Elec Coop,,
+8517,001o000000ivYU9AAM,Hertford City of,,
+2655,001o000000ivYu9AAE,"Butte Electric Coop, Inc",,
+8532,001o000000ivYU8AAM,Heyburn City of,,
+2726,001o000000ivYu8AAE,"Cabool, City of",,
+8543,001o000000ivYU7AAM,Hibbing Public Utilities Comm,,
+2773,001o000000ivYu6AAE,"Cairo, City of",,
+8573,001o000000ivYU5AAM,"Highland, City of",,
+8579,001o000000ivYU4AAM,"Highlands, City of",,
+5588,001o000000ivYu4AAE,East-Central Iowa Rural Elec Coop,,
+8599,001o000000ivYU3AAM,"Hill City, City of",,
+5598,001o000000ivYu3AAE,East Central Oklahoma Elec Coop Inc,,
+8610,001o000000ivYU2AAM,"Hinton, City of",,
+8620,001o000000ivYU1AAM,"HILCO Electric Cooperative, Inc.",,
+5605,001o000000ivYu1AAE,Eastern Iowa Light & Power Coop,,
+5609,001o000000ivYu0AAE,"Eastern Maine Electric Co-op, Inc.",,
+8629,001o000000ivYTzAAM,"Hillsboro, City of",,
+5625,001o000000ivYtzAAE,Easton Utilities,,
+5630,001o000000ivYtyAAE,"Eaton Rapids, City of",,
+12928,001o000000ivYTYAA2,Morgan City Corporation,,
+8632,001o000000ivYTxAAM,"Hill County Electric Coop, Inc",,
+5631,001o000000ivYtxAAE,"Eatonville, Town of",,
+5655,001o000000ivYtuAAE,Edinburg Municipal Utilities,,
+5656,001o000000ivYttAAE,Edgecombe-Martin County EMC,,
+5661,001o000000ivYtrAAE,"Edmond, City of",,
+5686,001o000000ivYtqAAE,"El Dorado Springs, City of",,
+5692,001o000000ivYtpAAE,"Eitzen, City of",,
+5701,001o000000ivYtoAAE,El Paso Electric,,
+13388,001o000000ivYTOAA2,Nephi City Corp.,,
+13482,001o000000ivYTNAA2,New River Light & Power Co.,,
+15433,001o000000ivYtlAAE,"Prosperity, Town of",,
+15444,001o000000ivYtkAAE,Provo City Corporation,,
+5794,001o000000ivYTKAA2,"Elkton, Town of",,
+15460,001o000000ivYtjAAE,Proctor Public Utilities Comm,,
+5795,001o000000ivYTJAA2,"Elsmore, City of",,
+5796,001o000000ivYTIAA2,"Ellaville, City of",,
+15477,001o000000ivYthAAE,Public Service Electric & Gas,,
+5802,001o000000ivYTHAA2,"Ellinwood, City of",,
+5827,001o000000ivYTGAA2,"Ellsworth, City of",,
+15500,001o000000ivYtfAAE,Puget Sound Energy,,
+15515,001o000000ivYteAAE,Purcell City of,,
+8677,001o000000ivYTEAA2,"Hobgood, Town of",,
+11571,001o000000ivYTdAAM,Manitowoc Public Utilities,,
+8700,001o000000ivYTCAA2,Hohokam Irr & Drain Dist,,
+8703,001o000000ivYTBAA2,"Hoisington, City of",,
+8715,001o000000ivYTAAA2,"Holden, Town of (MA)",,
+8723,001o000000ivYT9AAM,Holland Board of Public Works,,
+8751,001o000000ivYT7AAM,"Holly, Town of",,
+8773,001o000000ivYT6AAM,Holy Cross Energy,,
+8774,001o000000ivYT5AAM,Holyoke City of,,
+8781,001o000000ivYT3AAM,"Holyrood, City of",,
+8799,001o000000ivYT0AAM,Hominy City of,,
+2931,001o000000ivYsZAAU,"Campbell, Village of",,
+8824,001o000000ivYSzAAM,M J M Electric Cooperative Inc,,
+5730,001o000000ivYsXAAU,"Elberton, City of",,
+5744,001o000000ivYsWAAU,"Electra, City of",,
+5762,001o000000ivYsVAAU,"Elk Creek, Village of",,
+5896,001o000000ivYSVAA2,"Enfield, Town of",,
+5771,001o000000ivYsUAAU,"Elk Point, City of",,
+5915,001o000000ivYSUAA2,"Enosburg Falls, Village of",,
+5773,001o000000ivYsTAAU,Elk River Municipal Utilities,,
+40433,001o000000ivYSTAA2,"Enterprise, City of",,
+5780,001o000000ivYsRAAU,Elkhorn Rural Public Pwr Dist,,
+2774,001o000000ivYsrAAE,CMS Electric Coop Inc,,
+9879,001o000000ivYsQAAU,City Water and Light Plant,,
+15202,001o000000ivYSqAAM,Ponca City Energy,,
+2776,001o000000ivYsqAAE,Cairo Public Utility Company,,
+9897,001o000000ivYsPAAU,"King Cove, City of",,
+2800,001o000000ivYspAAE,"Caldwell, City of",,
+9922,001o000000ivYsOAAU,Jump River Electric Coop Inc,,
+2809,001o000000ivYsoAAE,"Callender, City of",,
+5945,001o000000ivYSOAA2,"Erath, City of",,
+9928,001o000000ivYsNAAU,"Julesburg, City of",,
+2821,001o000000ivYsnAAE,Caliente City of,,
+5957,001o000000ivYSMAA2,Erie City of,,
+5964,001o000000ivYSLAA2,"Escambia River Elec Coop, Inc",,
+9964,001o000000ivYsKAAU,Kenergy Corp,,
+16195,001o000000ivYSkAAM,Rock Hill Utilities,,
+2859,001o000000ivYsiAAE,"Callaway, Village of",,
+8847,001o000000ivYSIAA2,"Hopkinton, City of",,
+8871,001o000000ivYSHAA2,"Horton, City of",,
+2888,001o000000ivYsgAAE,"Cambridge, City of",,
+8883,001o000000ivYSGAA2,Houlton Water Company,,
+2890,001o000000ivYsfAAE,"Camden, City of",,
+8884,001o000000ivYSFAA2,Terrebonne Parish Consol Gov't,,
+2900,001o000000ivYseAAE,"Cameron, City of",,
+8896,001o000000ivYSEAA2,"Houston, City of",,
+17264,001o000000ivYSdAAM,Sioux Center Municipal Utilities,,
+8898,001o000000ivYSDAA2,Houston County Elec Coop Inc,,
+2910,001o000000ivYscAAE,"Camilla, City of",,
+8901,001o000000ivYSCAA2,CenterPoint Energy,,
+2911,001o000000ivYsbAAE,"Canadian Valley Elec Coop, Inc",,
+8911,001o000000ivYSBAA2,Howard Electric Coop,,
+5850,001o000000ivYSaAAM,"Emerson, City of",,
+8919,001o000000ivYSAAA2,"Howard, City of",,
+8934,001o000000ivYS9AAM,"Howell-Oregon Elec Coop, Inc",,
+9011,001o000000ivYS3AAM,"Hugoton, City of",,
+9025,001o000000ivYS2AAM,"Hunnewell, City of",,
+9995,001o000000ivYs2AAE,Kanosh Town Corporation,,
+9067,001o000000ivYS0AAM,"Hope, City of",,
+9088,001o000000ivYRzAAM,Huntingburg City of,,
+6052,001o000000ivYRZAA2,"Evergreen, City of",,
+6127,001o000000ivYRXAA2,"Fairbank, City of",,
+18206,001o000000ivYRwAAM,South Utah Valley Electric Service District,,
+6130,001o000000ivYRWAA2,"Fairburn, City of",,
+6132,001o000000ivYRVAA2,"Fairbury, City of",,
+6136,001o000000ivYRUAA2,Fairmont Village of,,
+18125,001o000000ivYRtAAM,Stillwater Electric Utility,,
+6138,001o000000ivYRTAA2,"Fairfax, City of",,
+6141,001o000000ivYRSAA2,"Fairfield, City of",,
+6145,001o000000ivYRRAA2,Fairhope City of,,
+6149,001o000000ivYRQAA2,"Ellensburg, City of",,
+6151,001o000000ivYRPAA2,Fairmont Public Utilities Comm,,
+6152,001o000000ivYROAA2,"Fairview, City of",,
+6155,001o000000ivYRNAA2,"Farmers Electric Company, Ltd",,
+6157,001o000000ivYRMAA2,"Faith, City of",,
+9130,001o000000ivYRIAA2,Hutchinson Utilities Comm,,
+9144,001o000000ivYRHAA2,Hyde Park Village of,,
+9187,001o000000ivYRFAA2,Idaho Falls Power,,
+5995,001o000000ivYReAAM,"Estelline, City of",,
+9188,001o000000ivYREAA2,"I-N-N Electric Coop, Inc",,
+9186,001o000000ivYRDAA2,Idaho Power Company,,
+5998,001o000000ivYRcAAM,"Estherville, City of",,
+9192,001o000000ivYRCAA2,Igiugig Electric Company,,
+9209,001o000000ivYR9AAM,Illinois Electric Cooperative,,
+2964,001o000000ivYr2AAE,Cannelton Utilities,,
+2974,001o000000ivYr1AAE,Canton Municipal Utilities,,
+2982,001o000000ivYr0AAE,Cape Hatteras Electric Cooperative,,
+10066,001o000000ivYqZAAU,K C Electric Association,,
+2985,001o000000ivYqzAAE,"Capital Electric Cooperative, Inc.",,
+10071,001o000000ivYqYAAU,Kauai Island Utility Cooperative,,
+2986,001o000000ivYqyAAE,"Cam Wal Electric Coop, Inc",,
+10089,001o000000ivYqXAAU,Keewatin Public Utilities,,
+10144,001o000000ivYqWAAU,Kennebunk Light & Power Dist,,
+3029,001o000000ivYqwAAE,Crlisle City of,,
+10152,001o000000ivYqVAAU,"Kennett, City of",,
+3037,001o000000ivYqvAAE,Carlyle City of,,
+10153,001o000000ivYqUAAU,KEM Electric Coop Inc,,
+10172,001o000000ivYqTAAU,"Marathon, City of",,
+10179,001o000000ivYqSAAU,Kenyon Municipal Utilities,,
+9217,001o000000ivYQsAAM,"Imperial, City of",,
+3082,001o000000ivYqsAAE,Carrollton Board of Public Wks,,
+6172,001o000000ivYQSAA2,"Fallon, City of",,
+10181,001o000000ivYqRAAU,Keosauqua Municipal Light & Pwr,,
+9231,001o000000ivYQrAAM,"Independence, City of",,
+27599,001o000000ivYqrAAE,Carroll County REMC,,
+10210,001o000000ivYqQAAU,Ketchikan Public Utilities,,
+3107,001o000000ivYqqAAE,Carteret-Craven El Member Corp,,
+6178,001o000000ivYQQAA2,"Falmouth, City of",,
+6182,001o000000ivYQPAA2,"Farmers Electric Cooperative, Inc",,
+6183,001o000000ivYQOAA2,"Fayette Electric Co-op, Inc.",,
+3113,001o000000ivYqnAAE,"Carthage, City of",,
+6192,001o000000ivYQNAA2,"Farmer City, City of",,
+3137,001o000000ivYqlAAE,Cascade Municipal Utilities,,
+6203,001o000000ivYQLAA2,Farmersville City of,,
+3153,001o000000ivYqjAAE,"Casey, City of",,
+6205,001o000000ivYQJAA2,"Farmington, City of",,
+10009,001o000000ivYqiAAE,"Karnes Electric Cooperative, Inc.",,
+10012,001o000000ivYqhAAE,Kay Electric Coop,,
+6209,001o000000ivYQHAA2,"Farmville, Town of",,
+6210,001o000000ivYQGAA2,"Farnhamville, City of",,
+10025,001o000000ivYqfAAE,"Kaplan, City of",,
+6231,001o000000ivYQFAA2,"Fayette, City of",,
+6235,001o000000ivYQEAA2,Public Works Comm-City of Fayetteville,,
+10037,001o000000ivYqdAAE,"Kasota, City of",,
+10040,001o000000ivYqcAAE,"Kasson, City of",,
+6272,001o000000ivYQCAA2,"FEM Electric Assn, Inc",,
+6276,001o000000ivYQBAA2,"Ferdinand, Town of",,
+10063,001o000000ivYqaAAE,Kaysville City Corporation,,
+9274,001o000000ivYQAAA2,"Indianola, City of",,
+9275,001o000000ivYQ9AAM,Indianola Municipal Utilities,,
+9292,001o000000ivYQ7AAM,Inter County Energy Coop Corp,,
+9416,001o000000ivYQ5AAM,Ipnatchiaq Electric Company,,
+9418,001o000000ivYQ3AAM,"Iola, City of",,
+9422,001o000000ivYQ2AAM,J-A-C Electric Coop Inc,,
+9425,001o000000ivYQ1AAM,Iowa Lakes Electric Coop,,
+9431,001o000000ivYQ0AAM,Irwin Electric Membership Corp,,
+6297,001o000000ivYPZAA2,Ferry County PUD,,
+9463,001o000000ivYPyAAM,"Isabel, City of",,
+9472,001o000000ivYPxAAM,"Itta Bena, City of",,
+17492,001o000000ivYpwAAE,SOCORRO ELECTRIC COOPERATIVE,,
+9541,001o000000ivYPvAAM,"Iuka, City of",,
+6335,001o000000ivYPVAA2,"Firelands Electric Coop, Inc",,
+6369,001o000000ivYPTAA2,Fishers Island Utility Co Inc,,
+6380,001o000000ivYPRAA2,Fitzgerald Wtr Lgt & Bond Comm,,
+3168,001o000000ivYpQAAU,"Castroville, City of",,
+3186,001o000000ivYpOAAU,"Cavalier, City of",,
+6417,001o000000ivYPOAA2,"Flora, City of",,
+3191,001o000000ivYpNAAU,"Cawker City, City of",,
+6418,001o000000ivYPNAA2,"Fleming, Town of",,
+3203,001o000000ivYpMAAU,Cedar Falls Utilities,,
+6425,001o000000ivYPMAA2,Flora Utilities,,
+3205,001o000000ivYpLAAU,Cedar-Knox Public Power Dist,,
+6427,001o000000ivYPLAA2,"Floresville, City of",,
+6431,001o000000ivYPKAA2,"Flint Hills Rural E C A, Inc",,
+3222,001o000000ivYpJAAU,Central Alabama Electric Cooperative,,
+6442,001o000000ivYPJAA2,Fleming-Mason Energy Coop Inc,,
+3235,001o000000ivYpGAAU,"Central City, City of",,
+9616,001o000000ivYPCAA2,Beaches Energy Services,,
+9617,001o000000ivYPBAA2,JEA,,
+9646,001o000000ivYP9AAM,"Jamestown, Town of",,
+9650,001o000000ivYP8AAM,Janesville City of,,
+10260,001o000000ivYp8AAE,"Kimball, City of",,
+9666,001o000000ivYP7AAM,Jay County Rural E M C,,
+10265,001o000000ivYp7AAE,"Kimballton, City of",,
+9668,001o000000ivYP5AAM,"Jasper-Newton Elec Coop, Inc",,
+10320,001o000000ivYp5AAE,"Kingfisher, City of",,
+9682,001o000000ivYP4AAM,"Jefferson Davis Elec Coop, Inc",,
+10321,001o000000ivYp4AAE,Kingman City of,,
+9689,001o000000ivYP3AAM,Jefferson Electric Member Corp,,
+13027,001o000000ivYP2AAM,"Jemez Mountains Elec Coop, Inc",,
+10326,001o000000ivYp2AAE,Kittitas County PUD,,
+10329,001o000000ivYp1AAE,"Kingsbury Electric Cooperative, Inc.",,
+9732,001o000000ivYP0AAM,"Jetmore, City of",,
+10345,001o000000ivYp0AAE,"Kinston, City of",,
+9734,001o000000ivYOzAAM,Jewett City City of,,
+10351,001o000000ivYozAAE,"Kiowa, City of",,
+10359,001o000000ivYoyAAE,Kirbyville Light & Power Co,,
+6579,001o000000ivYOYAA2,"Forest City, City of",,
+9777,001o000000ivYOxAAM,"Johnson, City of",,
+10370,001o000000ivYoxAAE,"Kirkwood, City of",,
+6580,001o000000ivYOXAA2,"Forest City, Town of",,
+10376,001o000000ivYowAAE,Kissimmee Utility Authority,,
+10378,001o000000ivYovAAE,"Kit Carson Electric Cooperative, Inc",,
+6598,001o000000ivYOVAA2,"Forsyth, City of",,
+10393,001o000000ivYouAAE,Klickitat PUD,,
+10407,001o000000ivYotAAE,"Knightstown, Town of",,
+6611,001o000000ivYOTAA2,Fort Belknap Electric Coop Inc,,
+6615,001o000000ivYOSAA2,"Fort Pierre, City of",,
+10451,001o000000ivYorAAE,"Kotzebue Electric Association., Inc.",,
+6617,001o000000ivYORAA2,Fort Valley Utility Comm,,
+10491,001o000000ivYoqAAE,Kwig Power Company,,
+6618,001o000000ivYOQAA2,"Fort Supply, Town of",,
+6638,001o000000ivYOPAA2,"Fountain, City of",,
+6709,001o000000ivYONAA2,Easley Combined Utility System,,
+9806,001o000000ivYOLAA2,Johnson Village of,,
+9832,001o000000ivYOKAA2,Kuiggluum Kallugvia,,
+6472,001o000000ivYOeAAM,"Floydada, City of",,
+6491,001o000000ivYOdAAM,Foley Board of Utilities,,
+6496,001o000000ivYOcAAM,"Fonda, City of",,
+6501,001o000000ivYObAAM,"Fontanelle, City of",,
+6509,001o000000ivYOaAAM,"Fort Laramie, Town of",,
+6722,001o000000ivYO0AAM,Franklin Rural Electric Cooperative,,
+6718,001o000000ivYNzAAM,"Franklin, City of",,
+3282,001o000000ivYnYAAU,"Central Texas Elec Coop, Inc",,
+6750,001o000000ivYNyAAM,"Frederick, City of",,
+3287,001o000000ivYnXAAU,"Central Valley Electric Cooperative, Inc.",,
+3291,001o000000ivYnVAAU,Central Virginia Electric Coop,,
+6761,001o000000ivYNuAAM,Fredericktown City of,,
+3294,001o000000ivYnTAAU,"Centralia, City of",,
+6753,001o000000ivYNtAAM,"Fredonia, City of",,
+6764,001o000000ivYNsAAM,Freeburg Village of,,
+3298,001o000000ivYnQAAU,"Centuria, Village of",,
+6779,001o000000ivYNqAAM,Fremont City of,,
+3314,001o000000ivYnPAAU,"Chariton Valley Elec Coop, Inc",,
+6780,001o000000ivYNpAAM,"Fremont, Town of",,
+3323,001o000000ivYnOAAU,"Chalmers, Town of",,
+6784,001o000000ivYNoAAM,French Broad Elec Member Corp,,
+3329,001o000000ivYnNAAU,"Chambersburg, Bourough of",,
+6793,001o000000ivYNnAAM,"Friend, City of",,
+3355,001o000000ivYnMAAU,"Chanute, City of",,
+6804,001o000000ivYNlAAM,Frontier Power Company,,
+6839,001o000000ivYNkAAM,"Fulton, City of",,
+6848,001o000000ivYNjAAM,Fulton County Rural E M C,,
+10538,001o000000ivYnIAAU,"La Plata, City of",,
+10550,001o000000ivYnGAAU,McCook Public Power District,,
+10558,001o000000ivYnFAAU,"LaCreek Electric Assn, Inc",,
+10559,001o000000ivYnEAAU,"La Crosse, City of",,
+3265,001o000000ivYneAAE,Cleco Power LLC,,
+10562,001o000000ivYnDAAU,Lagrange County Rural E M C,,
+10568,001o000000ivYnCAAU,Ladoga Town of,,
+3268,001o000000ivYncAAE,Central Missouri Elec Coop Inc,,
+10573,001o000000ivYnBAAU,"Hildreth, Village of",,
+10585,001o000000ivYn9AAE,"La Grange, City of",,
+10586,001o000000ivYn8AAE,La Grange Town of,,
+10596,001o000000ivYn6AAE,"Lake Crystal, City of",,
+10599,001o000000ivYn5AAE,"Lake Region Electric Coop, Inc",,
+10606,001o000000ivYn3AAE,"Lake Mills, City of",,
+10608,001o000000ivYn2AAE,Lake Park City of,,
+3437,001o000000ivYlZAAU,"Cherryville, City of",,
+3445,001o000000ivYlYAAU,"Chester, Village of",,
+3447,001o000000ivYlXAAU,"Chester, Town of",,
+3454,001o000000ivYlWAAU,"Chetopa, City of",,
+3465,001o000000ivYlUAAU,Chitina Electric Inc,,
+3470,001o000000ivYlTAAU,Cherokee County Elec Coop Assn,,
+10617,001o000000ivYlPAAU,"Lake View, City of",,
+10620,001o000000ivYlNAAU,"Lake Worth, City of",,
+3356,001o000000ivYlmAAE,"Ceylon, City of",,
+3366,001o000000ivYllAAE,"Chapman, City of",,
+3373,001o000000ivYlkAAE,"Chappell, City of",,
+19876,001o000000ivYLKAA2,Dominion Virginia Power,,
+3384,001o000000ivYljAAE,"Charlevoix, City of",,
+3400,001o000000ivYliAAE,"Chaska, City of",,
+10622,001o000000ivYlHAAU,"Lakefield, City of",,
+3406,001o000000ivYlhAAE,"Chattahoochee, City of",,
+3415,001o000000ivYlfAAE,"Chelsea, Village of",,
+10627,001o000000ivYlEAAU,Lakeview Light & Power,,
+3420,001o000000ivYleAAE,"Cheney, City of",,
+10629,001o000000ivYlDAAU,"Lakota, City of",,
+3422,001o000000ivYlcAAE,"Chefornak, City of",,
+10650,001o000000ivYlBAAU,"Lamoni, City of",,
+3435,001o000000ivYlbAAE,"Cherry-Todd Electric Coop, Inc",,
+10656,001o000000ivYlAAAU,Lampasas City of,,
+3436,001o000000ivYlaAAE,Cherryland Electric Coop Inc,,
+10669,001o000000ivYl9AAE,Landis Town of,,
+10687,001o000000ivYl8AAE,"Lanett, City of",,
+10697,001o000000ivYl7AAE,Lake Country Power,,
+10706,001o000000ivYl4AAE,"Larchwood, City of",,
+56224,001o000000ivYKFAA2,"Rancho Cucamonga, City of",,
+10798,001o000000ivYk4AAE,Lawrenceburg Municipal Utils,,
+10800,001o000000ivYk3AAE,"Lawrenceville, City of",,
+10817,001o000000ivYk1AAE,Lea County Electric Cooperative,,
+10857,001o000000ivYjyAAE,"Lee County Electric Coop, Inc",,
+10879,001o000000ivYjxAAE,Lehi City Corporation,,
+3633,001o000000ivYjVAAU,"McLaughlin, City of",,
+10886,001o000000ivYjvAAE,"Leigh, Village of",,
+3634,001o000000ivYjUAAU,"Nixa, City of",,
+10892,001o000000ivYjuAAE,"Leland, City of",,
+3641,001o000000ivYjTAAU,"Claiborne Electric Coop, Inc",,
+10908,001o000000ivYjtAAE,"Lenox, City of",,
+3644,001o000000ivYjSAAU,Clallam County PUD#1,,
+10944,001o000000ivYjsAAE,Lewis County PUD,,
+10716,001o000000ivYjRAAU,"Larsen Bay, City of",,
+10961,001o000000ivYjrAAE,Lewisville City of,,
+10724,001o000000ivYjQAAU,Lassen Municipal Utilities District,,
+10962,001o000000ivYjqAAE,Lewis County Rural E C A,,
+10728,001o000000ivYjPAAU,"Lane-Scott Electric Coop, Inc",,
+10730,001o000000ivYjOAAU,Las Animas City of,,
+10760,001o000000ivYjNAAU,"Laurel, City of",,
+10767,001o000000ivYjMAAU,"Linneus, City of",,
+10977,001o000000ivYjmAAE,"Liberal, City of",,
+21526,001o000000ivYjLAAU,"Laurens, City of",,
+10978,001o000000ivYjlAAE,Levan Town Corporation,,
+10776,001o000000ivYjKAAU,"Lavallette, Bourough of",,
+3477,001o000000ivYjkAAE,Chicopee City of,,
+10777,001o000000ivYjJAAU,"Laverne, Town of",,
+10784,001o000000ivYjIAAU,"Lawler, City of",,
+3486,001o000000ivYjiAAE,Chillicothe Municipal Utils,,
+13697,001o000000ivYjHAAU,North Central Power Co Inc,,
+3495,001o000000ivYjhAAE,Chimney Rock Public Power Dist,,
+13698,001o000000ivYjGAAU,North Central Public Pwr Dist,,
+3498,001o000000ivYjgAAE,Chippewa Valley Electric Coop,,
+13704,001o000000ivYjEAAU,"North Western Elec Coop, Inc",,
+13718,001o000000ivYjDAAU,"North Little Rock, City of",,
+3522,001o000000ivYjdAAE,Chugach Electric Association,,
+13730,001o000000ivYjCAAU,"North St Paul, City of",,
+14062,001o000000ivYjBAAU,"Northeast Oklahoma Electric Coop, Inc",,
+3527,001o000000ivYjbAAE,"Choctaw Electric Cooperative, Inc.",,
+3535,001o000000ivYjaAAE,"Cimarron, City of",,
+13739,001o000000ivYj9AAE,Northeast Nebraska P P D,,
+13750,001o000000ivYj8AAE,"Northern Electric Coop, Inc",,
+11014,001o000000ivYi8AAE,"Lighthouse Electric Coop, Inc",,
+11017,001o000000ivYi7AAE,"Lincoln Center, City of",,
+11018,001o000000ivYi6AAE,Lincoln Electric System,,
+11040,001o000000ivYi5AAE,"Lindsborg, City of",,
+3739,001o000000ivYhYAAU,Clearwater Power Company,,
+11055,001o000000ivYhyAAE,"Linton, City of",,
+11058,001o000000ivYhxAAE,"Lindsay, City of",,
+11064,001o000000ivYhwAAE,Litchfield Public Utilities,,
+3804,001o000000ivYhVAAU,Clinton Combined Utility Sys,,
+3806,001o000000ivYhUAAU,"Clinton County Elec Coop, Inc",,
+11099,001o000000ivYhuAAE,"Lingle, Town of",,
+17832,001o000000ivYHtAAM,Snapping Shoals EMC,,
+11103,001o000000ivYhtAAE,"Llano, City of",,
+11119,001o000000ivYhsAAE,"Lockhart, City of",,
+13756,001o000000ivYhRAAU,Northern Indiana Public Service Company,,
+11121,001o000000ivYhrAAE,Lockwood Water & Light Company,,
+13757,001o000000ivYhQAAU,North Plains Electric Coop Inc,,
+11122,001o000000ivYhqAAE,"Lodgepole, City of",,
+13758,001o000000ivYhPAAU,"Northern Lights, Inc",,
+11135,001o000000ivYhoAAE,Logan City Light & Power,,
+11141,001o000000ivYhnAAE,"Long Grove, City of",,
+13789,001o000000ivYhLAAU,"Northfield, Village of",,
+11171,001o000000ivYhlAAE,PSEG Long Island,,
+3687,001o000000ivYhjAAE,Clark Energy Coop Inc,,
+13807,001o000000ivYhIAAU,"Northwestern Electric Cooperative, Inc.",,
+13815,001o000000ivYhHAAU,Northwestern Wisconsin Elec Co,,
+3702,001o000000ivYhhAAE,Clarksdale Public Utilities,,
+13816,001o000000ivYhGAAU,"Northwood, City of",,
+13819,001o000000ivYhFAAU,"Norton, City of",,
+3705,001o000000ivYhfAAE,Clarksville Light & Water Co,,
+13825,001o000000ivYhEAAU,Norwalk Third Taxing District,,
+3710,001o000000ivYheAAE,"Clay Center, City of",,
+3757,001o000000ivYhdAAE,"Clay Electric Cooperative, Inc.",,
+13838,001o000000ivYhCAAU,"Northfork Electric Coop, Inc",,
+3716,001o000000ivYhcAAE,Clay-Union Electric Corp,,
+13839,001o000000ivYhBAAU,"Norwood, City of",,
+13853,001o000000ivYhAAAU,Oahe Electric Coop Inc,,
+13870,001o000000ivYh9AAE,"Nushagak Electric Coop, Inc",,
+11196,001o000000ivYg9AAE,"Littleton, Town of",,
+11200,001o000000ivYg8AAE,"Lorain-Medina REC, Inc.",,
+11203,001o000000ivYg7AAE,Logan County Coop Power & Light,,
+11204,001o000000ivYg6AAE,Los Alamos County Utilities Dept.,,
+11205,001o000000ivYg5AAE,"Lucama, Town of",,
+11206,001o000000ivYg4AAE,"Mulberry, City of",,
+11207,001o000000ivYg3AAE,"Muscotah, City of",,
+11211,001o000000ivYg1AAE,Lost River Electric Coop Inc,,
+11228,001o000000ivYg0AAE,"Louisburg, Town of",,
+13936,001o000000ivYfYAAU,Oakdale Electric Cooperative,,
+11250,001o000000ivYfyAAE,Loup Valleys Rural P P D,,
+13948,001o000000ivYfXAAU,"Oberlin, City of",,
+11251,001o000000ivYfxAAE,Loup River Public Power Dist,,
+13950,001o000000ivYfVAAU,"Obetz, Village of",,
+11268,001o000000ivYfvAAE,"Lowell, City of",,
+13955,001o000000ivYfUAAU,"Ocala, City of",,
+11273,001o000000ivYfuAAE,Lower Valley Energy Inc,,
+11291,001o000000ivYftAAE,Lumbee River Elec Member Corp,,
+13993,001o000000ivYfRAAU,Oglesby City of,,
+3815,001o000000ivYfrAAE,"Coatesville, Town of",,
+3828,001o000000ivYfqAAE,Cloverland Electric Cooperative,,
+3839,001o000000ivYfpAAE,Coahoma Electric Power Assn,,
+14012,001o000000ivYfOAAU,"Ohop Mutual Light Company, Inc",,
+14022,001o000000ivYfNAAU,"Oak City, Town of",,
+14054,001o000000ivYfMAAU,"Oak Creek, Town of",,
+3850,001o000000ivYfmAAE,"Codington-Clark Elec Coop, Inc",,
+14055,001o000000ivYfLAAU,Okanogan County PUD,,
+3881,001o000000ivYflAAE,"Cody, City of",,
+14057,001o000000ivYfKAAU,Okeene Public Works Authority,,
+4294,001o000000ivYfkAAE,"Coffeyville, City of",,
+3900,001o000000ivYfjAAE,"Coggon, City of",,
+3913,001o000000ivYfiAAE,"Colby, City of",,
+14074,001o000000ivYfHAAU,"Okanogan County Elec Coop, Inc",,
+3931,001o000000ivYfgAAE,Coles-Moultrie Electric Coop,,
+3938,001o000000ivYffAAE,"Coleman County Elec Coop, Inc",,
+3989,001o000000ivYfdAAE,Colorado Springs Utilities,,
+3990,001o000000ivYfcAAE,Colorado River Indian Irr Proj,,
+11298,001o000000ivYeIAAU,Lyon Rural Electric Coop,,
+11299,001o000000ivYeHAAU,"Lucas, City of",,
+11306,001o000000ivYeGAAU,"Luray, City of",,
+11316,001o000000ivYeFAAU,"Luling, City of",,
+11330,001o000000ivYeEAAU,"Lusk, Town of",,
+11332,001o000000ivYeDAAU,"Luverne, City of",,
+11334,001o000000ivYeBAAU,"Lyon-Coffey Electric Coop, Inc",,
+11345,001o000000ivYeAAAU,Lyon-Lincoln Electric Coop Inc,,
+11360,001o000000ivYe8AAE,"MacClesfield, Town of",,
+11364,001o000000ivYe7AAE,"Lyntegar Electric Cooperative, Inc.",,
+11424,001o000000ivYe5AAE,"Mabel, City of",,
+11463,001o000000ivYe4AAE,Macon Electric Cooperative,,
+11470,001o000000ivYe3AAE,"Maddock, City of",,
+11476,001o000000ivYe1AAE,"Madison, Bourough of",,
+14156,001o000000ivYdZAAU,Ontonagon County R E A,,
+4040,001o000000ivYdyAAE,Calhoun County Electric Coop Assn.,,
+14164,001o000000ivYdXAAU,"Orangeburg, City of",,
+4041,001o000000ivYdxAAE,"Columbia Rural Electric Association, Inc.",,
+14170,001o000000ivYdWAAU,Orcas Power & Light Co-op,,
+14172,001o000000ivYdVAAU,"Ord, City of",,
+14192,001o000000ivYdSAAU,Osage Valley Electric Co-op Assn.,,
+4078,001o000000ivYdsAAE,"Comanche, City of",,
+4091,001o000000ivYdrAAE,"Commerce, City of",,
+14198,001o000000ivYdQAAU,Price Municipal Corporation,,
+4150,001o000000ivYdnAAE,Concord City of,,
+4160,001o000000ivYdmAAE,Callaway Electric Cooperative,,
+14103,001o000000ivYdiAAE,Olive Hill City of,,
+14107,001o000000ivYdhAAE,"Olivia, City of",,
+14124,001o000000ivYdgAAE,"Olyphant, Bourough of",,
+14127,001o000000ivYdeAAE,Omaha Public Power District,,
+14132,001o000000ivYddAAE,"Onawa, City of",,
+14138,001o000000ivYdcAAE,"Onida, City of",,
+14146,001o000000ivYdbAAE,"Opelika, City of",,
+11572,001o000000ivYcZAAU,Mankato City of,,
+11609,001o000000ivYcWAAU,"Mapleton, City of",,
+11626,001o000000ivYcSAAU,"Marceline, City of",,
+11643,001o000000ivYcRAAU,Marias River Electric Coop Inc,,
+4247,001o000000ivYcQAAU,Consolidated Water Power Co.,,
+4262,001o000000ivYcOAAU,Cooke County Electric Co-op Assn.,,
+4280,001o000000ivYcNAAU,Conway Corporation,,
+4295,001o000000ivYcMAAU,Comanche County Electric Coop Assoc.,,
+4296,001o000000ivYcLAAU,"Cookson Hills Electric Cooperative, Inc.",,
+4304,001o000000ivYcKAAU,"Corwith, City of",,
+4305,001o000000ivYcJAAU,"Coon Rapids, City of",,
+11479,001o000000ivYcjAAE,Madison Gas & Electric Company,,
+11481,001o000000ivYciAAE,"Madison, City of",,
+11501,001o000000ivYchAAE,Magic Valley Electric Coop Inc,,
+4319,001o000000ivYcGAAU,Copan Public Works Authority,,
+11515,001o000000ivYcgAAE,Maiden Town of,,
+4327,001o000000ivYcFAAU,"Coosa Valley Electric Cooperative, Inc.",,
+11519,001o000000ivYcfAAE,Magnolia Electric Power Association,,
+4329,001o000000ivYcEAAU,"Copper Valley Elec Assn, Inc",,
+4341,001o000000ivYcDAAU,Corbin City Utilities Comm,,
+11540,001o000000ivYcdAAE,"Malden, City of",,
+4346,001o000000ivYcCAAU,Cooperative L&P Assn Lake Cnty,,
+11560,001o000000ivYccAAE,"Manassas, City of",,
+4356,001o000000ivYcBAAU,Colorado River Comm of Nevada,,
+11566,001o000000ivYcbAAE,"Mangum, City of",,
+4362,001o000000ivYcAAAU,Corn Belt Energy Corporation,,
+11568,001o000000ivYcaAAE,"Manilla, Town of",,
+4365,001o000000ivYc8AAE,"Cornelius, City of",,
+14203,001o000000ivYc7AAE,Osawatomie City of,,
+14214,001o000000ivYc6AAE,"Osborne, City of",,
+14229,001o000000ivYc4AAE,Ottawa City of,,
+14232,001o000000ivYc3AAE,Otter Tail Power Company,,
+14234,001o000000ivYc2AAE,"Ouzinkie, City of",,
+14245,001o000000ivYbzAAE,Overton Power District No 5,,
+14251,001o000000ivYbxAAE,Owen Electric Coop Inc,,
+14261,001o000000ivYbwAAE,Orleans Village of,,
+14285,001o000000ivYbrAAE,Ozark Border Electric Coop,,
+14288,001o000000ivYbqAAE,Ozark Electric Coop Inc,,
+7095,001o000000ivYaZAAU,Geneseo City of,,
+7096,001o000000ivYaYAAU,"Geneva, City of",,
+6894,001o000000ivYarAAE,"Gaffney, City of",,
+6907,001o000000ivYaqAAE,"Greendale, City of",,
+6909,001o000000ivYapAAE,Gainesville Regional Utilities,,
+NA5,001o000000ivYAnAAM,ATCO Electric,,
+6924,001o000000ivYanAAE,"Gallatin, City of",,
+6930,001o000000ivYamAAE,"Gallup, City of",,
+6931,001o000000ivYalAAE,"Galva, City of",,
+6941,001o000000ivYakAAE,"Garden City, City of",,
+6949,001o000000ivYajAAE,"Gardner, City of",,
+6950,001o000000ivYaiAAE,Garland Light & Power Company,,
+6970,001o000000ivYafAAE,"Garrett, City of",,
+7129,001o000000ivYaDAAU,"Georgetown, City of",,
+7024,001o000000ivYadAAE,Gascosage Electric Coop,,
+7048,001o000000ivYacAAE,"Geary, City of",,
+7084,001o000000ivYabAAE,"Declo, City of",,
+7090,001o000000ivYaaAAE,GreyStone Power Corporation,,
+7149,001o000000ivYa9AAE,"Gering, City of",,
+7184,001o000000ivYa8AAE,"Giddings, City of",,
+7194,001o000000ivYa7AAE,"Gilbert, City of",,
+7200,001o000000ivYa5AAE,"Gilman City, City of",,
+7222,001o000000ivYa4AAE,Gillette City of,,
+7249,001o000000ivYa3AAE,"Giltner, City of",,
+7257,001o000000ivYa1AAE,Girard City of,,
+7262,001o000000ivYa0AAE,"Glacier Electric Coop, Inc",,
+22814,001o000000ivY8nAAE,Raft River Rural Electric,,
+40299,001o000000ivY79AAE,Sussex Rural Electric Cooperative,,
+20576,001o000000ivY5PAAU,White River Electric Assn,,
+21081,001o000000ivY5OAAU,Yampa Valley Electric Assn,,
+11824,001o000000ivXZTAA2,"Matanuska Electric Association, Inc.",,
+11989,001o000000ivXZPAA2,McCone Electric Coop Inc,,
+12006,001o000000ivXZOAA2,"McCormick, Town of",,
+12070,001o000000ivXZNAA2,McDonough Power Coop,,
+12087,001o000000ivXZMAA2,McKenzie Electric Coop Inc,,
+12119,001o000000ivXZLAA2,McGrath Light & Power Co,,
+12208,001o000000ivXZHAA2,McPherson City of,,
+12242,001o000000ivXZGAA2,"Meade, City of",,
+12541,001o000000ivXZEAA2,"Medford, City of",,
+12268,001o000000ivXYEAA2,"Medina Electric Coop, Inc",,
+12286,001o000000ivXYDAA2,Melrose Public Utilities,,
+12289,001o000000ivXYCAA2,Meadow Town Corporation,,
+12292,001o000000ivXYBAA2,"Meadville, City of",,
+12294,001o000000ivXY9AAM,"Memphis, City of",,
+12312,001o000000ivXY6AAM,Merced Irrigation District,,
+12395,001o000000ivXY2AAM,Menard Electric Coop,,
+12406,001o000000ivXY0AAM,Miami-Cass County Rural E M C,,
+12450,001o000000ivXXxAAM,Midland Power Coop,,
+12485,001o000000ivXXVAA2,Middle Kuskokwim Elec Coop Inc,,
+12524,001o000000ivXXUAA2,Midwest Energy Inc,,
+12531,001o000000ivXXTAA2,Milan City of,,
+12539,001o000000ivXXSAA2,Midwest Electric Member Corp,,
+12580,001o000000ivXXPAA2,"Miller, City of",,
+12608,001o000000ivXXOAA2,"Milltown, Bourough of",,
+12616,001o000000ivXXLAA2,"Milton, City of",,
+12627,001o000000ivXXJAA2,"Mindenmines, City of",,
+12463,001o000000ivXXbAAM,"Mid-Yellowstone Electric Cooperative, Inc.",,
+12472,001o000000ivXXaAAM,Middle Georgia El Member Corp,,
+12674,001o000000ivXWqAAM,"Mishawaka, City of",,
+12692,001o000000ivXWmAAM,"Missoula Electric Co-op, Inc.",,
+12700,001o000000ivXWkAAM,Missouri Rural Electric Coop,,
+12706,001o000000ivXWjAAM,Mitchell Electric Member Corp,,
+12717,001o000000ivXWhAAM,Mitchell City of,,
+12744,001o000000ivXWgAAM,Modern Electric Water Company,,
+12782,001o000000ivXWeAAM,"Monett, City of",,
+12745,001o000000ivXsIAAU,Modesto Irrigation District,,
+14537,001o000000ivXRSAA2,Pascoag Utility District,,
+5109,001o000000ivXpWAAU,DTE Energy,,
+12901,001o000000ivXoMAAU,Mora San Miguel Electric Cooperative,,
+12803,001o000000ivXnqAAE,"Monroe County Elec Coop, Inc",,
+1101,001o000000ivXNQAA2,Bagley Public Utilities Commission,,
+219,001o000000ivXNpAAM,Alaska Power and Telephone Company,,
+12817,001o000000ivXnpAAE,Mont Alto Borough,,
+19435,001o000000ivXNPAA2,Union Electric Membership Corporation,,
+40208,001o000000ivXNoAAM,"Ark Valley Electric Cooperative Association, Inc.",,
+16674,001o000000ivXNOAA2,Satilla Rural Electric Membership Corporation,,
+12838,001o000000ivXnnAAE,"Montezuma, City of",,
+6395,001o000000ivXNMAA2,Flathead Electric Cooperative,,
+20510,001o000000ivXNLAA2,"Wheatland Electric Cooperative, Inc.",,
+12866,001o000000ivXnkAAE,"Moon Lake Electric Association, Inc.",,
+13830,001o000000ivXNJAA2,Nueces Electric Cooperative,,
+12892,001o000000ivXniAAE,"Mooreland, City of",,
+12301,001o000000ivXNIAA2,Nodak Electric Cooperative,,
+12896,001o000000ivXngAAE,"Morrill, City of",,
+176,001o000000ivXNGAA2,Ajo Improvement Co,,
+12899,001o000000ivXnfAAE,Mor-Gran-Sou Electric Coop Inc,,
+690,001o000000ivXNFAA2,"Bardstown, City of",,
+12900,001o000000ivXneAAE,"Mora, City of",,
+12909,001o000000ivXndAAE,"Moran, City of",,
+40221,001o000000ivXNDAA2,"Bedford Rural Electric Cooperative, Inc.",,
+12915,001o000000ivXncAAE,Moreau-Grand Electric Coop Inc,,
+12952,001o000000ivXnBAAU,"Morrill, Village of",,
+12919,001o000000ivXnbAAE,Morenci Water & Electric Co,,
+49998,001o000000ivXNBAA2,Berea Municipal Utility,,
+1857,001o000000ivXN9AAM,Block Island Power Company,,
+13025,001o000000ivXn9AAE,"Moulton, City of",,
+13029,001o000000ivXn8AAE,"Moundridge, City of",,
+13032,001o000000ivXn7AAE,Mt Carmel Public Utility Co,,
+13035,001o000000ivXn6AAE,Mount Hope City of,,
+13037,001o000000ivXn5AAE,"Mt Pleasant, City of",,
+13040,001o000000ivXn4AAE,"Mount Vernon, City of",,
+13044,001o000000ivXn3AAE,"Mountain Iron, City of",,
+13057,001o000000ivXmzAAE,"Mountain View, City of",,
+3236,001o000000ivXMZAA2,"Central Electric Cooperative, Inc. - (SD)",,
+13073,001o000000ivXmxAAE,"Mt Wheeler Power, Inc",,
+3315,001o000000ivXMXAA2,"Charles Mix Electric Cooperative, Inc.",,
+13090,001o000000ivXmwAAE,"Mullen, Village of",,
+13137,001o000000ivXmVAAU,Murray City Power,,
+13095,001o000000ivXmvAAE,"Mulvane, City of",,
+13149,001o000000ivXmTAAU,"Needles, City of",,
+13196,001o000000ivXmQAAU,Northern Plains Electric Cooperative,,
+13208,001o000000ivXmPAAU,Naperville City of,,
+1869,001o000000ivXMoAAM,"Bloomfield, City of",,
+13219,001o000000ivXmNAAU,"Nashwauk, City of",,
+13228,001o000000ivXmMAAU,"Natchitoches, City of",,
+2206,001o000000ivXMmAAM,"Brewster, City of",,
+13292,001o000000ivXmLAAU,Norris Electric Coop,,
+13314,001o000000ivXmKAAU,Navajo Tribal Utility Authority,,
+2277,001o000000ivXMkAAM,Broken Bow Utilities,,
+13318,001o000000ivXmJAAU,"Navopache Electric Coop, Inc",,
+2354,001o000000ivXMjAAM,Brown-Atchison Electric Cooperative Association,,
+13332,001o000000ivXmIAAU,"Navarro County Electric Co-op, Inc.",,
+2641,001o000000ivXMiAAM,Butler Rural Electric Cooperative,,
+13334,001o000000ivXmHAAU,"Nebraska City, City of",,
+13337,001o000000ivXmGAAU,Nebraska Public Power District,,
+3390,001o000000ivXMgAAM,Caddo Electric Cooperative,,
+2812,001o000000ivXMfAAM,"Calhoun, City of",,
+13375,001o000000ivXmEAAU,"Nelson, City of",,
+13380,001o000000ivXmDAAU,"Neodesha, City of",,
+2961,001o000000ivXMdAAM,"Caney Valley Electric Cooperative Association, Inc.",,
+3076,001o000000ivXMcAAM,"Carroll Electric Cooperative, Inc.",,
+3108,001o000000ivXMbAAM,"Cartersville, City of",,
+3597,001o000000ivXMBAA2,Citizens Electric Company,,
+40127,001o000000ivXM8AAM,Clarke-Washington EMC,,
+40289,001o000000ivXM7AAM,Claverack Rural Electric Cooperative,,
+3764,001o000000ivXM5AAM,Clearwater-Polk Electric Cooperative,,
+3774,001o000000ivXM4AAM,"Clewiston, City of",,
+3939,001o000000ivXM3AAM,College Park Power,,
+4146,001o000000ivXM1AAM,"Concho Valley Electric Cooperative, Inc.",,
+4153,001o000000ivXM0AAM,"Concordia Electric Cooperative, Inc.",,
+4390,001o000000ivXLzAAM,"Corona, City of",,
+13418,001o000000ivXlYAAU,New Braunfels Utilities,,
+4433,001o000000ivXLyAAM,"Covington, City of",,
+4975,001o000000ivXLYAA2,"Deep East Texas Electric Cooperative, Inc.",,
+19219,001o000000ivXLXAA2,Diverse Power Incorporated,,
+13423,001o000000ivXlWAAU,"New Carlisle, Town of",,
+5480,001o000000ivXLvAAM,"Danvers, Town of",,
+13441,001o000000ivXlUAAU,"New Hampshire Electric Cooperative, Inc.",,
+6710,001o000000ivXLUAA2,"Edenton, Town of",,
+13444,001o000000ivXlTAAU,"New Hampton, City of",,
+5742,001o000000ivXLTAA2,Eldridge City Utilities,,
+13465,001o000000ivXlRAAU,"Nielsville, City of",,
+5760,001o000000ivXLRAA2,"Elizabeth City, City of",,
+13466,001o000000ivXlQAAU,"New Lisbon, City of",,
+5832,001o000000ivXLQAA2,Elmhurst Mutual Power & Light Co.,,
+13468,001o000000ivXlPAAU,New London Municipal Utilities,,
+5841,001o000000ivXLPAA2,"Ely, City of",,
+13470,001o000000ivXlOAAU,"New Madrid, City of",,
+13477,001o000000ivXlNAAU,Nelson Lagoon Elec Coop Inc,,
+13480,001o000000ivXlMAAU,New Prague Utilities Comm,,
+6181,001o000000ivXLMAA2,"Farmers' Electric Cooperative, Inc.",,
+13483,001o000000ivXlLAAU,"New Roads, City of",,
+6198,001o000000ivXLLAA2,"Farmers' Electric Cooperative, Inc. of New Mexico",,
+13485,001o000000ivXlKAAU,New Smyrna Beach City of,,
+13488,001o000000ivXlJAAU,New Ulm Public Utilities Comm,,
+6390,001o000000ivXLJAA2,"Flandreau, City of",,
+6610,001o000000ivXLHAA2,"Fort Morgan, City of",,
+13382,001o000000ivXlbAAE,"Neola, City of",,
+13387,001o000000ivXlaAAE,"Nespelem Valley Electric Co-op, Inc.",,
+8780,001o000000ivXKxAAM,"Fox Islands Electric Cooperative, Inc.",,
+6708,001o000000ivXKvAAM,"Frankfort, City of",,
+6752,001o000000ivXKuAAM,"Frederick, Town of",,
+6782,001o000000ivXKtAAM,Freeborn-Mower Cooperative Services,,
+6965,001o000000ivXKsAAM,"Garnett, City of",,
+7374,001o000000ivXKrAAM,"Goodland, City of",,
+7561,001o000000ivXKpAAM,"Greenbelt Electric Cooperative, Inc.",,
+7750,001o000000ivXKoAAM,Guthrie County Rural Electric Cooperative,,
+8104,001o000000ivXKnAAM,"Hardwick, Town of",,
+8288,001o000000ivXKmAAM,"Hawarden, City of",,
+55982,001o000000ivXKlAAM,Heart of Texas Electric Cooperative Inc.,,
+8717,001o000000ivXKjAAM,"Holdrege, City of",,
+8761,001o000000ivXKiAAM,"Holmes-Wayne Electric Cooperative, Inc.",,
+8770,001o000000ivXKhAAM,"Holton, City of",,
+9087,001o000000ivXKgAAM,"Huntersville, Town of",,
+13495,001o000000ivXk4AAE,"Newfolden, City of",,
+13520,001o000000ivXk2AAE,"New-Mac Electric Cooperative, Inc.",,
+9246,001o000000ivXJZAA2,"Indian Electric Cooperative, Inc.",,
+13525,001o000000ivXjyAAE,Newberry Water & Light Board,,
+13527,001o000000ivXjxAAE,"Newburg, City of",,
+13547,001o000000ivXjvAAE,"Newnan Wtr, Sewer & Light Comm",,
+13560,001o000000ivXjuAAE,"Newton, City of",,
+9605,001o000000ivXJUAA2,Jackson Purchase Energy Corporation,,
+9665,001o000000ivXJTAA2,Jasper County Rural Electric Membership Corporation,,
+13570,001o000000ivXjsAAE,Ninnescah Rural E C A Inc,,
+9664,001o000000ivXJSAA2,"Jasper, City of",,
+13577,001o000000ivXjrAAE,"Nicholasville, City of",,
+9697,001o000000ivXJQAA2,"Jellico, City of",,
+9999,001o000000ivXJOAA2,Kankakee Valley Rural Electric Membership Corporation,,
+13610,001o000000ivXjnAAE,Niobrara Valley El Member Corp,,
+10170,001o000000ivXJNAA2,"Kiamichi Electric Cooperative, Inc.",,
+10324,001o000000ivXJMAA2,"Kings Mountain, City of",,
+10375,001o000000ivXJLAA2,"Kiwash Electric Cooperative, Inc.",,
+10433,001o000000ivXJKAA2,Kodiak Electric Association Inc.,,
+10454,001o000000ivXJJAA2,Kootenai Electric Cooperative,,
+15229,001o000000ivXIGAA2,"Poplar Bluff, City of",,
+15311,001o000000ivXIFAA2,Prague Public Works Authority,,
+13799,001o000000ivXHyAAM,"Prairie Land Electric Cooperative, Inc.",,
+7303,001o000000ivXHwAAM,Raccoon Valley Electric Cooperative,,
+26916,001o000000ivXHuAAM,"Ravalli County Electric Cooperative, Inc.",,
+16057,001o000000ivXHqAAM,"Rio Grande Electric Cooperative, Inc.",,
+16063,001o000000ivXHpAAM,"Rita Blanca Electric Cooperative, Inc.",,
+13646,001o000000ivXhOAAU,"Norcross, City of",,
+16259,001o000000ivXHoAAM,"Rolla, City of",,
+13647,001o000000ivXhNAAU,Noble County REMC,,
+16267,001o000000ivXHnAAM,"Rolling Hills Electric Cooperative, Inc.",,
+13675,001o000000ivXhLAAU,Nishnabotna Valley R E C,,
+17637,001o000000ivXhaAAE,"Southern Maryland Electric Cooperative, Inc.",,
+13679,001o000000ivXgzAAE,"North Attleborough, Town of",,
+13685,001o000000ivXgxAAE,"Niobrara Electric Assn, Inc",,
+13687,001o000000ivXgwAAE,North Carolina Eastern M P A,,
+13690,001o000000ivXgvAAE,North Central MO Elec Coop Inc,,
+13694,001o000000ivXguAAE,"North Central Elec Coop, Inc",,
+55959,001o000000ivXGtAAM,Roughrider Electric Cooperative,,
+16518,001o000000ivXGqAAM,"Sabetha, City of",,
+16627,001o000000ivXGnAAM,"San Patricio Electric Cooperative, Inc.",,
+16851,001o000000ivXGlAAM,SE-MA-NO Electric Cooperative,,
+17011,001o000000ivXGkAAM,Shawano Municipal Utilities,,
+17177,001o000000ivXGhAAM,"Sikeston, City of",,
+17265,001o000000ivXGgAAM,"Sioux Falls, City of",,
+17267,001o000000ivXGfAAM,Sioux Valley Energy,,
+40167,001o000000ivXGdAAM,"Somerset Rural Electric Cooperative, Inc.",,
+17577,001o000000ivXFxAAM,"South Sioux City, City of",,
+17603,001o000000ivXFwAAM,"Southeastern Electric Cooperative, Inc. - (OK)",,
+19293,001o000000ivXFvAAM,"Southeastern Electric Cooperative, Inc. - (SD)",,
+10624,001o000000ivXFtAAM,Southern Rivers Energy,,
+17732,001o000000ivXFqAAM,Spanish Fork City Corporation,,
+17899,001o000000ivXFpAAM,"St Paul, City of",,
+18051,001o000000ivXFnAAM,"Steilacoom, Town of",,
+18252,001o000000ivXFkAAM,"Sturgis, City of",,
+18316,001o000000ivXFjAAM,"Sumner-Cowley Electric Cooperative, Inc.",,
+18433,001o000000ivXFDAA2,Tahlequah Public Works Authority,,
+18203,001o000000ivXFCAA2,"Tallapoosa River Electric Cooperative, Inc.",,
+18847,001o000000ivXF9AAM,"Thomaston, City of",,
+18848,001o000000ivXF8AAM,"Thomasville, City of",,
+16751,001o000000ivXF6AAM,Three Rivers Electric Cooperative,,
+19032,001o000000ivXF5AAM,"Torrington, City of",,
+19396,001o000000ivXF4AAM,Tri-County Electric Cooperative Association,,
+40290,001o000000ivXF3AAM,"Tri-County Rural Electric Cooperative, Inc.",,
+19604,001o000000ivXEzAAM,USBIA-San Carlos Project,,
+19687,001o000000ivXExAAM,"Valley City, City of",,
+19947,001o000000ivXDZAA2,"Wadena, City of",,
+19981,001o000000ivXDYAA2,Wake Electric Membership Corporation,,
+19974,001o000000ivXDXAA2,"Wake Forest, Town of",,
+19979,001o000000ivXDWAA2,"Wakefield, Town of",,
+20038,001o000000ivXDVAA2,"Wallingford, Town of",,
+20187,001o000000ivXDRAA2,Watertown Municipal Utilities,,
+20259,001o000000ivXDOAA2,"Webster City, City of",,
+20318,001o000000ivXDNAA2,Webster Electric Cooperative,,
+40222,001o000000ivXDdAAM,"Valley Rural Electric Cooperative, Inc.",,
+19788,001o000000ivXDcAAM,"Vermillion, City of",,
+55962,001o000000ivXDbAAM,"Victorville, City of",,
+19896,001o000000ivXDaAAM,"Volga, City of",,
+20315,001o000000ivXCNAA2,"Wellington, City of",,
+20380,001o000000ivXCKAA2,"West Liberty, City of",,
+20382,001o000000ivXCJAA2,"West Memphis, City of",,
+20639,001o000000ivXCEAA2,"Wild Rice Electric Cooperative, Inc.",,
+21015,001o000000ivXCCAA2,"Wrangell, City of",,
+21114,001o000000ivXCBAA2,Yazoo Valley Electric Power Association,,
+3647,001o000000ivXC9AAM,"Claremore, City of",,
+4063,001o000000ivXC8AAM,"Co-Mo Electric Cooperative, Inc.",,
+22815,001o000000ivXC7AAM,Delta Electric Power Association,,
+6019,001o000000ivXC6AAM,"Eudora, City of",,
+16604,001o000000ivXbqAAE,CPS Energy,,
+11646,001o000000ivXbNAAU,"Marietta, City of",,
+11658,001o000000ivXbMAAU,"Marion, City of",,
+11691,001o000000ivXbLAAU,"Marlow, City of",,
+11701,001o000000ivXbJAAU,"Marquette, City of",,
+11790,001o000000ivXbAAAU,"Mascoutah, City of",,
+11793,001o000000ivXb9AAE,"Mason, City of",,
+13642,001o000000ivXAZAA2,Nome Joint Utility Systems,,
+13725,001o000000ivXAYAA2,"North Platte, City of",,
+13731,001o000000ivXAXAA2,"North Star Electric Cooperative, Inc.",,
+13783,001o000000ivXAWAA2,"Northeast Louisiana Power Cooperative, Inc.",,
+10625,001o000000ivXAgAAM,"Lamb County Electric Cooperative, Inc.",,
+12944,001o000000ivXAeAAM,"Morganton, City of",,
+8000,001o000000ivXAbAAM,NineStar Connect,,
+14159,001o000000ivX9SAAU,"Orange City, City of",,
+14199,001o000000ivX9QAAU,"Osage City, City of",,
+14202,001o000000ivX9PAAU,"Osceola Electric Cooperative, Inc.",,
+14446,001o000000ivX9NAAU,Paragould Light & Water Commission,,
+14500,001o000000ivX9MAAU,"Park Electric Cooperative, Inc.",,
+14505,001o000000ivX9LAAU,Parkland Light & Water Company,,
+14599,001o000000ivX9KAAU,"Paulding-Putman Electric Cooperative, Inc.",,
+14712,001o000000ivX9JAAU,"Pemiscot-Dunklin Electric Cooperative, Inc.",,
+14840,001o000000ivX9IAAU,"Peru, City of",,
+58139,001o000000ivX9FAAU,"Pickstown, Town of",,
+15062,001o000000ivX9EAAU,"Pineville, Town of",,
+15462,001o000000ivX9CAAU,"Pryor, City of",,
+17534,001o000000ivX9AAAU,"South Alabama Electric Cooperative, Inc.",,
+12452,001o000000ivX6GAAU,Mid-South Synergy,,
+10632,001o000000ivX17AAE,Lake Region Electric Association,,
+10713,001o000000ivX14AAE,"Larned, City of",,
+10770,001o000000ivX13AAE,"Laurinburg, City of",,
+11118,001o000000ivWzZAAU,Lockhart Power Company,,
+11142,001o000000ivWzWAAU,"Logansport, City of",,
+44372,001o000000ivWZwAAM,Oncor Electric Delivery,,
+11272,001o000000ivWzVAAU,Lower Yellowstone Rural Electric Association Inc.,,
+11305,001o000000ivWzUAAU,"Ludlow, Village of",,
+11318,001o000000ivWzTAAU,"Lumberton, City of",,
+11359,001o000000ivWzSAAU,"Lyndonville, Village of",,
+11488,001o000000ivWzQAAU,Madisonville Municipal Utilities,,
+11581,001o000000ivWzPAAU,"Manning, City of",,
+12090,001o000000ivWzOAAU,"McLean Electric Cooperative, Inc.",,
+10814,001o000000ivWzeAAE,"Le Sueur, City of",,
+10868,001o000000ivWzdAAE,"Leesburg, City of",,
+10982,001o000000ivWzcAAE,"Liberty, City of",,
+15045,001o000000ivWZbAAM,Pike County Light & Power Company,,
+10668,001o000000ivWzbAAE,Licking Rural Electric Inc.,,
+11022,001o000000ivWzaAAE,"Lincoln Electric Cooperative, Inc.",,
+719,001o000000ivWYQAA2,"Apex, Town of",,
+723,001o000000ivWYPAA2,"Aplington, City of",,
+12477,001o000000ivWyNAAU,"Middleton, Town of",,
+36189,001o000000ivWyMAAU,"Mid-Ohio Energy Cooperative, Inc.",,
+752,001o000000ivWYMAA2,"Arapahoe, City of",,
+12515,001o000000ivWyLAAU,"Midwest Electric, Inc.",,
+12546,001o000000ivWyKAAU,Mille Lacs Energy Cooperative,,
+789,001o000000ivWYJAA2,"Argos, Town of",,
+12897,001o000000ivWyIAAU,Moose Lake Water & Light Commission,,
+12989,001o000000ivWyHAAU,"Morrisville, Village of",,
+13026,001o000000ivWyGAAU,"Moultrie, City of",,
+13233,001o000000ivWyCAAU,"Neligh, City of",,
+13386,001o000000ivWyBAAU,"Nemaha-Marshall Electric Cooperative Association, Inc.",,
+803,001o000000ivWYAAA2,Arizona Public Service,,
+828,001o000000ivWY7AAM,"Arlington, City of",,
+14178,001o000000ivWy7AAE,"PKM Electric Cooperative, Inc.",,
+832,001o000000ivWY6AAM,"Arma, City of",,
+871,001o000000ivWY5AAM,"Arnold, Village of",,
+878,001o000000ivWY4AAM,Atmautluak Tribal Utilities,,
+902,001o000000ivWXJAA2,"Ashburnham, Town of",,
+906,001o000000ivWXIAA2,"Ashland, Town of",,
+918,001o000000ivWXGAA2,"Aspen, City of",,
+942,001o000000ivWXDAA2,Atchison-Holt Electric Cooperative,,
+965,001o000000ivWXBAA2,Atlantic Municipal Utilities,,
+989,001o000000ivWX9AAM,"Attica, City of",,
+993,001o000000ivWX8AAM,Auburn Board of Public Works,,
+998,001o000000ivWX5AAM,"Augusta, City of",,
+1002,001o000000ivWX4AAM,"Aurelia, City of",,
+1004,001o000000ivWX3AAM,"Aurora, City of",,
+17838,001o000000ivWwNAAU,"Spoon River Electric Coop, Inc",,
+17844,001o000000ivWwLAAU,Spring City Corporation,,
+17845,001o000000ivWwKAAU,"Springville, City of",,
+17860,001o000000ivWwJAAU,"St Charles, City of",,
+17868,001o000000ivWwGAAU,St Croix Electric Coop,,
+17872,001o000000ivWwFAAU,"St Francis, City of",,
+17874,001o000000ivWwEAAU,"St George, City of",,
+17876,001o000000ivWwDAAU,"St James, City of",,
+17879,001o000000ivWwCAAU,St John City of,,
+1015,001o000000ivWVxAAM,Austin Energy,,
+1024,001o000000ivWVwAAM,Ava City of,,
+1028,001o000000ivWVvAAM,"Avilla, Town of",,
+1033,001o000000ivWVuAAM,"Axtell, City of",,
+1036,001o000000ivWVtAAM,"Ayden, Town of",,
+1046,001o000000ivWVsAAM,Aztec City of,,
+1080,001o000000ivWVpAAM,"Badger, City of",,
+1119,001o000000ivWVoAAM,"Bainbridge, Town of",,
+1148,001o000000ivWVnAAM,"Baldwin City, City of",,
+1149,001o000000ivWVmAAM,Baldwin County Electric Member Corporation,,
+1170,001o000000ivWVkAAM,Bamberg Board of Public Works,,
+1172,001o000000ivWVjAAM,Bancroft Municipal Utilities,,
+1175,001o000000ivWViAAM,"Bandera Electric Coop, Inc",,
+1181,001o000000ivWVfAAM,"Bangor, City of",,
+17886,001o000000ivWv9AAE,"St Louis, City of",,
+17896,001o000000ivWv6AAE,"Shasta Lake, City of",,
+17898,001o000000ivWv5AAE,"Saint Paul, City of",,
+17918,001o000000ivWv4AAE,"St Robert, City of",,
+17924,001o000000ivWv3AAE,"Stafford, City of",,
+17979,001o000000ivWv2AAE,Stanton County Public Pwr Dist,,
+17983,001o000000ivWv1AAE,"Staples, City of",,
+18022,001o000000ivWuyAAE,"Statesville, City of",,
+18045,001o000000ivWuxAAE,"Steelville, City of",,
+18074,001o000000ivWuvAAE,"Stephenson, City of",,
+18085,001o000000ivWuuAAE,South Central Power Company,,
+18086,001o000000ivWutAAE,"Sterling, City of",,
+18100,001o000000ivWurAAE,Steuben County Rural E M C,,
+1196,001o000000ivWUJAA2,"Baraga, Village of",,
+1201,001o000000ivWUIAA2,Barbourville Utility Comm,,
+1205,001o000000ivWUHAA2,"Bardwell, City of",,
+1208,001o000000ivWUGAA2,"Bargersville, Town of",,
+1232,001o000000ivWUFAA2,"Barnesville, City of",,
+1276,001o000000ivWUEAA2,"Barrow Utils & Elec Coop, Inc",,
+1278,001o000000ivWUDAA2,"Barron, City of",,
+1279,001o000000ivWUCAA2,Barry Electric Coop,,
+1287,001o000000ivWUAAA2,"Bartlett, City of",,
+1299,001o000000ivWU9AAM,"Barton Village, Inc",,
+1301,001o000000ivWU8AAM,"Barton County Elec Coop, Inc",,
+1307,001o000000ivWU7AAM,Basin Electric Power Coop,,
+1324,001o000000ivWU6AAM,"Bastrop, City of",,
+1325,001o000000ivWU5AAM,"Batavia, City of",,
+1326,001o000000ivWU4AAM,"Bartley, Village of",,
+1346,001o000000ivWU2AAM,"Battle Creek, City of",,
+1367,001o000000ivWU0AAM,"Bayfield Electric Coop, Inc",,
+18126,001o000000ivWtXAAU,"Stilwell, City of",,
+18129,001o000000ivWtWAAU,"Stratton, City of",,
+18177,001o000000ivWtVAAU,Story City City of,,
+18199,001o000000ivWtUAAU,"Swisher Electric Coop, Inc",,
+18201,001o000000ivWtTAAU,"Stratford, City of",,
+18217,001o000000ivWt7AAE,"Stromsburg, City of",,
+18260,001o000000ivWt5AAE,Surprise Valley Electrification Corp.,,
+18280,001o000000ivWt2AAE,Sulphur Springs Valley Electric Coop.,,
+18282,001o000000ivWt1AAE,"Sumas, City of",,
+18301,001o000000ivWszAAE,"Sumner, City of",,
+18304,001o000000ivWsyAAE,"Sumter Electric Coop, Inc",,
+18305,001o000000ivWsxAAE,Sumter Electric Member Corp,,
+1374,001o000000ivWSuAAM,"Bayard, City of",,
+1387,001o000000ivWStAAM,"Benham, City of",,
+1417,001o000000ivWSsAAM,"Beartooth Electric Coop, Inc",,
+1427,001o000000ivWSrAAM,Beatrice City of,,
+1434,001o000000ivWSqAAM,Beaver City Corporation,,
+1458,001o000000ivWSpAAM,"Beauregard Electric Coop, Inc",,
+1494,001o000000ivWSoAAM,Belhaven Town of,,
+1512,001o000000ivWSnAAM,"Belleville, City of",,
+1515,001o000000ivWSlAAM,"Bellevue, City of",,
+1519,001o000000ivWSkAAM,Bellville City of,,
+1522,001o000000ivWSjAAM,"Belmont, Village of",,
+1525,001o000000ivWShAAM,"Beloit, City of",,
+1529,001o000000ivWSgAAM,"Beltrami Electric Coop, Inc",,
+1554,001o000000ivWSfAAM,"Benkelman, City of",,
+1566,001o000000ivWSeAAM,"Bennettsville, City of",,
+1573,001o000000ivWScAAM,"Benson, City of",,
+8366,001o000000ivWs7AAE,Heber Light & Power,,
+18397,001o000000ivWrZAAU,"Sylvania, City of",,
+18401,001o000000ivWrYAAU,"Sun River Electric Coop, Inc",,
+18403,001o000000ivWrXAAU,"Sylvester, City of",,
+18408,001o000000ivWrWAAU,"Syracuse, City of",,
+18428,001o000000ivWrVAAU,"Talmage, Village of",,
+1625,001o000000ivWRVAA2,Benton Rural Electric Assn,,
+1647,001o000000ivWRUAA2,"Bethany, City of",,
+18446,001o000000ivWrTAAU,T I P Rural Electric Coop,,
+1648,001o000000ivWRTAA2,"Bethany, Village of",,
+18448,001o000000ivWrSAAU,Tanner Electric Coop,,
+1650,001o000000ivWRSAA2,"Bethel, Village of",,
+18449,001o000000ivWrRAAU,Talquin Electric Cooperative,,
+18454,001o000000ivWrQAAU,Tampa Electric Company,,
+1671,001o000000ivWRQAA2,"Big Flat Electric Co-op, Inc.",,
+18466,001o000000ivWrPAAU,"Tarboro, Town of",,
+1675,001o000000ivWRPAA2,Big Horn Rural Electric Co,,
+18474,001o000000ivWrOAAU,Tanana Power Co Inc,,
+18330,001o000000ivWrfAAE,"Superior, City of",,
+18339,001o000000ivWreAAE,Surry-Yadkin Elec Member Corp,,
+1585,001o000000ivWRdAAM,"Benton, Village of",,
+18354,001o000000ivWrdAAE,"Sutton, City of",,
+1586,001o000000ivWRcAAM,"Bentonville, City of",,
+18360,001o000000ivWrcAAE,Suwannee Valley Elec Coop Inc,,
+1591,001o000000ivWRbAAM,"Big Country Electric Cooperative, Inc.",,
+1601,001o000000ivWRaAAM,"Beresford, City of",,
+18395,001o000000ivWraAAE,Sylacauga Utilities Board,,
+1683,001o000000ivWQyAAM,"Big Horn County Elec Coop, Inc",,
+18498,001o000000ivWq3AAE,Taylor County Rural E C C,,
+18525,001o000000ivWq2AAE,"Tecumseh, City of",,
+5078,001o000000ivWq0AAE,"Rayburn Country Elec Coop, Inc",,
+1708,001o000000ivWPxAAM,Big Sandy RECC,,
+1723,001o000000ivWPwAAM,"Big Bend Electric Coop, Inc",,
+18820,001o000000ivWpwAAE,"Thief River Falls, City of",,
+1726,001o000000ivWPvAAM,"Blue Mound, City of",,
+18895,001o000000ivWpvAAE,Thumb Electric Coop of Mich,,
+1747,001o000000ivWPsAAM,Birch Creek Village Elec Util,,
+1764,001o000000ivWPqAAM,Black Diamond Power Co,,
+18942,001o000000ivWpPAAU,Tipton Municipal Electric Util,,
+18944,001o000000ivWpOAAU,"Tontogany, Village of",,
+1769,001o000000ivWPoAAM,"Black Hills Electric Coop, Inc",,
+18945,001o000000ivWpNAAU,"Toronto, City of",,
+18947,001o000000ivWpMAAU,"Tipton, City of",,
+1779,001o000000ivWPmAAM,"Basin, Town of",,
+1780,001o000000ivWPlAAM,Black Warrior Elec Member Corp,,
+1795,001o000000ivWPkAAM,"Blackstone, Town of",,
+1800,001o000000ivWPjAAM,"Blackwell, City of",,
+1818,001o000000ivWPiAAM,"Blaine, City of",,
+18961,001o000000ivWpHAAU,Twin County Electric Pwr Assn,,
+1824,001o000000ivWPgAAM,"Bigelow, City of",,
+13640,001o000000ivWOxAAM,Northern Virginia Electric Cooperative,,
+19176,001o000000ivWnXAAU,"Tricounty Rural Elec Coop, Inc",,
+18962,001o000000ivWnqAAE,Twin Valley Electric Coop Inc,,
+18963,001o000000ivWnpAAE,"Inside Passage Elec Coop, Inc",,
+19016,001o000000ivWnnAAE,Tonopah Irrigation District,,
+19022,001o000000ivWnmAAE,Tongue River Electric Coop Inc,,
+19025,001o000000ivWnlAAE,"Tonkawa, City of",,
+19027,001o000000ivWnkAAE,"Tombigbee Electric Coop, Inc",,
+19060,001o000000ivWnjAAE,"Traverse Electric Coop, Inc",,
+19062,001o000000ivWniAAE,"Traer, City of",,
+19125,001o000000ivWnfAAE,"Traverse City, City of",,
+19150,001o000000ivWndAAE,Trenton Municipal Utilities,,
+1009,001o000000ivWmeAAE,Austin Utilities,,
+19189,001o000000ivWlUAAU,"Trico Electric Cooperative, Inc.",,
+19204,001o000000ivWlTAAU,"Trinidad, City of",,
+19237,001o000000ivWlPAAU,Truman Public Utilities Comm,,
+19267,001o000000ivWlNAAU,Tuntutuliak Comm Services Assn,,
+19277,001o000000ivWlLAAU,TDX North Slope Generating Co,,
+19281,001o000000ivWlKAAU,Turlock Irrigation District,,
+19308,001o000000ivWlJAAU,"Tuskegee, City of",,
+19332,001o000000ivWlGAAU,"Tyler, City of",,
+19344,001o000000ivWlFAAU,"Udall, City of",,
+19390,001o000000ivWlEAAU,"UGI Utilities, Inc",,
+19437,001o000000ivWlBAAU,Western Iowa Power Cooperative,,
+19445,001o000000ivWjYAAU,"Southern Indiana R E C, Inc",,
+19474,001o000000ivWjXAAU,"Unionville, City of",,
+19493,001o000000ivWjWAAU,Union County Electric Coop Inc,,
+19497,001o000000ivWjVAAU,United Illuminating Company,,
+19501,001o000000ivWjTAAU,"Union Rural Electric Coop, Inc",,
+19502,001o000000ivWjSAAU,"United Electric Co-op, Inc",,
+19578,001o000000ivWjOAAU,Upper Peninsula Power Company,,
+19581,001o000000ivWjNAAU,Upson Elec Member Corp,,
+19603,001o000000ivWjMAAU,USBIA-Mission Valley Power,,
+19677,001o000000ivWjLAAU,"Valentine, City of",,
+19702,001o000000ivWjJAAU,Van Buren Light & Power Dist,,
+19716,001o000000ivWjIAAU,"Vanceburg, City of",,
+19719,001o000000ivWjHAAU,"Yale, City of",,
+174,001o000000ivWIVAA2,Aitkin Public Utilities Comm,,
+182,001o000000ivWIUAA2,"Akron, City of",,
+191,001o000000ivWIRAA2,Alamo Power District No 3,,
+192,001o000000ivWHQAA2,Akiachak Native Community Electric Co,,
+198,001o000000ivWHOAA2,"Alton, City of",,
+202,001o000000ivWHMAA2,"Black Creek, Town of",,
+213,001o000000ivWHKAA2,Alaska Electric Light & Power Company,,
+221,001o000000ivWHIAA2,"Alaska Village Electric Cooperative, Inc.",,
+228,001o000000ivWHHAA2,"Albany, City of",,
+232,001o000000ivWHFAA2,"Albemarle, City of",,
+240,001o000000ivWHEAA2,Albemarle Electric Member Corporation,,
+19722,001o000000ivWhdAAE,"Vandalia, City of",,
+244,001o000000ivWHDAA2,"Albion, City of",,
+19785,001o000000ivWhcAAE,Verdigris Valley Elec Coop Inc,,
+266,001o000000ivWHBAA2,"Alpha, City of",,
+287,001o000000ivWH9AAM,"Alder Mutual Light Co, Inc",,
+289,001o000000ivWH8AAM,"Alexander City, City of",,
+296,001o000000ivWFUAA2,"Alfalfa Electric Cooperative, Inc.",,
+298,001o000000ivWFTAA2,"Alexandria, City of",,
+308,001o000000ivWFQAA2,"Acworth, City of",,
+309,001o000000ivWFPAA2,"Algona, City of",,
+366,001o000000ivWFMAA2,"Allendale, City of",,
+367,001o000000ivWFLAA2,"Alliance, City of",,
+385,001o000000ivWFKAA2,"Alma, City of",,
+392,001o000000ivWFJAA2,Alpena Power Co,,
+405,001o000000ivWFIAA2,"Alta, City of",,
+406,001o000000ivWFHAA2,Altamont City of,,
+416,001o000000ivWFEAA2,"Altus, City of",,
+432,001o000000ivWFDAA2,"Alta Vista, City of",,
+19790,001o000000ivWeDAAU,Verendrye Electric Coop Inc,,
+482,001o000000ivWECAA2,"Alvarado, City of",,
+554,001o000000ivWEBAA2,"Ames, City of",,
+588,001o000000ivWE8AAM,Anadarko Public Works Auth,,
+19806,001o000000ivWe8AAE,"Victoria Electric Coop, Inc",,
+19813,001o000000ivWe7AAE,Vernon Electric Coop,,
+599,001o000000ivWE6AAM,Anchorage Municipal Light & Power,,
+19820,001o000000ivWe6AAE,Victory Electric Coop Assn Inc,,
+604,001o000000ivWE5AAM,"Andalusia, City of",,
+19840,001o000000ivWe5AAE,Valley Electric Association,,
+636,001o000000ivWE4AAM,"Anderson, City of",,
+19843,001o000000ivWe4AAE,Villisca City of,,
+19865,001o000000ivWe2AAE,Vinton City of,,
+682,001o000000ivWE1AAM,"Anita, City of",,
+19866,001o000000ivWe1AAE,"Vinton, Town of",,
+19882,001o000000ivWe0AAE,Virginia Tech Electric Service,,
+691,001o000000ivWDzAAM,"Anoka, City of",,
+694,001o000000ivWDyAAM,Anza Electric Cooperative,,
+695,001o000000ivWDxAAM,"Ansley, City of",,
+700,001o000000ivWDwAAM,"Anthon, City of",,
+19952,001o000000ivWdwAAE,"Waelder, City of",,
+701,001o000000ivWDvAAM,"Anthony, City of",,
+19968,001o000000ivWdvAAE,Wahoo City of,,
+20226,001o000000ivWcZAAU,"Watertown, City of",,
+20189,001o000000ivWcYAAU,"Waterville, City of",,
+20196,001o000000ivWcWAAU,"Watonga, City of",,
+20025,001o000000ivWcoAAE,"Wall Lake, City of",,
+20063,001o000000ivWcnAAE,"Walthill, Village of",,
+20065,001o000000ivWcmAAE,Walton Electric Member Corporation,,
+20134,001o000000ivWcjAAE,"Warroad, City of",,
+20141,001o000000ivWcgAAE,Washington City of,,
+20150,001o000000ivWceAAE,"Washington Electric Coop, Inc",,
+20153,001o000000ivWcdAAE,"Washington Island El Coop, Inc",,
+20163,001o000000ivWcbAAE,Wagoner Public Works Authority,,
+20169,001o000000ivWcaAAE,Avista Utilities,,
+20212,001o000000ivWbJAAU,"Wauneta, Village of",,
+20219,001o000000ivWbHAAU,"Wayne, City of",,
+17633,001o000000ivW5mAAE,Vectren Corporation,,
+15938,001o000000ivW51AAE,Rice Electric Utilities,,
+15943,001o000000ivW50AAE,"Rich Hill, City of",,
+16022,001o000000ivW4wAAE,Reynolds Village of,,
+16068,001o000000ivW4uAAE,Rising Sun City of,,
+16092,001o000000ivW4rAAE,"Riverton, Village of",,
+16101,001o000000ivW4qAAE,Roanoke Electric Cooperative,,
+16105,001o000000ivW4pAAE,"Riverdale, City of",,
+16113,001o000000ivW4oAAE,"Robersonville, City of",,
+16135,001o000000ivW4nAAE,"Robinson, City of",,
+16140,001o000000ivW4mAAE,"Robertsdale, City of",,
+16146,001o000000ivW4lAAE,"Navasota Valley Electric Cooperative, Inc.",,
+16175,001o000000ivW4kAAE,"Robstown, City of",,
+16179,001o000000ivW4iAAE,Rochelle Municipal Utilities,,
+16198,001o000000ivW43AAE,"Rock Falls, City of",,
+16206,001o000000ivW42AAE,Rock Rapids Municipal Utility,,
+16226,001o000000ivW40AAE,"Rocky Mount, City of",,
+16284,001o000000ivW3zAAE,"Roseau Electric Coop, Inc",,
+16285,001o000000ivW3yAAE,"Roseau, City of",,
+16286,001o000000ivW3xAAE,Rosebud Electric Coop Inc,,
+16382,001o000000ivW3uAAE,"Rural Electric Coop, Inc",,
+16416,001o000000ivW3tAAE,Rupert City of,,
+16420,001o000000ivW3sAAE,Rural Electric Conven Coop,,
+16427,001o000000ivW3rAAE,"Rushford, City of",,
+16451,001o000000ivW3oAAE,"Rushmore, City of",,
+16461,001o000000ivW3nAAE,"Rusk County Electric Coop, Inc",,
+16463,001o000000ivW39AAE,"Ruston, City of",,
+16496,001o000000ivW38AAE,Rutherford Electric Member Corporation,,
+16511,001o000000ivW37AAE,Sac-Osage Electric Coop Inc,,
+16528,001o000000ivW36AAE,"Sabula, City of",,
+16534,001o000000ivW34AAE,Sacramento Municipal Utility District,,
+16538,001o000000ivW33AAE,"Safford, City of",,
+16560,001o000000ivW2yAAE,"Salisbury, City of",,
+16565,001o000000ivW2xAAE,Salmon River Electric Coop Inc,,
+16587,001o000000ivW2vAAE,Salt River Electric Cooperative,,
+16609,001o000000ivW2uAAE,San Diego Gas & Electric,,
+16610,001o000000ivW2tAAE,Scribner City of,,
+16622,001o000000ivW29AAE,"San Miguel Power Assn, Inc",,
+16628,001o000000ivW27AAE,Sanborn City of,,
+16638,001o000000ivW26AAE,"San Bernard Electric Coop, Inc",,
+16648,001o000000ivW25AAE,"Santa Clara, City of",,
+16667,001o000000ivW23AAE,Sargent City of,,
+16679,001o000000ivW22AAE,"Sauk Centre, City of",,
+16740,001o000000ivW1zAAE,Scenic Rivers Energy Cooperative,,
+16759,001o000000ivW1yAAE,"Sheridan Electric Coop, Inc",,
+16765,001o000000ivW1xAAE,"Schulenburg, City of",,
+16778,001o000000ivW1wAAE,"Schuyler, City of",,
+16805,001o000000ivW1kAAE,SEMO Electric Cooperative,,
+16821,001o000000ivW1jAAE,Sam Rayburn Municipal Pwr Agny,,
+16830,001o000000ivW1iAAE,"Scottsburg, City of",,
+16834,001o000000ivW1hAAE,"Scranton, City of",,
+16845,001o000000ivW1gAAE,"Shickley, Village of",,
+16864,001o000000ivW0rAAE,Seaside Heights City of,,
+16868,001o000000ivW0qAAE,Seattle City Light,,
+16873,001o000000ivW0pAAE,"Sebewaing, City of",,
+16876,001o000000ivW0oAAE,"Savonburg, City of",,
+16900,001o000000ivW0nAAE,Seguin City of,,
+16914,001o000000ivW0mAAE,"Selma, Town of",,
+16920,001o000000ivW0lAAE,Sedgwick Cnty El Coop Assn Inc,,
+16922,001o000000ivW0kAAE,"Seneca, City of",,
+16932,001o000000ivW0jAAE,Sergeant Bluff City of,,
+16992,001o000000ivW0cAAE,"Stanton, City of",,
+17004,001o000000ivW0bAAE,"Sharpsburg, Town of",,
+17035,001o000000ivVzsAAE,"Shelbina, City of",,
+17040,001o000000ivVzrAAE,"Shelby Electric Cooperative, Inc.",,
+17074,001o000000ivVzpAAE,"Shelly, City of",,
+17101,001o000000ivVzmAAE,"Shiner, City of",,
+17141,001o000000ivVzkAAE,"Sibley, City of",,
+17149,001o000000ivVzjAAE,"Sidney, City of",,
+17184,001o000000ivVziAAE,"Siloam Springs, City of",,
+17252,001o000000ivVzgAAE,Singing River Electric Cooperative,,
+17261,001o000000ivVzeAAE,Slope Electric Coop Inc,,
+17271,001o000000ivVzbAAE,Sitka City & Borough of,,
+17279,001o000000ivVzaAAE,Skamania Co PUD,,
+17553,001o000000ivVyYAAU,"South Coffeyville, Town of",,
+17286,001o000000ivVyqAAE,Skiatook Town of,,
+17290,001o000000ivVypAAE,Slash Pine Elec Member Corp,,
+17320,001o000000ivVyoAAE,Sleepy Eye Public Utility Comm,,
+17451,001o000000ivVymAAE,"Smithfield, Town of",,
+17453,001o000000ivVylAAE,Smithville City of,,
+17470,001o000000ivVyjAAE,Snohomish County PUD,,
+17493,001o000000ivVyhAAE,"Soda Springs, City of",,
+17497,001o000000ivVygAAE,"Snyder, City of",,
+16606,001o000000ivVycAAE,Santee Cooper,,
+17548,001o000000ivVybAAE,South Central Public Pwr Dist,,
+19791,001o000000ivVxtAAE,Vermont Electric Cooperative,,
+17561,001o000000ivVxRAAU,South Plains Electric Cooperative,,
+17564,001o000000ivVxPAAU,South Kentucky Rural E C C,,
+17569,001o000000ivVxOAAU,"South Norwalk, City of",,
+17571,001o000000ivVxNAAU,"South River, Bourough of",,
+17576,001o000000ivVxMAAU,"South Side Electric, Inc",,
+17585,001o000000ivVxKAAU,"Southeastern Illinois Electric Coop, Inc",,
+17593,001o000000ivVxIAAU,"Southeast Electric Coop, Inc",,
+17609,001o000000ivVxGAAU,Southern California Edison,,
+17631,001o000000ivVxDAAU,Southern Illinois Power Coop,,
+17642,001o000000ivVxBAAU,Southern Public Power District,,
+59,001o000000ivVwoAAE,"Abbeville, City of",,
+87,001o000000ivVwmAAE,"Ada, City of",,
+97,001o000000ivVwlAAE,Adams Electric Cooperative,,
+108,001o000000ivVwkAAE,Adams-Columbia Electric Coop,,
+118,001o000000ivVwhAAE,"Adams Rural Electric Cooperative, Inc.",,
+17643,001o000000ivVwGAAU,"Southern Iowa Elec Coop, Inc",,
+17646,001o000000ivVwFAAU,"Southern Pine Elec Coop, Inc",,
+122,001o000000ivVwfAAE,"Arcade, Village of",,
+17647,001o000000ivVwEAAU,Southern Pine Electric Power Association,,
+17681,001o000000ivVwDAAU,Southwest Rural Elec Assn Inc,,
+149,001o000000ivVwdAAE,"Afton, City of",,
+17684,001o000000ivVwCAAU,Southwest Louisiana E M C,,
+150,001o000000ivVwcAAE,Adrian Public Utilities Commission,,
+17692,001o000000ivVwBAAU,Southwest Public Power Dist,,
+17693,001o000000ivVwAAAU,"Southwest Texas Elec Coop, Inc",,
+157,001o000000ivVwaAAE,"Advance, Town of",,
+17697,001o000000ivVw9AAE,Southwestern Electric Coop Inc,,
+17727,001o000000ivVw7AAE,"Spalding, Village of",,
+17754,001o000000ivVw6AAE,"Summerfield, Town of",,
+17787,001o000000ivVw4AAE,"Spencer, City of",,
+17790,001o000000ivVw2AAE,"Spiceland, Town of",,
+17823,001o000000ivVw1AAE,"Spring Grove, City of",,
+17824,001o000000ivVw0AAE,Spring Valley Pub Utils Comm,,
+17827,001o000000ivVvyAAE,Springer Town of,,
+16971,001o000000ivVvnAAE,Shakopee Public Utilities Commission,,
+19490,001o000000ivVvMAAU,"United Cooperative Services, Inc.",,
+16613,001o000000ivVvlAAE,Sam Houston Electric Cooperative Inc.,,
+9336,001o000000ivVvKAAU,Intermountain Rural Electric Association,,
+17008,001o000000ivVvkAAE,Sharyland Utilities LP,,
+8571,001o000000ivVvJAAU,"High Point, Town of",,
+40212,001o000000ivVvjAAE,Colquitt Electric Membership Corporation,,
+18976,001o000000ivVviAAE,Trinity Valley Electric Cooperative,,
+3841,001o000000ivVvhAAE,Coast Electric Power Association,,
+3600,001o000000ivVvFAAU,Citizens Electric Corporation,,
+38084,001o000000ivVvEAAU,Great Lakes Energy,,
+6443,001o000000ivVTVAA2,"Florida Keys Electric Cooperative Association, Inc.",,
+15497,001o000000ivVTIAA2,Puerto Rico Electric Power Authority,,
+15672,001o000000ivVrSAAU,Ralls County Electric Coop,,
+15686,001o000000ivVrRAAU,"Rantoul, Village of",,
+15573,001o000000ivVrrAAE,"Quitman, City of",,
+15700,001o000000ivVrQAAU,Rayle Electric Membership Corp,,
+15619,001o000000ivVrqAAE,"Radford, City of",,
+15621,001o000000ivVrpAAE,"Radiant Electric Coop, Inc",,
+15746,001o000000ivVrOAAU,Red River Valley REA,,
+15665,001o000000ivVroAAE,"Randall, City of",,
+15751,001o000000ivVrLAAU,"Readlyn, City of",,
+15772,001o000000ivVrKAAU,Red Bud City of,,
+15776,001o000000ivVrJAAU,Reedy Creek Improvement District,,
+15793,001o000000ivVrGAAU,Redwood Falls Public Util Comm,,
+15845,001o000000ivVrFAAU,Renville-Sibley Coop Pwr Assn,,
+15846,001o000000ivVrEAAU,"Remsen, City of",,
+15860,001o000000ivVrCAAU,"Rensselaer, City of",,
+7716,001o000000ivVR2AAM,Groton Utilities,,
+15862,001o000000ivVqmAAE,"Renwick, City of",,
+15923,001o000000ivVqkAAE,"Pond Creek, City of",,
+1886,001o000000ivVMyAAM,Blue Grass Energy,,
+9750,001o000000ivVI8AAM,Jo-Carroll Energy,,
+17900,001o000000ivVhYAAU,"Saint Peter, City of",,
+24590,001o000000ivVg4AAE,Unitil Energy Systems,,
+20136,001o000000ivVg3AAE,"Waseca, City of",,
+15989,001o000000ivVEWAA2,"Richmond, City of",,
+NA2,001o000000ivVD6AAM,BC Hydro,,
+17612,001o000000ivVD2AAM,Bear Valley Electric Service,,
+55787,001o000000ivVC5AAM,Moreno Valley Electric Utility,,
+15473,001o000000ivVbEAAU,Public Service Company of New Mexico,,
+6616,001o000000ivVaOAAU,Fort Pierce Utilities Authority,,
+16572,001o000000iRT8xAAG,Salt River Project,,
+NA9,0011J00001GPAhJQAX,ENMAX Corporation,,
+NA7,0011J00001FFj4QQAT,"EPCOR Utilities, Inc.",,
+13788,0011J00001DX1ZyQAL,Northern Wasco County PUD,,
+21533,0011J00001DX1ZXQA1,"Minneapolis, City of",,
+13749,0011J00001DX1ZwQAL,"NorVal Electric Cooperative, Inc",,
+13664,0011J00001DX1ZvQAL,Norris Public Power District,,
+12476,0011J00001DX1ZUQA1,Town of Middletown,,
+12167,0011J00001DX1ZSQA1,"McLeansboro, City of",,
+13561,0011J00001DX1ZqQAL,City of Newton - (NC),,
+11844,0011J00001DX1ZQQA1,Matinicus Plantation Electric Company,,
+13566,0011J00001DX1ZpQAL,NEWTON COUNTY Rural Electric Membership Corporation,,
+22355,0011J00001DX1ZPQA1,PUD No 1 of Mason County,,
+13530,0011J00001DX1ZoQAL,"Newkirk, City of",,
+13933,0011J00001DX1ZOQA1,"Oak City, City of",,
+13286,0011J00001DX1ZnQAL,New Hampton Village Precinct,,
+11588,0011J00001DX1ZNQA1,"Manti, City of",,
+13205,0011J00001DX1ZmQAL,"New Enterprise R E C, Inc",,
+11372,0011J00001DX1ZKQA1,"Lyons, City of",,
+13201,0011J00001DX1ZjQAL,"Naknek Electric Assn, Inc",,
+11333,0011J00001DX1ZJQA1,"Luverne, City of (AL)",,
+10542,0011J00001DX1ZHQA1,"La Porte City, City of",,
+12851,0011J00001DX1ZgQAL,"Monticello, City of",,
+11093,0011J00001DX1ZFQA1,"Livermore, City of",,
+12839,0011J00001DX1ZeQAL,Montezuma (IA),,
+11085,0011J00001DX1ZEQA1,Littleton Town of,,
+12801,0011J00001DX1ZdQAL,City of Monroe - (NC),,
+12797,0011J00001DX1ZcQAL,"Monroe City, City of",,
+10966,0011J00001DX1ZCQA1,City of Lexington - (NC),,
+49826,0011J00001DX1ZbQAL,Mohegan Tribal Utility Authority,,
+9880,0011J00001DX1ZBQA1,"Jonesville, City of",,
+21538,0011J00001DX1ZaQAL,Mohave Electric Cooperative,,
+10830,0011J00001DX1ZAQA1,City of Lebanon - (OH),,
+10832,0011J00001DX1Z9QAL,"Lebanon, City of (MO)",,
+11021,0011J00001DX1Z7QAL,Lincoln County Power Dist No 1,,
+10685,0011J00001DX1Z5QAL,Lanesboro Public Utility Comm,,
+10628,0011J00001DX1Z4QAL,"Lakin, City of",,
+10570,0011J00001DX1Z2QAL,"Lafayette, City of (AL)",,
+10525,0011J00001DX1Z1QAL,La Farge Municipal Electric Co,,
+10447,0011J00001DX1YxQAL,Kosciusko City of,,
+17802,0011J00001DX1YwQAL,Spiro Town of,,
+10065,0011J00001DX1YuQAL,KBR Rural Public Power District,,
+9667,0011J00001DX1YsQAL,"Jasper, City of (IN)",,
+18887,0011J00001DX1VKQA1,"Thorntown, Town of",,
+8924,0011J00001DX1VJQA1,Howard Greeley Rural Public Power District,,
+8825,0011J00001DX1VHQA1,Hookerton Town of,,
+8801,0011J00001DX1VGQA1,Hondo City of,,
+8714,0011J00001DX1VDQA1,Holden Town of,,
+40356,0011J00001DX1VCQA1,Holbrook Village of,,
+8567,0011J00001DX1VAQA1,"Higginsville, City of",,
+10229,0011J00001DX1V9QAL,Hickman City of NE,,
+59505,0011J00001DX1V8QAL,Heartland REMC,,
+8279,0011J00001DX1V6QAL,"Haven, City of",,
+8192,0011J00001DX1V5QAL,"Harrison Rural Elec Assn, Inc",,
+8183,0011J00001DX1V4QAL,"Harmon Electric Association, Inc",,
+7907,0011J00001DX1V3QAL,"Hagerstown, City of",,
+7639,0011J00001DX1V2QAL,Greenville Utilities Comm,,
+7515,0011J00001DX1V0QAL,"Grantville, City of",,
+7485,0011J00001DX1UzQAL,"Grant, City of",,
+15050,0011J00001DX1UZQA1,Electrical Dist No5 Pinal Cnty,,
+7480,0011J00001DX1UyQAL,"Granbury, City of",,
+30518,0011J00001DX1UYQA1,Electrical Dist No3 Pinal Cnty,,
+7442,0011J00001DX1UxQAL,Grafton Electric,,
+15048,0011J00001DX1UXQA1,Electrical Dist No2 Pinal County,,
+7444,0011J00001DX1UwQAL,"Grafton, City of (ND)",,
+20192,0011J00001DX1UWQA1,"Wathena, City of",,
+7548,0011J00001DX1UuQAL,PUD No 1 of Grays Harbor County,,
+5350,0011J00001DX1UUQA1,"Dorchester, Village of",,
+20534,0011J00001DX1UtQAL,"Whigham, City of",,
+5154,0011J00001DX1UTQA1,"Dighton, City of",,
+7131,0011J00001DX1UsQAL,Georgetown Village of,,
+6396,0011J00001DX1USQA1,"Flatonia, City of",,
+4919,0011J00001DX1URQA1,"Dayton, City of",,
+6715,0011J00001DX1UoQAL,City of Franklin - (VA),,
+4791,0011J00001DX1UOQA1,"Danville, City of",,
+6627,0011J00001DX1UnQAL,"Fosston, City of",,
+4739,0011J00001DX1UNQA1,"Dallas, Town of",,
+6316,0011J00001DX1UmQAL,Fillmore City Corporation,,
+6154,0011J00001DX1UjQAL,Fairview City Corp,,
+4344,0011J00001DX1UJQA1,"Cordell, City of",,
+5928,0011J00001DX1UhQAL,"Etna Green, Town of",,
+24486,0011J00001DX1UHQA1,Akutan City of,,
+26317,0011J00001DX1UGQA1,"Manokotak, City of",,
+5932,0011J00001DX1UfQAL,"Ephraim, City of",,
+14832,0011J00001DX1UFQA1,Native Village of Perryville,,
+5839,0011J00001DX1UeQAL,"Elwood, City of",,
+40548,0011J00001DX1UDQA1,Unalakleet Valley Elec Coop,,
+5732,0011J00001DX1UcQAL,"Elbow Lake, City of",,
+3735,0011J00001DX1UCQA1,"Colman, City of",,
+5728,0011J00001DX1UbQAL,"Elba, City of",,
+16605,0011J00001DX1UBQA1,"San Augustine, City of",,
+3726,0011J00001DX1U9QAL,Clay Electric Coop Inc,,
+21108,0011J00001DX1U7QAL,"Yoakum, City of",,
+30856,0011J00001DX1U6QAL,"Winnfield, City of",,
+20393,0011J00001DX1U5QAL,"West Point, City of",,
+20430,0011J00001DX1U4QAL,"Westbrook, City of",,
+20297,0011J00001DX1U3QAL,"Weiser, City of",,
+19828,0011J00001DX1U2QAL,"Vidalia, City of",,
+18933,0011J00001DX1U1QAL,"Timpson, City of",,
+18806,0011J00001DX1U0QAL,"Thayer, City of",,
+18224,0011J00001DX1TzQAL,"Stroud, City of",,
+8459,0011J00001DX1TZQA1,"Henning, City of",,
+6609,0011J00001DX1TYQA1,Fort Meade City of,,
+17312,0011J00001DX1TxQAL,"Slater, Cit of",,
+5036,0011J00001DX1TXQA1,Delta Municipal,,
+17037,0011J00001DX1TwQAL,City of Shelby - (NC),,
+3986,0011J00001DX1TVQA1,"Collinsville, City of",,
+14583,0011J00001DX1TuQAL,"Pawnee, City of",,
+3957,0011J00001DX1TUQA1,"Collins, City of",,
+14474,0011J00001DX1TtQAL,"Park River, City of (ND)",,
+3459,0011J00001DX1TTQA1,"Chewelah, City of",,
+14196,0011J00001DX1TrQAL,"Ortonville, City of",,
+3040,0011J00001DX1TRQA1,"Carmi, City of",,
+14151,0011J00001DX1TqQAL,"Opp, City of",,
+1826,0011J00001DX1TQQA1,Blakely City of,,
+13971,0011J00001DX1TpQAL,"Odessa, City of",,
+1753,0011J00001DX1TPQA1,Biwabik City of,,
+13523,0011J00001DX1ToQAL,City of Newberry - (SC),,
+123,0011J00001DX1TOQA1,"Adel, City of",,
+12114,0011J00001DX1TnQAL,"McGregor, City of",,
+20880,0011J00001DX1TNQA1,"Wisner, City of",,
+11965,0011J00001DX1TmQAL,City of McCleary,,
+20618,0011J00001DX1TMQA1,"Wickenburg, Town of",,
+11578,0011J00001DX1TlQAL,"Mannford, Town of",,
+11475,0011J00001DX1TkQAL,City of Madison,,
+15674,0011J00001DX1TKQA1,Randolph City of,,
+11460,0011J00001DX1TjQAL,"Macon, City of (MO)",,
+13681,0011J00001DX1TJQA1,"North Branch, City of",,
+10532,0011J00001DX1TiQAL,La Grange City of TX,,
+10970,0011J00001DX1ThQAL,Lexington City of OK,,
+10533,0011J00001DX1TfQAL,La Harpe City of,,
+10571,0011J00001DX1TeQAL,Lafayette City of GA,,
+11035,0011J00001DX1TEQA1,"Lincolnton, City of",,
+9599,0011J00001DX1TdQAL,"Jackson, City of (MN)",,
+10536,0011J00001DX1TDQA1,La Junta Municipal,,
+9573,0011J00001DX1TcQAL,Jackson City of GA,,
+6915,0011J00001DX1TCQA1,Galena Electric Utility,,
+1353,0011J00001DX1TBQA1,Baudette City of,,
+8698,0011J00001DX1TaQAL,Hogansville City of,,
+3405,0011J00001DX1TAQA1,"Chatham, Village of",,
+2810,0011J00001DX1T2QAL,"Caledonia, City of",,
+7973,0011J00001DX1SyQAL,Hamersville Village of,,
+2287,0011J00001DX1SxQAL,"Brooklyn, City of",,
+1775,0011J00001DX1SwQAL,Black River Electric Coop MO,,
+2135,0011J00001DX1SuQAL,"Brady, City of",,
+1698,0011J00001DX1SsQAL,Big Stone City,,
+1615,0011J00001DX1SrQAL,"Berlin, Town of",,
+1581,0011J00001DX1SqQAL,"Benton, AR",,
+10455,0011J00001DX1SpQAL,Kokhanok Village Council,,
+1251,0011J00001DX1SnQAL,Barron Electric Cooperative,,
+2236,0011J00001DX1SlQAL,"Brinson, Town of",,
+907,0011J00001DX1SjQAL,"Ashland, City of",,
+831,0011J00001DX1SiQAL,Arlington City of SD,,
+1000,0011J00001DX1ShQAL,Augusta City of AR,,
+408,0011J00001DX1SfQAL,"Altamont, City of",,
+58123,0011J00001DX1ScQAL,Aha Macav Power Service,,
+8628,0011J00001DX1SaQAL,"Hillsboro, City of (ND)",,
+21664,0011J00001DX1d7QAD,Willwood Light & Power Company,,
+20061,0011J00001DX1d6QAD,Walters Public Works Authority,,
+20071,0011J00001DX1d5QAD,"Walstonburg, Town of",,
+19333,0011J00001DX1d3QAD,"Tyndall, City of",,
+18250,0011J00001DX1d1QAD,"Straughn, Town of",,
+17946,0011J00001DX1d0QAD,"Stanberry, City of",,
+764,0011J00001DX1cZQAT,Arcadia City of KS,,
+229,0011J00001DX1cYQAT,"Albany City, City of",,
+17045,0011J00001DX1cyQAD,"Sharon, City of (ND)",,
+21514,0011J00001DX1cXQAT,"Flowell Electric Association, Inc.",,
+16988,0011J00001DX1cxQAD,"Sharon Springs, City of",,
+21143,0011J00001DX1cWQAT,Yuma Municipal,,
+21095,0011J00001DX1cVQAT,Public Serv Comm of Yazoo City,,
+16487,0011J00001DX1cvQAD,"Ryan, Town of",,
+30150,0011J00001DX1cUQAT,Yakutat Power Inc,,
+16269,0011J00001DX1cuQAD,"Roodhouse, City of",,
+21056,0011J00001DX1cTQAT,"Wymore, City of",,
+26894,0011J00001DX1ctQAD,"Radium, City of",,
+13966,0011J00001DX1csQAD,"Olustee, City of",,
+13782,0011J00001DX1crQAD,"New Ross, Town of",,
+20836,0011J00001DX1cQQAT,"Winterville, City of",,
+11541,0011J00001DX1cqQAD,"Manitou, City of",,
+11346,0011J00001DX1cpQAD,Lyman Village of,,
+56535,0011J00001DX1cOQAT,"Williams City, City of",,
+10881,0011J00001DX1coQAD,Lehigh City of,,
+20641,0011J00001DX1cNQAT,"Wilcox, Village of",,
+26120,0011J00001DX1cnQAD,Langford Town of,,
+40435,0011J00001DX1cMQAT,"White City, City of",,
+10330,0011J00001DX1cmQAD,Kingsford Heights Municipal Electric Utility,,
+20396,0011J00001DX1cLQAT,West Point Utility System,,
+9973,0011J00001DX1ckQAD,"Kahoka, City of",,
+9022,0011J00001DX1cjQAD,Hubbell City of,,
+7441,0011J00001DX1ciQAD,Goltry Public Works Authority,,
+20111,0011J00001DX1cHQAT,WARREN COUNTY Rural Electric Membership Corporation,,
+6896,0011J00001DX1chQAD,"Galt, City of",,
+5397,0011J00001DX1cgQAD,"Dunnell, City of",,
+5741,0011J00001DX1cfQAD,"Eldorado, City of",,
+20180,0011J00001DX1cEQAT,"Waterloo, City of",,
+20142,0011J00001DX1cDQAT,City of Washington - (NC),,
+2534,0011J00001DX1ccQAD,"Burke, City of",,
+20110,0011J00001DX1cBQAT,"Warren, City of",,
+1435,0011J00001DX1cbQAD,Beaver City City of NE,,
+40223,0011J00001DX1cAQAT,Warren Electric Coop Inc,,
+56256,0011J00001DX1caQAD,Atka City of,,
+20021,0011J00001DX1c9QAD,"Walkerton, Town of",,
+15327,0011J00001DX1c8QAD,Wahkiakum County PUD,,
+15773,0011J00001DX1c2QAD,"Red Cloud, City of",,
+5927,0011J00001DX1c1QAD,"Endicott, Village of",,
+20480,0011J00001DX1c0QAD,Village of Westfield,,
+7715,0011J00001DX1bZQAT,"Groton, Town of",,
+18954,0011J00001DX1bzQAD,"Trenton, City of",,
+1571,0011J00001DX1bXQAT,Benson Town of,,
+16062,0011J00001DX1bxQAD,"Ripley, Village of",,
+3230,0011J00001DX1bVQAT,"Centerville, Town of",,
+40367,0011J00001DX1bvQAD,Ladd Village of,,
+40051,0011J00001DX1bUQAT,Texas-New Mexico Power Co,,
+19771,0011J00001DX1btQAD,"Veedersburg, Town of",,
+18901,0011J00001DX1bSQAT,Thurmont Municipal Light Company,,
+15443,0011J00001DX1bRQAT,"Providence, City of",,
+18805,0011J00001DX1bPQAT,"Thatcher, Town of",,
+19321,0011J00001DX1boQAD,"Two Harbors, City of",,
+19264,0011J00001DX1bnQAD,"Tulia, City of",,
+18546,0011J00001DX1bMQAT,"Templeton, Town of",,
+18524,0011J00001DX1bLQAT,Tecumseh Utility Authority,,
+6735,0011J00001DX1blQAD,"Troy, Town of (IN)",,
+19225,0011J00001DX1bkQAD,"Troy, City of (AL)",,
+19131,0011J00001DX1bjQAD,Trinity Public Utility District,,
+18955,0011J00001DX1biQAD,Tri-County Electric Coop Inc,,
+19161,0011J00001DX1bHQAT,Tri-County Electric Cooperative,,
+27369,0011J00001DX1bGQAT,Taylor Electric Coop Inc,,
+20826,0011J00001DX1bgQAD,"Winnsboro, City of",,
+18456,0011J00001DX1bFQAT,"Tarentum, Borough of",,
+20792,0011J00001DX1bfQAD,"Winamac, Town of",,
+49986,0011J00001DX1bEQAT,Southwest Iowa Rural Electric Cooperative,,
+17981,0011J00001DX1bdQAD,"Stantonsburg, Town of",,
+18368,0011J00001DX1bCQAT,Swans Island Electric Cooperative Inc.,,
+16788,0011J00001DX1bcQAD,"Scotland Neck, Town of",,
+15116,0011J00001DX1bbQAD,"Pittsboro, Town of",,
+11376,0011J00001DX1baQAD,Lyons Town of,,
+18204,0011J00001DX1b9QAD,"Strawberry Point, City of",,
+18137,0011J00001DX1b7QAD,"Stockton, City of",,
+17889,0011J00001DX1b6QAD,"St. Martinsville, City of",,
+17877,0011J00001DX1b5QAD,"St. James, City of",,
+18063,0011J00001DX1b4QAD,"Stephen, City of",,
+40440,0011J00001DX1b1QAD,"Stanton, City of (ND)",,
+27269,0011J00001DX1b0QAD,"Stanhope, City of",,
+17834,0011J00001DX1ayQAD,Springfield Municipal,,
+15778,0011J00001DX1aXQAT,"Red Springs, Town of",,
+17589,0011J00001DX1axQAD,"South Whitley, Town of",,
+15983,0011J00001DX1aWQAT,Richland Electric Coop,,
+15728,0011J00001DX1aVQAT,"Rayne, City of",,
+17668,0011J00001DX1avQAD,Southport City of,,
+15698,0011J00001DX1aUQAT,Raton Public Service Company,,
+40456,0011J00001DX1aTQAT,PUD No 1 of Whatcom County,,
+15419,0011J00001DX1aSQAT,PUD No 3 of Mason County,,
+17894,0011J00001DX1asQAD,"St. Mary's, City of",,
+15377,0011J00001DX1aQQAT,"Primghar, City of",,
+17046,0011J00001DX1apQAD,"Shelby, City of",,
+NA13,0011J00001DX1aNQAT,Port of Stockton - (CA),,
+40291,0011J00001DX1anQAD,"Sullivan County R E C, Inc",,
+28981,0011J00001DX1amQAD,"San Saba, City of",,
+15134,0011J00001DX1aLQAT,"Plankinton, City of",,
+16647,0011J00001DX1alQAD,"Sanger, City of",,
+6613,0011J00001DX1aKQAT,"Fountain, Town of",,
+16637,0011J00001DX1akQAD,"Sandersville, City of",,
+15073,0011J00001DX1aJQAT,Pioneer Electric Coop Inc.,,
+16555,0011J00001DX1aiQAD,Salem Electric - (OR),,
+15051,0011J00001DX1aHQAT,City of Pine Bluffs,,
+16557,0011J00001DX1ahQAD,Salem City Corp,,
+14841,0011J00001DX1aGQAT,Peterson City of,,
+14839,0011J00001DX1aFQAT,"Peru, City of (IN)",,
+14581,0011J00001DX1aDQAT,"Paw Paw, Village of",,
+40382,0011J00001DX1adQAD,"Rock Port, City of",,
+14577,0011J00001DX1aCQAT,"Paullina, City of",,
+27026,0011J00001DX1acQAD,"Round Lake, City of",,
+16219,0011J00001DX1abQAD,"Rockville, Town of",,
+16223,0011J00001DX1aaQAD,"Rockford, City of",,
+14435,0011J00001DX1a9QAD,"Paoli, Town of",,
+14433,0011J00001DX1a8QAD,"Panora, City of",,
+14324,0011J00001DX1a7QAD,PUD No 2 of Pacific County,,
+14277,0011J00001DX1a6QAD,"Oxford, Village of",,
+40369,0011J00001DX1a4QAD,"Oxford, City of",,
+14166,0011J00001DX1a3QAD,"Orient, City of",,
+13990,0011J00001DX1a1QAD,"Ogden, City of",,
+13964,0011J00001DX1a0QAD,Oconto Electric Cooperative,,
+10005,0011J00001Cumv5QAB,Kansas Gas and Electric Company,,
+20847,0011J00001Cumv4QAB,Wisconsin Electric Power Company,,
+20455,0011J00001CumuxQAB,Massachusetts Electric Company,,
+9191,0011J00001CumuuQAB,Idaho Power Co.,,
+1572,0011J00001CumumQAB,Badger Power Marketing Authority,,
+20910,0011J00001Cumu2QAB,"Wolverine Power Supply Co-op, Inc.",,
+40307,0011J00001Cumu1QAB,"Prarie Power, Inc.",,
