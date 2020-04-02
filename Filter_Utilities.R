@@ -19,10 +19,10 @@ library(maptools)
 library(RForcecom)
 
 #Login to Salesforce
-username <- "jvanzalk@sepapower.org"
-password <- "SEPA2019WIfWAglPLQZYyyrAcQ6klSgu"
-loginURL <- "https://login.salesforce.com/"
-apiVersion <- "46.0"
+username <- ""
+password <- ""
+loginURL <- ""
+apiVersion <- ""
 session <- rforcecom.login(username, password, loginURL, apiVersion)
 
 #Load the shapefiles to Spatial Point Data Frame (SPDF) by referncing the basename (layer)
