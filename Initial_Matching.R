@@ -1,51 +1,41 @@
-#!/usr/bin/Rscript
-
-#Load required packages
-library(leaflet)
+#Load rgdal for importing and exporting geospatial data
 library(rgdal)
-library(rgeos)
-library(sf)
-library(rdrop2)
-library(maptools)
 
-## Load GeoJSON
+#Make sure GeoJSON is in ogrDrivers list
 "GeoJSON" %in% ogrDrivers()$name
 
+#Read GeoJSON in as spatial dataframe (spdf)
 url <- "https://opendata.arcgis.com/datasets/c4fd0b01c2544a2f83440dab292f0980_0.geojson"
 file <- "utility_territories.geojson"
 download.file(url, file)
 utility_territories <- readOGR(dsn = "utility_territories.geojson", layer = "utility_territories")
 
-#create extra spdf so we don't have to reload
+#Create an extra spdf so if a mistake is made, we don't have to reload
 spdf_extra<-utility_territories
 
-##Load csv of map IDs and SF IDs
+#Load csv of mapped Salesforce ids
 sf_data<- read.csv("Carbon_Reduction_Tracker/Utility_Territory_Matching.csv", header= T)
 
-##Merge
-#Force same number of columns before and after keep all ~2900
+#Merge territories with Salesforce ids, keeping all ~2900 polygons
 utility_territories <-merge(x = utility_territories, y = sf_data, by = "ID", all.x= TRUE)
 
-##Clean up accts
-#remove utilites that have no matches in salesforce or are canadian
+#Now remove utilites that have no match in Salesforce or are Canadian
 utility_territories <-utility_territories[!is.na(utility_territories@data$Account.Name), ]
 utility_territories <-utility_territories[utility_territories@data$COUNTRY!="CAN", ]
 
+#Remove unwanted columns
 utility_territories <-utility_territories[-c(2,4:36)]
 
-all_territories_data <- utility_territories@data
-
-
+#Create a seperate dataframe of all utilties that have a parent company
 territories_w_parent <-utility_territories[utility_territories@data$Parent.Name!="", ]
 
-
-
-##Merge polygons by parents
+#Merge polygons by parents
+#If a parent has a goal, we want all of it's child utilties to show up on the map
 parent_territories <- aggregate(territories_w_parent,
                              by = list(territories_w_parent@data$Parent.Name),
                              FUN=head, 1)
 
-##Combine spdfs
+#Combine parent territories with single teritories
 #Reformat columns to match
 parent_territories <- parent_territories[c(6,7)]
 names(parent_territories@data) <- c("ID", "Name")
@@ -55,6 +45,6 @@ names(utility_territories@data) <- c("ID", "Name")
 
 utility_territories<-rbind(utility_territories,parent_territories, makeUniqueIDs = TRUE)
 
-##Save
+#Save
 writeOGR(utility_territories, dsn="Carbon_Reduction_Tracker/all_territories", layer="all_territories", driver="ESRI Shapefile")
 
