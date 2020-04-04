@@ -2,8 +2,10 @@
 library(rgdal)#Loading and writing spatial data
 library(RForcecom)#Querying Saleforce
 
+#Import salesforce credentials
+call_service(sf_username, sf_password, sf_loginURL, sf_apiVersion)
 #Authenticate to Salesforce
-session <- rforcecom.login(username, password, loginURL, apiVersion)
+session <- rforcecom.login(sf_username, sf_password, sf_loginURL, sf_apiVersion)
 
 #Load the shapefiles from Initial_Matching.R to spdf by referncing the basename (layer)
 utility_shapes <- readOGR(dsn="/home/rstudio/Carbon_Reduction_Tracker/all_territories", layer = "all_territories")
