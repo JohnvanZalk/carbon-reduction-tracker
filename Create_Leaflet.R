@@ -26,7 +26,7 @@ names(utility_data) <-c("Name","Utility Type","State", "Emission Reduction Targe
 write.csv(utility_data,"Carbon_Reduction_Tracker/table.csv", row.names = FALSE)
 
 #Authenticate to AWS
-Sys.setenv("AWS_ACCESS_KEY_ID" = "","AWS_SECRET_ACCESS_KEY" = "")
+Sys.setenv("AWS_ACCESS_KEY_ID" = "<insert access key>","AWS_SECRET_ACCESS_KEY" = "<insert secret>")
 
 #Upload csv
 put_object(file = "Carbon_Reduction_Tracker/table.csv", object = "tracker_data.csv", bucket = "sepa-utility-crt")
