@@ -25,8 +25,11 @@ utility_data <- emission_shapes@data[-c(1,3,6,9:11)]
 names(utility_data) <-c("Name","Utility Type","State", "Emission Reduction Target Year","Emission Reduction Goal")
 write.csv(utility_data,"Carbon_Reduction_Tracker/table.csv", row.names = FALSE)
 
+#Import AWS credentials
+call_service(AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY)
+
 #Authenticate to AWS
-Sys.setenv("AWS_ACCESS_KEY_ID" = "<insert access key>","AWS_SECRET_ACCESS_KEY" = "<insert secret>")
+Sys.setenv("AWS_ACCESS_KEY_ID" = AWS_ACCESS_KEY_ID, "AWS_SECRET_ACCESS_KEY" = AWS_SECRET_ACCESS_KEY)
 
 #Upload csv
 put_object(file = "Carbon_Reduction_Tracker/table.csv", object = "tracker_data.csv", bucket = "sepa-utility-crt")
