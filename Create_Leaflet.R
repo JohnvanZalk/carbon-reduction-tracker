@@ -8,7 +8,7 @@ library(htmlwidgets) #Turning a map into an html file
 library(aws.s3) #Writing objects to AWS S3
 
 #Read shapefiles produced in Filter_Utilities.R
-utility_shapes <- readOGR(dsn = "Carbon_Reduction_Tracker/filtered_territories", layer = "filtered_territories")
+utility_shapes <- readOGR(dsn = "/filtered_territories", layer = "filtered_territories")
 names(utility_shapes@data) <-c("ID","Name","SEPA_Sub_Organization_Type__c","BillingState", "Has_Emission_Reduction_Goal__c", "Emission_Reduction_Target_Year__c", "Emission_Reduction_Goal__c")
 data <-utility_shapes@data
 
@@ -32,7 +32,7 @@ call_service(AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY)
 Sys.setenv("AWS_ACCESS_KEY_ID" = AWS_ACCESS_KEY_ID, "AWS_SECRET_ACCESS_KEY" = AWS_SECRET_ACCESS_KEY)
 
 #Upload csv
-put_object(file = "Carbon_Reduction_Tracker/table.csv", object = "tracker_data.csv", bucket = "sepa-utility-crt")
+put_object(file = "table.csv", object = "tracker_data.csv", bucket = "sepa-utility-crt")
 
 #Store leaflet in utility_map object
 utility_map <- leaflet() %>%
