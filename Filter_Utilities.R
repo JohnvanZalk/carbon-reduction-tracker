@@ -8,7 +8,7 @@ call_service(sf_username, sf_password, sf_loginURL, sf_apiVersion)
 session <- rforcecom.login(sf_username, sf_password, sf_loginURL, sf_apiVersion)
 
 #Load the shapefiles from Initial_Matching.R to spdf by referncing the basename (layer)
-utility_shapes <- readOGR(dsn="/home/rstudio/Carbon_Reduction_Tracker/all_territories", layer = "all_territories")
+utility_shapes <- readOGR(dsn="/all_territories", layer = "all_territories")
 
 #Retrieve goals from utility accounts in Salesforce
 AccountQuery<- "SELECT Account_18_Digit_ID__c,Has_Carbon_Reduction_Tracker_Goal__c,SEPA_Sub_Organization_Type__c,BillingState,Has_Emission_Reduction_Goal__c,Emission_Reduction_Target_Year__c,Emission_Reduction_Goal__c FROM Account WHERE Has_Carbon_Reduction_Tracker_Goal__c = TRUE"
@@ -28,7 +28,7 @@ file.remove("Carbon_Reduction_Tracker/filtered_territories/filtered_territories.
 file.remove("Carbon_Reduction_Tracker/filtered_territories/filtered_territories.shx")
 
 #Save
-writeOGR(utility_shapes, dsn="Carbon_Reduction_Tracker/filtered_territories", layer= "filtered_territories", driver="ESRI Shapefile")
+writeOGR(utility_shapes, dsn="/filtered_territories", layer= "filtered_territories", driver="ESRI Shapefile")
 
 #to see shapes run: plot(utility_shapes, lwd=0.3)
  
