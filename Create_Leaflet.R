@@ -23,7 +23,7 @@ emission_shapes@data$Name <- toupper(emission_shapes@data$Name)
 #Create csv
 utility_data <- emission_shapes@data[-c(1,3,6,9:11)]
 names(utility_data) <-c("Name","Utility Type","State", "Emission Reduction Target Year","Emission Reduction Goal")
-write.csv(utility_data,"Carbon_Reduction_Tracker/table.csv", row.names = FALSE)
+write.csv(utility_data,"table.csv", row.names = FALSE)
 
 #Import AWS credentials
 call_service(AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY)
@@ -48,9 +48,9 @@ utility_map <- leaflet() %>%
                             "<b style='color: #223a6f;font-family: Arial'>Emission Reduction Goal:</b>","<span style='color: #223a6f;font-family: Arial'>",emission_shapes@data$Emission_Reduction_Goal__c,"</span>"))
 
 #Save map as html
-htmlwidgets::saveWidget(utility_map,"/home/rstudio/Carbon_Reduction_Tracker/map.html")
+htmlwidgets::saveWidget(utility_map,"map.html")
 
 #Upload html
-put_object(file = "/home/rstudio/Carbon_Reduction_Tracker/map.html", object = "map.html", bucket = "sepa-utility-crt")
+put_object(file = "map.html", object = "map.html", bucket = "sepa-utility-crt")
 
 
