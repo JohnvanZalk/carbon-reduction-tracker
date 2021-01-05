@@ -20,7 +20,3 @@ Note: Due to file size restraints, the shapefiles have not been uploaded to this
 **Create Leaflet Map:** A leaflet map is created from the filtered polygons. The leaflet output is saved as an html file. This file and a csv are pushed to AWS S3.
 
 The unique S3 object url for the map is Iframed to Wordpress. The csv is available for download by completing a form.
-
-## Future Development
-The current version of the Carbon Reduction Tracker was built under cost contraints. Once funding is available, it will be migrated to Tableau.
-
