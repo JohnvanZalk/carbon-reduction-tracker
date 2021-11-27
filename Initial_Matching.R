@@ -46,5 +46,5 @@ names(utility_territories@data) <- c("ID", "Name")
 utility_territories<-rbind(utility_territories,parent_territories, makeUniqueIDs = TRUE)
 
 #Save
-writeOGR(utility_territories, dsn="Carbon_Reduction_Tracker/all_territories", layer="all_territories", driver="ESRI Shapefile")
+writeOGR(utility_territories, dsn="all_territories", layer="all_territories", driver="ESRI Shapefile")
 
